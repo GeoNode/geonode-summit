@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fiumicino Airport (FCO)",
+        "type": "airport",
+        "description": "Rome's main airport.  Fly into here.  Do not fly into Ciampino unless you really know what you are doing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.25235, 41.7934]
+      }
+    }
+  ]
+}

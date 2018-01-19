@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "World Food Programme (WFP)\nHeadquarters",
+        "type": "building",
+        "description": "The headquarters of WFP.  The GeoNode Summit will be held at WFP on Wednesday and Thursday."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.40772, 41.82114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Holiday Inn Rome - Eur Parco Dei Medici",
+        "type": "building",
+        "description": "Holiday Inn Rome. The Presentations Day of the GeoNode Summit will be held at Holiday Inn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.412079, 41.822929]
+      }
+    }
+  ]
+}
