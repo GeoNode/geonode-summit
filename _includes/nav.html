@@ -1,0 +1,17 @@
+<div id="header-wrapper">
+	<div id="header">
+		<h1><a href="{{ site.baseurl }}/">GeoNode Summit 2016</a></h1>
+		<nav id="nav">
+			<ul>
+			  {% assign current = page.url | downcase | split: '/' %}
+				<li><a href="{{ site.baseurl }}/">Home</a></li>
+				{% include nav/about.html %}
+				{% include nav/logistics.html %}
+				{% include nav/schedule.html %}
+        {% include nav/workshops.html %}
+				<li><a href="{{ site.baseurl }}/speakers" >Speakers</a></li>
+				{% include nav/twitter.html %}
+			</ul>
+		</nav>
+	</div>
+</div>

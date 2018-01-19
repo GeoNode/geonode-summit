@@ -1,0 +1,19 @@
+{% include header.html %}
+<body>
+{% include nav.html %}
+<div id="main-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="12u">
+				<article class="box post">
+					<header>
+						<h2>{{ page.title }}</h2>
+						<p>{{ page.subtitle }}</p>
+					</header>
+					{{ page.content }}
+				</article>
+			</div>
+		</div>
+	</div>
+</div>
+{% include footer.html %}

@@ -1,0 +1,123 @@
+name: GeoNode Summit 2016
+title: GeoNode Summit 2016
+description: "Main website of GeoNode Summit 2016"
+future: True
+logo: "/assets/img/hiu_logo.png"
+#markdown: redcarpet
+timezone: America/New_York
+permalink: none
+# Local Dev
+#baseurl:
+#url: http://localhost:8000
+#destination: _site
+# GitHub Pages
+#baseurl: /geonode-summit-2016
+#url: http://geonode.org/geonode-summit-2016
+#destination: _site
+# Production
+baseurl:
+url: http://summit.geonode.org
+destination: _site
+
+# Explicit excludes, including dotfiles to be safe
+exclude: [.DS_Store, .git, .gitignore, .vagrant, Gruntfile.js, Vagrantfile, package.json, node_modules, backups, _assets/img/src-images]
+
+# General
+edit: true
+code: "https://github.com/geonode/geonode-summit-2016"
+branch: "gh-pages"
+disclaimer: ""
+privacy: ""
+copyright: ""
+
+# Analytics
+ga:
+  enabled: true
+  code: "UA-38570723-1"
+
+# Twitter
+twittercard:
+  enabled: true
+  site: "@GeoNode"
+
+# Open Graph
+opengraph:
+  enabled: true
+
+# Debugging & Testing
+debug:
+  monolith: true
+
+# Dependencies Management
+deps:
+  angular:
+    version: "1.4.0-beta.4"
+  jquery:
+    version: "1.11.3"
+
+# Document & Media Storage
+storage:
+  bio_pics: "/assets/img/bios"
+
+handles:
+  twitter:
+    class: fa fa-twitter
+    baseurl: https://twitter.com/
+  github:
+    class: fa fa-github
+    baseurl: https://github.com/
+  linkedin:
+    class: fa fa-linkedin
+    baseurl: https://www.linkedin.com/in/
+
+# GeoNode Summit
+geonode_summit_2016:
+  link:
+    gallery: http://geonode.org/gallery/
+  featured:
+    title: TBD
+    image: "/assets/img/lightning-earth.png"
+    description: TBD
+  contacts:
+    - name: WFP Emergency Preparedness and Support Response Division
+      email: hq.gis@wfp.org
+  sponsors:
+    - image: /assets/img/logos/geonode_logo_white.png
+      alt: GeoNode Logo
+      link: http://geonode.org
+    - image: /assets/img/logos/wfp_hq_gis_logo.png
+      alt: WFP HQ GIS Logo
+      link: http://wfp.org
+  schedule:
+    - id: monday
+      title: Monday, November 28
+      location: World Food Programme (WFP) - 7th Floor Rooftop
+      theme: Pre-Conference Triage
+      collapsed: "true"
+      color: "gray"
+    - id: tuesday
+      title: Tuesday, November 29
+      location: World Food Programme (WFP)
+      theme: Workshops Day
+      color: "default"
+    - id: wednesday
+      title: Wednesday, November 30
+      location: Holiday Inn Rome - Eur Parco Dei Medici - Diana Room
+      theme: Presentations Day
+      color: "default"
+    - id: thursday
+      title: Thursday, December 1
+      location: World Food Programme (WFP) - Delegates Lounge (Ground Floor)
+      theme: Roadmapping Day
+      color: "default"
+    - id: friday
+      title: Friday, December 2
+      location: World Food Programme (WFP) - Delegates Lounge (Ground Floor)
+      theme: Prioritization
+      collapsed: "true"
+      color: "gray"
+  tech:
+    - id: core
+      title: Core Technology Under the Hood
+    - id: development
+      title: Under Development
