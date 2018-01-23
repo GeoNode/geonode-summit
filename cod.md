@@ -10,8 +10,6 @@ __This "Don't be a jerk" policy is a shortened, more casual version of the longe
 
 Professional ideas and information are exchanged most effectively at the Summit in an atmosphere free of abuse or harassment and characterized by courtesy and respect. To that end, the organizers expects all individuals who attend to conduct themselves in a manner that establishes an atmosphere free from discriminatory practices.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
-
 
 ######Contacts:
 
