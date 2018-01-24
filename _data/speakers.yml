@@ -1,4 +1,13 @@
 -
+  id: 0
+  name: "John"
+  surname: "Doe"
+  company: "ACME"
+  title: "Developer"
+  bio: ""
+  thumbnailUrl: default.jpg
+  rockstar: true
+-
   id: 3
   name: "Simone"
   surname: "Dalmasso"
@@ -54,5 +63,4 @@
   thumbnailUrl: piero.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
