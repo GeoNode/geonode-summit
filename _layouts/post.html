@@ -1,29 +1,43 @@
-{% include header.html %}
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
 <body>
-{% include nav.html %}
-<div id="main-wrapper">
-	<div class="container">
-		<div class="row">
-			<div class="12u">
+    <div id="preloader" class="preloader">
+        <div class="loader-gplus"></div>
+    </div>
+    
+    <div id="st-container" class="st-container">
+        <div class="st-pusher">
+            <div class="st-content">
 
-			<!-- Blog -->
-				<section>
-					<header class="major">
-						<h2>{{ page.title }}</h2>
-						<p>Posted {{ page.date | date_to_string }}</p>
-					</header>
-					<div class="row">
-						<div class="8u -2u">
-							<section class="box">
-								<a href="#" class="image featured"><img src="{{ site.baseurl }}{{ page.featured }}" alt="" /></a>
-								{{ page.content }}
-							</section>
-						</div>
-					</div>
-				</section>
+                {% include top-section.html %}
 
-			</div>
-		</div>
-	</div>
-</div>
-{% include footer.html %}
+                {% include post.html isStaticPost=page.isStaticPost %} 
+                
+                {% include footer.html %}
+
+            </div>
+        </div>
+    </div>
+
+    {% include analytics.html %}
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js " | prepend: site.baseurl }}><\/script>')
+    </script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script>
+        if (typeof ($.fn.modal) === 'undefined') {
+            document.write('<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}><\/script>')
+        }
+    </script>
+    <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
+    <script>Waves.displayEffect();</script>
+    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    {% include schema-event.html %}
+</body>
+
+</html>
