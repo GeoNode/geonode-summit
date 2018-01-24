@@ -7,53 +7,71 @@
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  place: "OGR?"
   service: true
 -
   id: 001
-  title: "TBD001"
+  title: "Users Workshop"
   description: "TBD"
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [99]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
 -
   id: 002
-  title: "TBD002"
+  title: "Developers Workshop"
   description: "TBD"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [99]
   language: en
   complexity: "Intermediate"
   presentation: "#"
   video: "#"
 -
   id: 003
-  title: "TBD003"
-  description: "TBD"
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "TBD004"
-  description: "TBD"
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "TBD005"
+  title: "Welcome"
   description: "TBD"
   subtype: keynote
   speakers: [7]
   language: en
+  complexity: "Beginner"
+-
+  id: 004
+  title: "3-4 Presentations"
+  description: "TBD"
+  subtype: keynote
+  speakers: [99]
+  language: en
+  complexity: "Beginner"
+-
+  id: 005
+  title: "Code Sprint"
+  description: "TBD"
+  subtype: workshop
+  speakers: [99]
+  language: en
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "User-centered design session 1"
+  description: "TBD"
+  subtype: workshop
+  speakers: [99]
+  language: en
+  complexity: "Beginner"
+-
+  id: 007
+  title: "User-centered design session 2"
+  description: "TBD"
+  subtype: workshop
+  speakers: [99]
+  language: en
+  complexity: "Beginner"
+-
+  id: 008
+  title: "Roadmap Discussion"
+  description: "TBD"
+  subtype: workshop
+  speakers: [99]
+  language: en
+  complexity: "Beginner"
