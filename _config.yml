@@ -25,8 +25,8 @@ organizerName: "ITHACA"
 organizerAlternateName: "Information Technology for Humanitarian Assistance, Cooperation and Action"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "summit@ithacaweb.org"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLogo: "/img/seo/organizer-logo.png" 
+organizerLink: "http://www.ithacaweb.org/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
