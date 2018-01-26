@@ -1,0 +1,80 @@
+-
+  date: "2018-03-26"
+  dateReadable: "Monday March 26"
+  tracks:
+    - {title: "Theatre", color: "#0cb851"}
+    - {title: "CdA Room", color: "#ff3e10"}
+  timeslots:
+    - {
+    	startTime: "14:30",
+    	endTime: "17:30",
+    	sessionIds: [001, 002]
+    }
+-
+  date: "2018-03-27"
+  dateReadable: "Tuesday March 27"
+  tracks:
+    - {title: "Theatre", color: "#0cb851"}
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "09:30",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "09:30",
+    	endTime: "10:45",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:15",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "11:15",
+    	endTime: "12:30",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "14:30",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "15:30",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "16:00",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "17:00",
+    	sessionIds: [004]
+    }
+-
+  date: "2018-03-27"
+  dateReadable: "Wednesday March 28"
+  tracks:
+    - {title: "Theatre", color: "#0cb851"}
+    - {title: "CdA Room", color: "#ff3e10"}
+  timeslots:
+    - {
+    	startTime: "09:30",
+    	endTime: "12:30",
+    	sessionIds: [006, 005]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "14:30",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "17:00",
+    	sessionIds: [007, 008]
+    }

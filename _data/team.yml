@@ -1,0 +1,36 @@
+-
+  id: 0
+  name: "Paolo"
+  surname: "Pasquali"
+  title: "Developer"
+  thumbnailUrl: default.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/therealPASQ"}
+    - {name: "github", link: "https://github.com/ppasq"}
+-
+  id: 1
+  name: "Luciana"
+  surname: "Dequal"
+  title: "Logistics"
+  thumbnailUrl: default.jpg
+  team: true
+-
+  id: 2
+  name: "Cristiano"
+  surname: "Giovando"
+  title: "Speakers"
+  thumbnailUrl: cristiano.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/giovand"}
+-
+  id: 4
+  name: "Simone"
+  surname: "Dalmasso"
+  title: "Speakers"
+  thumbnailUrl: simone.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/simo_d"}
+    - {name: "github", link: "https://github.com/simod"}

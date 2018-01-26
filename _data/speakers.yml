@@ -1,0 +1,66 @@
+-
+  id: 99
+  name: "John"
+  surname: "Doe"
+  company: "ACME"
+  title: "Developer"
+  bio: ""
+  thumbnailUrl: default.jpg
+  rockstar: true
+-
+  id: 3
+  name: "Simone"
+  surname: "Dalmasso"
+  company: "European Commission - Joint Research Centre"
+  title: "Developer"
+  bio: "Environmental Engineer and Ph.D. in Geomatics with passion for Geospatial Open Source Software, Simone is working at the European Commission JRC based on the lake Maggiore in north Italy where he is in charge for the web geospatial systems in support of the Copernicus Emergency Management Service activities. Simone is a GeoNode core developer since 2011 and OSGeo Charter member."
+  thumbnailUrl: simone.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/simo_d"}
+    - {name: "github", link: "https://github.com/simod"}
+-
+  id: 4
+  name: "Ariel"
+  surname: "Nuñez"
+  company: "Terranodo LLC"
+  title: "Principal"
+  bio: ''
+  thumbnailUrl: ariel.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ingenieroariel"}
+    - {name: "github", link: "https://github.com/ingenieroariel"}
+-
+  id: 5
+  name: "Cristiano"
+  surname: "Giovando"
+  company: "World Bank Group"
+  title: "Geographer"
+  bio: "Cristiano Giovando is a geographer and advocate of open data and open source geospatial software. At the World Bank he works on OpenDRI, promoting the use of community mapping methods for local preparedness and disaster risk management. He previously held scientific and technical roles at the EC Joint Research Centre and the Humanitarian OpenStreetMap Team."
+  thumbnailUrl: cristiano.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/giovand"}
+-
+  id: 6
+  name: "Jeffrey"
+  surname: "Johnson"
+  company: "Terranodo LLC"
+  title: "Principal"
+  bio: ""
+  thumbnailUrl: jeff.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/ortelius"}
+-
+  id: 7
+  name: "Piero"
+  surname: "Boccardo"
+  company: "ITHACA"
+  title: "Director"
+  bio: ""
+  thumbnailUrl: piero.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
