@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GeoNode Summit 2018"
 email: "summit@ithacaweb.org"
 description: "Website of the 2018 GeoNode Summit"
-baseurl: ""
+baseurl: "/geonode-summit-2018"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -25,7 +25,7 @@ organizerName: "ITHACA"
 organizerAlternateName: "Information Technology for Humanitarian Assistance, Cooperation and Action"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "summit@ithacaweb.org"
-organizerLogo: "/img/seo/organizer-logo.png" 
+organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.ithacaweb.org/"
 
 # Head
