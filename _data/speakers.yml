@@ -1,12 +1,12 @@
 -
   id: 99
-  name: "John"
-  surname: "Doe"
-  company: "ACME"
+  name: "To Be"
+  surname: "Defined"
+  company: "GeoNode"
   title: "Developer"
   bio: ""
   thumbnailUrl: default.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 3
   name: "Simone"

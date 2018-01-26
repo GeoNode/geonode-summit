@@ -67,16 +67,16 @@ heroButtons:
 # About Block
 aboutTitle: "About GeoNode Summit"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "The GeoNode event of the year with awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with the workshops held by the core developers for both users and developers!" }
+ - {title: "Code Sprint", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "20", specialCharacter: "+", info: "hours", detail: "in full GeoNode immersion"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "20", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
  - {count: "2", specialCharacter: "", info: "workshops", detail: "for users and developers"}
 
 # Latest News Block
@@ -85,7 +85,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Keynote speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -132,7 +132,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=GeoNode", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -180,7 +180,7 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Torino"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aeroportoditorino.it/en">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Torino.'}
+ - {title: "Public Transit", information: 'Ordinary urban ticket is 1.50 €. More information about fares and directions at GTT website. The Torino Underground connects the Fermi station in Collegno through the Lingotto station in Torino. Ordinary urban ticket is 1.50 €. More information about fares at GTT website. Vinzaglio is the closest station to ITHACA.'}
  - {title: "Hotels", information: 'Torino has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -

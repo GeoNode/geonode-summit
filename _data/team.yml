@@ -2,7 +2,7 @@
   id: 0
   name: "Paolo"
   surname: "Pasquali"
-  title: "Developer"
+  title: "Speakers"
   thumbnailUrl: default.jpg
   team: true
   social:
@@ -30,7 +30,7 @@
   surname: "Dalmasso"
   title: "Speakers"
   thumbnailUrl: simone.jpg
-  subTeam: true
+  team: true
   social:
     - {name: "twitter", link: "https://twitter.com/simo_d"}
     - {name: "github", link: "https://github.com/simod"}
