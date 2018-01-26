@@ -68,8 +68,8 @@ heroButtons:
 aboutTitle: "About GeoNode Summit"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The GeoNode event of the year with awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with the workshops held by the core developers for both users and developers!" }
- - {title: "Code Sprint", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with workshops held by core developers aimed at both users and developers!" }
+ - {title: "Roadmapping", image: "roadmapping.jpg", text: "One full day for an open discussion on the future of GeoNode." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

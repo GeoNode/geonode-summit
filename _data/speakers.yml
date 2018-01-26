@@ -44,15 +44,15 @@
     - {name: "twitter", link: "https://twitter.com/giovand"}
 -
   id: 6
-  name: "Jeffrey"
-  surname: "Johnson"
-  company: "Terranodo LLC"
+  name: "Francesco"
+  surname: "Bartoli"
+  company: "Geobeyond"
   title: "Principal"
-  bio: ""
-  thumbnailUrl: jeff.jpg
+  bio: "Telecommunication Engineer, security and spatial IT geek with opinionated mind to open source software. Hugely passionate lover of mountain activities and landscape. Francesco is the founder and Chief Technical Officer at Geobeyond. He started GeoAvalanche in 2013, a spatial data infrastructure for snow avalanche information which is based on GeoNode and now he is an actively contributor."
+  thumbnailUrl: francesco-bartoli.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/ortelius"}
+    - {name: "twitter", link: "http://twitter.com/francbartoli"}
 -
   id: 7
   name: "Piero"
