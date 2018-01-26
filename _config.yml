@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GeoNode Summit 2018"
 email: "summit@ithacaweb.org"
 description: "Website of the 2018 GeoNode Summit"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
