@@ -13,12 +13,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GeoNode Summit 2018"
 email: "summit@ithacaweb.org"
 description: "Website of the 2018 GeoNode Summit"
-baseurl: "/zeppelin"
-url: "http://summit.geonode.org"
+baseurl: "/geonode-summit-2018"
+url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "AIzaSyCwKnk6AsjtdlRg-4qYVTnp-8jtXXFM89c"
 
 # Organizer Info
 organizerName: "ITHACA"
