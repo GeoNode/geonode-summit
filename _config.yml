@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/RbPn8yQbQVgAnGXm1", text: "Register"}
+ - {permalink: "/#register", text: "Register"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
@@ -85,7 +85,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Keynote speakers"
+rockstarSpeakersTitle: "Key speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
