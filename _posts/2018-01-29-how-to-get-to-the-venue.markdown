@@ -38,6 +38,7 @@ For those coming from Aosta Valley (A5), Lombardy (A4 and A21), Liguria (A26-A21
 
 ##### Moving in Torino
 __On foot__ ITHACA facility is at 12 minutes (900 metres) walking distance from Torino Porta Susa station and 22 minutes (1.8 km) from Torino Porta Nuova station.
+
 __By Bus__ Ordinary urban ticket is 1.50 €. More information about fares and directions at GTT website.
 
 __By Underground__ The Torino Underground connects the Fermi station in Collegno through the Lingotto station in Torino. Ordinary urban ticket is 1.50 €. More information about fares at GTT website. Vinzaglio is the closest station to ITHACA.
