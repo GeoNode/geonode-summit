@@ -1,6 +1,11 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
+      <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+          <p class="text-left">Please note this is not the final agenda for the GeoNode Summit 2018. The agenda may continue to develop almost up to the summit so please do check back occasionally to see the latest.</p>
+          <p class="text-left">Main presentations begin Tuesday morning. On Monday afternoon, workshops will be held to focus learning and discussion around specific topics.</p>
+          <p class="text-left">All events will take place at SiTI/ITHACA facility in the Politecnico di Torino campus.</p>
+        </div>
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -52,7 +57,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
