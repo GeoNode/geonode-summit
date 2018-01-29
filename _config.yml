@@ -18,7 +18,7 @@ url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "AIzaSyCwKnk6AsjtdlRg-4qYVTnp-8jtXXFM89c"
 
 # Organizer Info
 organizerName: "ITHACA"
@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "#", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {permalink: "/#register", text: "Register"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
