@@ -3,7 +3,7 @@
   name: "Paolo"
   surname: "Pasquali"
   title: "Speakers"
-  thumbnailUrl: default.jpg
+  thumbnailUrl: paolo.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/therealPASQ"}
@@ -13,7 +13,7 @@
   name: "Luciana"
   surname: "Dequal"
   title: "Logistics"
-  thumbnailUrl: default.jpg
+  thumbnailUrl: luciana.jpg
   team: true
 -
   id: 2

@@ -179,7 +179,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Torino"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aeroportoditorino.it/en">airport website</a>.'}
+ - {title: "From the Airport", information: 'Torino Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aeroportoditorino.it/en">airport website</a>.'}
  - {title: "Public Transit", information: 'Ordinary urban ticket is 1.50 €. More information about <a href="http://www.gtt.to.it/cms/en/fares">fares</a> and directions at <a href="http://www.gtt.to.it/cms/en/">GTT website</a>. The Torino Underground connects the Fermi station in Collegno through the Lingotto station in Torino. Vinzaglio is the closest station to ITHACA.'}
  - {title: "Hotels", information: 'Torino has lots of great hotels and apartments to rent. More information will be available later.'}
 directionDetailsWideCards:
@@ -187,26 +187,21 @@ directionDetailsWideCards:
   title: "Questions?"
   subCards:
    -
-    title: "Registration"
+    title: "Getting to the venue"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "At the airport"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Arriving by train"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Get around Torino"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "How to register"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Submit a presentation"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Recommended Hotels"}
+     - {link: "/cod/", text: "Code of Conduct"}
 
 # Hackathon
 hackathonTitle: "Code Sprint"
