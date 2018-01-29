@@ -59,7 +59,7 @@ heroImage: "hero.jpg"
 heroTitle: "GeoNode <typeout> Summit 2018"
 eventDate: "Torino, Italy | March 26 - 28, 2018"
 typeoutTextValues: '"", "Dev", "Users", "World"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
  - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker"}
  - {permalink: "/#register", text: "Register"}
