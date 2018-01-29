@@ -14,8 +14,8 @@
   company: "European Commission - Joint Research Centre"
   title: "Developer"
   bio: "Environmental Engineer and Ph.D. in Geomatics with passion for Geospatial Open Source Software, Simone is working at the European Commission JRC based on the lake Maggiore in north Italy where he is in charge for the web geospatial systems in support of the Copernicus Emergency Management Service activities. Simone is a GeoNode core developer since 2011 and OSGeo Charter member."
-  thumbnailUrl: simone.jpg
-  rockstar: true
+  thumbnailUrl: simone-dalmasso.jpg
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/simo_d"}
     - {name: "github", link: "https://github.com/simod"}
@@ -26,7 +26,7 @@
   company: "Terranodo LLC"
   title: "Principal"
   bio: ''
-  thumbnailUrl: ariel.jpg
+  thumbnailUrl: ariel-nunez.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ingenieroariel"}
@@ -38,7 +38,7 @@
   company: "World Bank Group"
   title: "Geographer"
   bio: "Cristiano Giovando is a geographer and advocate of open data and open source geospatial software. At the World Bank he works on OpenDRI, promoting the use of community mapping methods for local preparedness and disaster risk management. He previously held scientific and technical roles at the EC Joint Research Centre and the Humanitarian OpenStreetMap Team."
-  thumbnailUrl: cristiano.jpg
+  thumbnailUrl: cristiano-giovando.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/giovand"}
@@ -60,7 +60,19 @@
   company: "ITHACA"
   title: "Director"
   bio: ""
-  thumbnailUrl: piero.jpg
+  thumbnailUrl: piero-boccardo.jpg
   rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
+
+-
+  id: 8
+  name: "Stephen"
+  surname: "Peedell"
+  company: "European Commission - Joint Research Centre"
+  title: ""
+  bio: "Steven Peedell is a multi-lingual specialist in geospatial information technology with 25 years experience working with maps and mapping technology, the last 18 of which have been at the Joint Research Centre (JRC) in Italy."
+  thumbnailUrl: stephen-peedell.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
