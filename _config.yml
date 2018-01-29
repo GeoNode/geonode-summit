@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "#", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {permalink: "/#register", text: "Register"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
