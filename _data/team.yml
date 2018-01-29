@@ -2,8 +2,8 @@
   id: 0
   name: "Paolo"
   surname: "Pasquali"
-  title: "Developer"
-  thumbnailUrl: default.jpg
+  title: "Speakers"
+  thumbnailUrl: paolo.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/therealPASQ"}
@@ -13,7 +13,7 @@
   name: "Luciana"
   surname: "Dequal"
   title: "Logistics"
-  thumbnailUrl: default.jpg
+  thumbnailUrl: luciana.jpg
   team: true
 -
   id: 2
@@ -30,7 +30,7 @@
   surname: "Dalmasso"
   title: "Speakers"
   thumbnailUrl: simone.jpg
-  subTeam: true
+  team: true
   social:
     - {name: "twitter", link: "https://twitter.com/simo_d"}
     - {name: "github", link: "https://github.com/simod"}

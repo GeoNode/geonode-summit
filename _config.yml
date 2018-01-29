@@ -18,19 +18,19 @@ url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "AIzaSyCwKnk6AsjtdlRg-4qYVTnp-8jtXXFM89c"
 
 # Organizer Info
 organizerName: "ITHACA"
 organizerAlternateName: "Information Technology for Humanitarian Assistance, Cooperation and Action"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "The non-profit association ITHACA is a center of applied research devoted to support humanitarian activities in response to natural disasters by means of remote sensing techniques."
 organizerEmail: "summit@ithacaweb.org"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www.ithacaweb.org/"
+organizerLogo: "/img/organizers/ithaca.jpg"
+organizerLink: "http://www.ithacaweb.org"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, summit, geonode, open source, programming, maps, developers, politecnico, torino, django, geoserver, postgis"
+twitterAccount: "@GeoNode"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -61,23 +61,23 @@ eventDate: "Torino, Italy | March 26 - 28, 2018"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "#", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/RbPn8yQbQVgAnGXm1", text: "Register"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "The GeoNode event of the year with awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with workshops held by core developers aimed at both users and developers!" }
+ - {title: "Roadmapping", image: "roadmapping.jpg", text: "One full day for an open discussion on the future of GeoNode." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "20", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
+ - {count: "2", specialCharacter: "", info: "workshops", detail: "for users and developers"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -85,7 +85,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Keynote speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -117,7 +117,7 @@ venueFeatures: ["One Theatre", "One Conference Room", "Two Meeting Rooms"]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "geonode"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "#"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -127,19 +127,19 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "#"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=GeoNode", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://geonode.org", text: "GeoNode"}
+   - {link: "http://https://www.osgeo.org", text: "OSGeo"}
  -
   title: "Contacts"
   links:
@@ -147,11 +147,12 @@ footerBlocks:
  -
   title: "FAQ"
   links:
+   - {permalink: "/blog/how-to-get-to-the-venue/", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
@@ -179,34 +180,29 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Torino"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aeroportoditorino.it/en">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Torino.'}
- - {title: "Hotels", information: 'Torino has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Torino Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aeroportoditorino.it/en">airport website</a>.'}
+ - {title: "Public Transit", information: 'Ordinary urban ticket is 1.50 €. More information about <a href="http://www.gtt.to.it/cms/en/fares">fares</a> and directions at <a href="http://www.gtt.to.it/cms/en/">GTT website</a>. The Torino Underground connects the Fermi station in Collegno through the Lingotto station in Torino. Vinzaglio is the closest station to ITHACA.'}
+ - {title: "Hotels", information: 'Torino has lots of great hotels and apartments to rent. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Getting to the venue"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "At the airport"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Arriving by train"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Get around Torino"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "How to register"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Submit a presentation"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Recommended Hotels"}
+     - {link: "/cod/", text: "Code of Conduct"}
 
 # Hackathon
 hackathonTitle: "Code Sprint"
