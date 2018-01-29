@@ -12,9 +12,13 @@ __Pedestrian entrance__ corso Castelfidardo 30/a - Torino
 ##### From Torino Caselle airport
 
 Torino Caselle (also known as Sandro Pertini Airport) is located 16 km from Torino city centre.
+
 __By Bus__ The SADEM bus service between the city centre and Torino Airport has several stops enroute including Porta Susa railway station that is at walking distance from ITHACA. One-way fare: 6.50€ (+1,00 € aboard). Journey time: 45/50 minutes.
+
 __By Taxi__ The taxi fare is about 30/50€ to reach downtown Torino, and the travel time is approximately 30 minutes.
+
 __By Car__ The Car Rental companies’ offices are located inside the multi-storey car park and in the Arrival lounge.
+
 __By Train__ A railway links the airport to Torino Dora Railway Station. If you plan to stay in Torino city centre or get to ITHACA it is NOT recommended.
 
 ##### From Milano Malpensa airport
