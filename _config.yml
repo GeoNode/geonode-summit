@@ -61,8 +61,8 @@ eventDate: "Torino, Italy | March 26 - 28, 2018"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "#", text: "Become a speaker"}
- - {permalink: "https://goo.gl/forms/RbPn8yQbQVgAnGXm1", text: "Register"}
+ - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/RbPn8yQbQVgAnGXm1", text: "Register"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
