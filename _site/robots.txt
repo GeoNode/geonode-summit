@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/geonode-summit-2018/sitemap.xml
+Sitemap: https://gdg-x.github.io/geonode-summit-2018/sitemap.xml
