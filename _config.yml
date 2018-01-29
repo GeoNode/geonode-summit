@@ -147,7 +147,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/blog/how-to-get-to-the-venue/", text: "How to get to the venue"}
+   - {permalink: "/blog/how-to-get-to-the-venue", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
