@@ -61,7 +61,7 @@
   title: "Director"
   bio: ""
   thumbnailUrl: piero-boccardo.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
 
