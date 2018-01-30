@@ -2,8 +2,8 @@
   id: 0
   name: "Paolo"
   surname: "Pasquali"
-  title: "Speakers"
-  thumbnailUrl: paolo.jpg
+  title: "Program"
+  thumbnailUrl: paolo-pasquali.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/therealPASQ"}
@@ -13,14 +13,14 @@
   name: "Luciana"
   surname: "Dequal"
   title: "Logistics"
-  thumbnailUrl: luciana.jpg
+  thumbnailUrl: luciana-dequal.jpg
   team: true
 -
   id: 2
   name: "Cristiano"
   surname: "Giovando"
-  title: "Speakers"
-  thumbnailUrl: cristiano.jpg
+  title: "Program"
+  thumbnailUrl: cristiano-giovando.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/giovand"}
@@ -28,8 +28,8 @@
   id: 4
   name: "Simone"
   surname: "Dalmasso"
-  title: "Speakers"
-  thumbnailUrl: simone.jpg
+  title: "Program"
+  thumbnailUrl: simone-dalmasso.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/simo_d"}
