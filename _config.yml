@@ -13,12 +13,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GeoNode Summit 2018"
 email: "summit@ithacaweb.org"
 description: "Website of the 2018 GeoNode Summit"
-baseurl: "/geonode-summit-2018"
+baseurl: ""
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "AIzaSyCwKnk6AsjtdlRg-4qYVTnp-8jtXXFM89c"
+googleAnalyticsTrackingId: "UA-113363726-1" #Summit Tracking ID
+googleAnalyticsSiteUrl: "geonode.github.io" #TODO!
+siteVerification: "N/A" #TODO!
 
 # Organizer Info
 organizerName: "ITHACA"
@@ -34,10 +34,6 @@ twitterAccount: "@GeoNode"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-
-# Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -59,7 +55,7 @@ heroImage: "hero.jpg"
 heroTitle: "GeoNode <typeout> Summit 2018"
 eventDate: "Torino, Italy | March 26 - 28, 2018"
 typeoutTextValues: '"", "Dev", "Users", "World"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
  - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker"}
  - {permalink: "/#register", text: "Register"}
@@ -68,7 +64,7 @@ heroButtons:
 aboutTitle: "About GeoNode Summit"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The GeoNode event of the year with awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with workshops held by core developers aimed at both users and developers!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with workshops held by core developers aimed at users and developers!" }
  - {title: "Roadmapping", image: "roadmapping.jpg", text: "One full day for an open discussion on the future of GeoNode." }
 
 # Statistic Block
@@ -128,7 +124,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "#"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around mid March."
 
 # Footer
 socialLinks:
@@ -153,15 +149,15 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "devfestua"
+discusShortName: ""
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
 teamBlockTitle: "About"
-aboutUs: "GeoNode is a web-based Spatial Data Infrastructure (SDI) that enables sharing and collaborating on geospatial data. Users can upload existing shapefiles, edit data, and publish finished maps. GeoNode can also host static documents, such as PDF maps. GeoNode has robust support for open standards and OGC services, which streamlines integration with other systems and existing workflows. For example, data from GeoNode can be easily downloaded as a shapefile for use in ArcMap. At its core, GeoNode is designed to be customizable and extensible.
-GeoNode is used throughout the world by international organizations, non-profits, and mapping agencies for supporting activities ranging from emergency preparedness and response, disaster risk reduction, and many more. Additionally, GeoNode is supported by a rich ecosystem of commercial providers across the world who can help with training, technical support, or development of new features.
+aboutUs: "GeoNode is a web-based Spatial Data Infrastructure (SDI) that enables sharing and collaborating on geospatial data. Users can upload existing shapefiles, edit data, and publish finished maps.<br/>GeoNode can also host static documents, such as PDF maps. GeoNode has robust support for open standards and OGC services, which streamlines integration with other systems and existing workflows. For example, data from GeoNode can be easily downloaded as a shapefile for use in ArcMap. At its core, GeoNode is designed to be customizable and extensible.<br/>
+GeoNode is used throughout the world by international organizations, non-profits, and mapping agencies for supporting activities ranging from emergency preparedness and response, disaster risk reduction, and many more. Additionally, GeoNode is supported by a rich ecosystem of commercial providers across the world who can help with training, technical support, or development of new features.<br/>
 Whether your use case is wrangling thousands of layers or managing just 10 really well, GeoNode can help make your job easier."
 
 # Logistics Find Way Block
@@ -190,56 +186,16 @@ directionDetailsWideCards:
    -
     title: "Getting to the venue"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "At the airport"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Arriving by train"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Get around Torino"}
+     - {link: "/blog/how-to-get-to-the-venue", text: "At the airport"}
+     - {link: "/blog/how-to-get-to-the-venue", text: "Arriving by train"}
+     - {link: "/blog/how-to-get-to-the-venue", text: "Get around Torino"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "How to register"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Submit a presentation"}
+     - {link: "#", text: "How to register"}
+     - {link: "#", text: "Submit a presentation"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Recommended Hotels"}
-     - {link: "/cod/", text: "Code of Conduct"}
-
-# Hackathon
-hackathonTitle: "Code Sprint"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+     - {link: "#", text: "Recommended Hotels"}
+     - {permalink: "/cod/", text: "Code of Conduct"}
