@@ -35,7 +35,6 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -124,7 +123,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "#"
-subscribeInfo: "Registration will be open until around mid March."
+subscribeInfo: "Registration is open and will close around mid March."
 
 # Footer
 socialLinks:
@@ -143,7 +142,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/blog/how-to-get-to-the-venue/", text: "How to get to the venue"}
+   - {permalink: "/blog/how-to-get-to-the-venue", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog

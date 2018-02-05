@@ -11,11 +11,11 @@
   id: 3
   name: "Simone"
   surname: "Dalmasso"
-  company: "European Commission - Joint Research Centre"
+  company: "European Commission - DG Joint Research Centre"
   title: "Developer"
-  bio: "Environmental Engineer and Ph.D. in Geomatics with passion for Geospatial Open Source Software, Simone is working at the European Commission JRC based on the lake Maggiore in north Italy where he is in charge for the web geospatial systems in support of the Copernicus Emergency Management Service activities. Simone is a GeoNode core developer since 2011 and OSGeo Charter member."
+  bio: "Environmental Engineer and Ph.D. in Geomatics with passion for Geospatial Open Source Software, Simone is working at the European Commission DG-JRC based on the lake Maggiore in north Italy where he is in charge for the Copernicus EMS Rapid Mapping technical management and supervision. Simone is a GeoNode core developer since 2011 and OSGeo Charter member."
   thumbnailUrl: simone-dalmasso.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/simo_d"}
     - {name: "github", link: "https://github.com/simod"}
@@ -69,13 +69,13 @@
   id: 8
   name: "Stephen"
   surname: "Peedell"
-  company: "European Commission - Joint Research Centre"
+  company: "European Commission - DG Joint Research Centre"
   title: ""
-  bio: "Steven Peedell is a multi-lingual specialist in geospatial information technology with 25 years experience working with maps and mapping technology, the last 18 of which have been at the Joint Research Centre (JRC) in Italy."
+  bio: "Steven Peedell is a multi-lingual specialist in geospatial information technology with 25 years experience working with maps and mapping technology, the last 18 of which have been at the European Commission DG-JRC in Italy."
   thumbnailUrl: stephen-peedell.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
+    - {name: "twitter", link: "http://twitter.com/stevelaveno ‏"}
 
 -
   id: 9
