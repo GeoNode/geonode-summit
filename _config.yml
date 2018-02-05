@@ -14,7 +14,7 @@ title: "GeoNode Summit 2018"
 email: "summit@ithacaweb.org"
 description: "Website of the 2018 GeoNode Summit"
 baseurl: ""
-url: "https://geonode.github.io" #TODO!
+url: http://summit.geonode.org
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-113363726-1" #Summit Tracking ID
 googleAnalyticsSiteUrl: "geonode.github.io" #TODO!
