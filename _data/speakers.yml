@@ -23,7 +23,7 @@
   id: 4
   name: "Ariel"
   surname: "Nuñez"
-  company: "Terranodo LLC"
+  company: "Terranodo"
   title: "Principal"
   bio: ''
   thumbnailUrl: ariel-nunez.jpg
@@ -75,4 +75,17 @@
   thumbnailUrl: stephen-peedell.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: ""}
+    - {name: "twitter", link: "http://twitter.com/stevelaveno ‏"}
+
+-
+  id: 9
+  name: "Alessio"
+  surname: "Fabiani"
+  company: "Geosolutions"
+  title: "Technical Lead"
+  bio: "Eng. Alessio Fabiani is a Software Engineer, co-founder of GeoSolutions S.A.S., with more than 10 years experience in C++, Java and Python development, currently working as Software Engineer, Technical Lead and Team Leader at GeoSolutions. Involved in many worldwide relevant GIS OpenSource projects, core developer and member of the projects management/steering committees, like GeoServer, GeoTools and GeoNode."
+  thumbnailUrl: alessio-fabiani.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/alfa7691o"}
+    - {name: "github", link: "https://github.com/afabiani"}
