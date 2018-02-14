@@ -87,11 +87,13 @@
   name: "Giovanni"
   surname: "Allegri"
   company: "Geosolutions"
-  bio: ""
+  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data mangement platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
   thumbnailUrl: giovanni-allegri.jpg
   rockstar: true
   social:
+    - {name: "twitter", link: "http://twitter.com/_giohappy_"}
     - {name: "github", link: "https://github.com/giohappy"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
 
 -
   id: 11
@@ -143,7 +145,7 @@
   company: "ITHACA"
   bio: ""
   thumbnailUrl: paolo-pasquali.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "github", link: "https://github.com/ppasq"}
     - {name: "twitter", link: "http://twitter.com/therealPASQ"}
