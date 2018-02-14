@@ -87,7 +87,7 @@
   name: "Giovanni"
   surname: "Allegri"
   company: "Geosolutions"
-  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data mangement platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
+  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data management platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
   thumbnailUrl: giovanni-allegri.jpg
   rockstar: true
   social:
@@ -143,7 +143,7 @@
   name: "Paolo"
   surname: "Pasquali"
   company: "ITHACA"
-  bio: ""
+  bio: "Paolo is a web GIS Specialist at ITHACA (Information Technology for Humanitarian Assistance, Cooperation and Action) based in Torino. Has 15+ years of experience in designing and developing geospatial applications. Has been installing GeoNode platforms around world since 2011."
   thumbnailUrl: paolo-pasquali.jpg
   rockstar: false
   social:
@@ -156,5 +156,5 @@
   surname: "Mira"
   company: "Novel-T"
   bio: "An engineer with 8 years of experience, Yoann joined Novel-T in 2014. His expertise combines in-depth knowledge of GIS (Geographic Information System), both Esri and Open-source with strong Full-Stack web development experience using JavaScript and Python technologies."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: yoann-mira.jpg
   rockstar: true
