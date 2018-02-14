@@ -3,7 +3,6 @@
   name: "To Be"
   surname: "Defined"
   company: "GeoNode"
-  title: "Developer"
   bio: ""
   thumbnailUrl: default.jpg
   rockstar: false
@@ -12,7 +11,6 @@
   name: "Simone"
   surname: "Dalmasso"
   company: "European Commission - DG Joint Research Centre"
-  title: "Developer"
   bio: "Environmental Engineer and Ph.D. in Geomatics with passion for Geospatial Open Source Software, Simone is working at the European Commission DG-JRC based on the lake Maggiore in north Italy where he is in charge for the Copernicus EMS Rapid Mapping technical management and supervision. Simone is a GeoNode core developer since 2011 and OSGeo Charter member."
   thumbnailUrl: simone-dalmasso.jpg
   rockstar: true
@@ -24,7 +22,6 @@
   name: "Ariel"
   surname: "Nuñez"
   company: "Terranodo"
-  title: "Principal"
   bio: ''
   thumbnailUrl: ariel-nunez.jpg
   rockstar: true
@@ -36,7 +33,6 @@
   name: "Cristiano"
   surname: "Giovando"
   company: "World Bank Group"
-  title: "Geographer"
   bio: "Cristiano Giovando is a geographer and advocate of open data and open source geospatial software. At the World Bank he works on OpenDRI, promoting the use of community mapping methods for local preparedness and disaster risk management. He previously held scientific and technical roles at the EC Joint Research Centre and the Humanitarian OpenStreetMap Team."
   thumbnailUrl: cristiano-giovando.jpg
   rockstar: true
@@ -47,7 +43,6 @@
   name: "Francesco"
   surname: "Bartoli"
   company: "Geobeyond"
-  title: "Principal"
   bio: "Telecommunication Engineer, security and spatial IT geek with opinionated mind to open source software. Hugely passionate lover of mountain activities and landscape. Francesco is the founder and Chief Technical Officer at Geobeyond. He started GeoAvalanche in 2013, a spatial data infrastructure for snow avalanche information which is based on GeoNode and now he is an actively contributor."
   thumbnailUrl: francesco-bartoli.jpg
   rockstar: true
@@ -58,7 +53,6 @@
   name: "Piero"
   surname: "Boccardo"
   company: "ITHACA"
-  title: "Director"
   bio: ""
   thumbnailUrl: piero-boccardo.jpg
   rockstar: true
@@ -70,7 +64,6 @@
   name: "Stephen"
   surname: "Peedell"
   company: "European Commission - DG Joint Research Centre"
-  title: ""
   bio: "Steven Peedell is a multi-lingual specialist in geospatial information technology with 25 years experience working with maps and mapping technology, the last 18 of which have been at the European Commission DG-JRC in Italy."
   thumbnailUrl: stephen-peedell.jpg
   rockstar: true
@@ -82,23 +75,86 @@
   name: "Alessio"
   surname: "Fabiani"
   company: "Geosolutions"
-  title: "Technical Lead"
   bio: "Eng. Alessio Fabiani is a Software Engineer, co-founder of GeoSolutions S.A.S., with more than 10 years experience in C++, Java and Python development, currently working as Software Engineer, Technical Lead and Team Leader at GeoSolutions. Involved in many worldwide relevant GIS OpenSource projects, core developer and member of the projects management/steering committees, like GeoServer, GeoTools and GeoNode."
   thumbnailUrl: alessio-fabiani.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/alfa7691o"}
     - {name: "github", link: "https://github.com/afabiani"}
-    
+
+-
   id: 10
   name: "Giovanni"
   surname: "Allegri"
   company: "Geosolutions"
-  title: "Project Manager"
-  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data mangement platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies.
+  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data management platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
   thumbnailUrl: giovanni-allegri.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/_giohappy_}
-    - {name: "github", link: "https://github.com/giohappy}
+    - {name: "twitter", link: "http://twitter.com/_giohappy_"}
+    - {name: "github", link: "https://github.com/giohappy"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
+
+-
+  id: 11
+  name: "Gavin"
+  surname: "Fleming"
+  company: "Kartoza"
+  bio: "Gavin is a Professional GISc Practitioner (PGP 1234), a Charter Member of the Open Source Geospatial Foundation (OSGeo), on the advisory board of the CGIS at the University of Pretoria, on the National Council of GISSA and has an MSc. He started in the GIS industry in 1996 and his experience includes thirteen years with the full suite of ESRI software and since 2005 with a wide range of FOSS GIS tools. He worked at GIMS (now ESRI), CSIR, Mintek and SAEON before starting AfriSpatial in 2010 and Kartoza in 2014 with Tim Sutton. He is passionate about Open Source Software, Open Data and other Open philosophies that lead to interoperability, empower people and help maximise returns on spending. He is also convinced that Free and Open Source GIS software is mature and ready to integrate with or replace existing expensive alternatives, in line with the Government Open Source policy. After bringing FOSS4G 2008 to South Africa and working almost exclusively with FOSS since then he has picked up a surge in demand and usage of FOSS GIS in all sectors in South Africa and globally and coupled with that, a growing base of service providers and related resources."
+  thumbnailUrl: gavin-fleming.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/KartozaGeo"}
+    - {name: "github", link: "http://github.com/kartoza"}
+    - {name: "linkedin", link: "http://linkedin.com/kartoza-pty-ltd"}
+
+-
+  id: 12
+  name: "Steph"
+  surname: "Bannister"
+  company: "SecondMuse"
+  bio: "I’ve been a designer for more than 15 years. I started in visual communication but have spent most of that time creating digital products and services, along with the concepts and strategies that support them. I’ve done this for large organisations, non-profits, and start-ups in many different sectors: humanitarian, health, employment, government, retail and advertising. I’ve worked on and led teams of all sizes and shapes, alongside everyone from members of the public to members of the board. I know how it important an inquisitive, collaborative approach to design is. And I believe that the same skills and methods that go into making a good, fit-for-market product can be applied to solving the complex, socially-focussed problems facing us today."
+  thumbnailUrl: steph-bannister.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/stephbannister/"}
+-
+  id: 13
+  name: "Dimitris"
+  surname: "Karakostis"
+  company: "World Food Programme"
+  bio: "Dimitris Karakostis is a geoinformatics specialist and a web gis developer with a Ms in Geoinformatics (TU Berlin) and a Diploma in Mining Engineering (TU Crete). Dimitris has four plus years of working experience in GIS related projects, development of web GIS information systems, designing and management of (spatial) databases and implementation of complex workflows."
+  thumbnailUrl: dimitris-karakostis.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://www.linkedin.com/dkarakostis"}
+
+-
+  id: 14
+  name: "Francesco"
+  surname: "Stompanato"
+  company: "World Food Programme"
+  bio: "Telecommunication engineer with a strong passion for geography and Open Source technologies for Humanitarian Assistance and Disaster Management. Since mid-2011 I’m supporting the Emergency Preparedness & Response division in WFP in the implementation and management of systems and initiatives for efficient management and sharing of geospatial information. GeoNode addicted."
+  thumbnailUrl: francesco-stompanato.jpg
+  rockstar: false
+
+-
+  id: 15
+  name: "Paolo"
+  surname: "Pasquali"
+  company: "ITHACA"
+  bio: "Paolo is a web GIS Specialist at ITHACA (Information Technology for Humanitarian Assistance, Cooperation and Action) based in Torino. Has 15+ years of experience in designing and developing geospatial applications. Has been installing GeoNode platforms around world since 2011."
+  thumbnailUrl: paolo-pasquali.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/ppasq"}
+    - {name: "twitter", link: "http://twitter.com/therealPASQ"}
+
+-
+  id: 16
+  name: "Yoann"
+  surname: "Mira"
+  company: "Novel-T"
+  bio: "An engineer with 8 years of experience, Yoann joined Novel-T in 2014. His expertise combines in-depth knowledge of GIS (Geographic Information System), both Esri and Open-source with strong Full-Stack web development experience using JavaScript and Python technologies."
+  thumbnailUrl: default.jpg
+  rockstar: true
