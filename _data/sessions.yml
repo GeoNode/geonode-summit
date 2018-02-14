@@ -29,7 +29,7 @@
   title: "Users Workshop"
   description: "TBD"
   subtype: workshop
-  speakers: [99]
+  speakers: [9, 10]
 -
   id: 102
   title: "Developers Workshop"
@@ -51,22 +51,22 @@
   speakers: [8]
 -
   id: 203
-  title: "15' Talk"
-  description: "TBD"
+  title: "GeoNode with QGIS, GeoNode for DRR"
+  description: "Over the last year we have done a number of GeoNode related developments, which relate to integration of GeoNode with QGIS and with using GeoNode for Disaster Risk Reduction. We have also been working to make GeoNode (with QGIS Backend) easily deployable using Rancher and Docker - which we will demonstrate. This presentation will be like a Christmas hamper where we quickly show you the highlights of our work!"
   subtype: talk
-  speakers: [99]
+  speakers: [11]
 -
   id: 204
-  title: "15' Talk"
+  title: "WFP GeoNode Use cases and Roadmap"
   description: "TBD"
   subtype: talk
-  speakers: [99]
+  speakers: [13]
 -
   id: 205
-  title: "15' Talk"
-  description: "TBD"
+  title: "GeoNode - an additional set of functionalities"
+  description: "During this presentation we will review a set of functionalities which we are adding to GeoNode to support use cases such as a resumable upload allowing the batch upload of large resources including File GeoDatabases and imagery tiles, the ability to upload tabular data (e.g. csv, spss, stata, etc.) and turn it into a point layer if it contains latitude and longitude information, the ability to connect to layers hosted on GeoNode from desktop clients such as QGIS or ArcMap, the ability to search place names and navigate geo-spatially to these location on the map, the ability to draw polygons to query any raster to estimate population in given areas for instance, the ability to reference layers between GeoNode instances, the dockerization of the platform and support for S3 for a scalable and affordable production environment, etc."
   subtype: talk
-  speakers: [99]
+  speakers: [16]
 -
   id: 206
   title: "15' Talk"
@@ -120,7 +120,7 @@
   title: "User-centered design session 1"
   description: "TBD"
   subtype: workshop
-  speakers: [99]
+  speakers: [12]
 -
   id: 302
   title: "Code Sprint"
@@ -132,7 +132,7 @@
   title: "User-centered design session 2"
   description: "TBD"
   subtype: workshop
-  speakers: [99]
+  speakers: [12]
 -
   id: 304
   title: "Roadmap Discussion"
