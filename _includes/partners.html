@@ -17,7 +17,6 @@
             {% endfor %}
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
@@ -28,9 +27,11 @@
                 {% endfor %}
             </ul>
             {% endfor %}
+            {% for partner in site.data.partners %}
+            <h5>{{ partner.group }}</h5>
+            {% endfor %}
             <a href="mailto:summit@ithacaweb.org" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
-    </div> 
+    </div>
 </section>
 <!-- End Partners Section -->
-

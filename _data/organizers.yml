@@ -1,6 +1,6 @@
 -
   group: ""
   elements:
-    - {name: "ITHACA", description: "ITHACA - Information Technology for Humanitarian Assistance, Cooperation and Action", link: "http://www.ithacaweb.org", imageUrl: "ithaca.jpg"}
+    - {name: "ITHACA", description: "ITHACA - Information Technology for Humanitarian Assistance, Cooperation and Action", link: "http://www.ithacaweb.org", imageUrl: "ithaca.png"}
     - {name: "GFDRR", description: "hGlobal Facility for Disaster Reduction and Recovery", link: "https://www.gfdrr.org", imageUrl: "gfdrr.png"}
-    - {name: "European Commission - Joint Research Centre", description: "European Commission - Joint Research Centre", link: "https://ec.europa.eu/jrc/en", imageUrl: "ec.jpg"}
+    - {name: "European Commission - Joint Research Centre", description: "European Commission - Joint Research Centre", link: "https://ec.europa.eu/jrc/en", imageUrl: "ec.png"}
