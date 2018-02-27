@@ -162,3 +162,15 @@
     - {name: "github", link: "https://github.com/danieljdufour"}
     - {name: "twitter", link: "http://twitter.com/DanielJDufour"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/danieljdufour/"}
+
+-
+  id: 18
+  name: "David"
+  surname: "Kennewell"
+  company: "Hydrata"
+  bio: "I'm a chartered Environmental Engineer and geospatial web developer. I help manage human impacts on our water resources. This often means working with infrastructure projects or cities to transparently manage their data, their modelling and the presentation of environmental impact assessments. The first 10 years of my career was with large engineering consultancies, however now I work through a small independent company. "
+  thumbnailUrl: david-kennewell.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/Hydrata"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/davekennewell"}

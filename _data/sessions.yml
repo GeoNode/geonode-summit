@@ -69,16 +69,16 @@
   speakers: [16]
 -
   id: 206
-  title: "15' Talk"
-  description: "TBD"
+  title: "Building Flood Models with Geonode"
+  description: "I've paired Geonode with the open-source 2d hydrodynamic flood model, ANUGA, to create a collaborative online flood modelling environment. This allows us to move both flood model inputs and outputs into an adaptable, transparent online hydraulic model that gets better with time, as opposed to that PDF version going out-of-date on your hard drive. The mission is to reduce the hassle involved in building and maintaining up-to-date flood models, especially in the years after the original consultancy contract is complete. I'll present a brief demonstration of the application, followed by a technical architecture overview and some lessons learned along the way. "
   subtype: talk
-  speakers: [99]
+  speakers: [18]
 -
   id: 207
-  title: "Lighting Talks"
-  description: "TBD"
+  title: "GeoNode DevOps with Docker and Rancher"
+  description: "GeoNode is an easy to use platform for developing web based Geospatial Information Systems and for deploying interoperable and OGC standards compliant Spatial Data Infrastructure (SDI). The platform can be composed and extended with different components like Elasticsearch, GeoGig, QGIS Server beyond the common ones GeoServer, PostGIS and pycsw as an example. This model of a such SDI is natively fitting very well with the cloud approach of Software As a Service (SaaS) and looks at the new DevOps technologies like Ansible and Docker for optimizing the scale up and make an easier deployment for the end users. Docker and its orchestration tool docker-compose has been extensively used to strengthen the configuration and the start of each single component. The talk aims to describe how GeoNode images have been designed and docker volumes are used for data configuration, finally how docker-compose can be used by Rancher stacks. The presentation will provide an introduction to the state of the art and examples on how to deploy GeoNode with Docker for development or to use Rancher for production environments into AWS."
   subtype: talk
-  speakers: [99]
+  speakers: [6]
 -
   id: 208
   title: "Adding Raster Analysis Tools to the GeoNode Experience"
