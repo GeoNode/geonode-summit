@@ -1,22 +1,14 @@
 -
-  id: 99
-  name: "To Be"
-  surname: "Defined"
-  company: "GeoNode"
-  bio: ""
-  thumbnailUrl: default.jpg
-  rockstar: false
--
-  id: 3
-  name: "Simone"
-  surname: "Dalmasso"
-  company: "European Commission - DG Joint Research Centre"
-  bio: "Environmental Engineer and Ph.D. in Geomatics with passion for Geospatial Open Source Software, Simone is working at the European Commission DG-JRC based on the lake Maggiore in north Italy where he is in charge for the Copernicus EMS Rapid Mapping technical management and supervision. Simone is a GeoNode core developer since 2011 and OSGeo Charter member."
-  thumbnailUrl: simone-dalmasso.jpg
+  id: 9
+  name: "Alessio"
+  surname: "Fabiani"
+  company: "Geosolutions"
+  bio: "Eng. Alessio Fabiani is a Software Engineer, co-founder of GeoSolutions S.A.S., with more than 10 years experience in C++, Java and Python development, currently working as Software Engineer, Technical Lead and Team Leader at GeoSolutions. Involved in many worldwide relevant GIS OpenSource projects, core developer and member of the projects management/steering committees, like GeoServer, GeoTools and GeoNode."
+  thumbnailUrl: alessio-fabiani.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/simo_d"}
-    - {name: "github", link: "https://github.com/simod"}
+    - {name: "twitter", link: "http://twitter.com/alfa7691o"}
+    - {name: "github", link: "https://github.com/afabiani"}
 -
   id: 4
   name: "Ariel"
@@ -39,6 +31,39 @@
   social:
     - {name: "twitter", link: "https://twitter.com/giovand"}
 -
+  id: 17
+  name: "Daniel"
+  surname: "Dufour"
+  company: "GeoTIFF.io"
+  bio: "Daniel J. Dufour is the founder of GeoTIFF.io, FirstDraftGIS.com, and TweetGeoLocator.com. He also works as the lead front-end developer of code.gov.  Previously, he lead development of the Global Agricultural and Disaster Assessment System at the U.S. Department of Agriculture.  He is also a fellow emeritus of MapStory.org, a website based on GeoNode that empowers users to tell stories about change over time using maps."
+  thumbnailUrl: daniel-dufour.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/danieljdufour"}
+    - {name: "twitter", link: "http://twitter.com/DanielJDufour"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danieljdufour/"}
+-
+  id: 18
+  name: "David"
+  surname: "Kennewell"
+  company: "Hydrata"
+  bio: "I'm a chartered Environmental Engineer and geospatial web developer. I help manage human impacts on our water resources. This often means working with infrastructure projects or cities to transparently manage their data, their modelling and the presentation of environmental impact assessments. The first 10 years of my career was with large engineering consultancies, however now I work through a small independent company. "
+  thumbnailUrl: david-kennewell.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/Hydrata"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/davekennewell"}
+-
+  id: 13
+  name: "Dimitris"
+  surname: "Karakostis"
+  company: "World Food Programme"
+  bio: "Dimitris Karakostis is a geoinformatics specialist and a web gis developer with a Ms in Geoinformatics (TU Berlin) and a Diploma in Mining Engineering (TU Crete). Dimitris has four plus years of working experience in GIS related projects, development of web GIS information systems, designing and management of (spatial) databases and implementation of complex workflows."
+  thumbnailUrl: dimitris-karakostis.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://www.linkedin.com/dkarakostis"}
+-
   id: 6
   name: "Francesco"
   surname: "Bartoli"
@@ -48,53 +73,6 @@
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/francbartoli"}
--
-  id: 7
-  name: "Piero"
-  surname: "Boccardo"
-  company: "ITHACA"
-  bio: ""
-  thumbnailUrl: piero-boccardo.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
-
--
-  id: 8
-  name: "Stephen"
-  surname: "Peedell"
-  company: "European Commission - DG Joint Research Centre"
-  bio: "Steve Peedell leads the Biodiversity and Protected Areas Management (BIOPAMA) programme at the European Commission Joint Research Centre, mapping areas of high nature value across African, Caribbean and Pacific countries. He has been working with geospatial information technology for the last 30 years and was involved in many projects to improve collaborative use of data and systems for environmental management, including the early work on the Infrastructure for Spatial Information in Europe (INSPIRE)"
-  thumbnailUrl: stephen-peedell.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/stevelaveno ‏"}
-
--
-  id: 9
-  name: "Alessio"
-  surname: "Fabiani"
-  company: "Geosolutions"
-  bio: "Eng. Alessio Fabiani is a Software Engineer, co-founder of GeoSolutions S.A.S., with more than 10 years experience in C++, Java and Python development, currently working as Software Engineer, Technical Lead and Team Leader at GeoSolutions. Involved in many worldwide relevant GIS OpenSource projects, core developer and member of the projects management/steering committees, like GeoServer, GeoTools and GeoNode."
-  thumbnailUrl: alessio-fabiani.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/alfa7691o"}
-    - {name: "github", link: "https://github.com/afabiani"}
-
--
-  id: 10
-  name: "Giovanni"
-  surname: "Allegri"
-  company: "Geosolutions"
-  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data management platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
-  thumbnailUrl: giovanni-allegri.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/_giohappy_"}
-    - {name: "github", link: "https://github.com/giohappy"}
-    - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
-
 -
   id: 11
   name: "Gavin"
@@ -107,28 +85,18 @@
     - {name: "twitter", link: "http://twitter.com/KartozaGeo"}
     - {name: "github", link: "http://github.com/kartoza"}
     - {name: "linkedin", link: "http://linkedin.com/kartoza-pty-ltd"}
-
 -
-  id: 12
-  name: "Steph"
-  surname: "Bannister"
-  company: "Human-Centred Design Consultant"
-  bio: "I’ve been a designer for more than 15 years. I started in visual communication but have spent most of that time creating digital products and services, along with the concepts and strategies that support them. I’ve done this for large organisations, non-profits, and start-ups in many different sectors: humanitarian, health, employment, government, retail and advertising. I’ve worked on and led teams of all sizes and shapes, alongside everyone from members of the public to members of the board. I know how it important an inquisitive, collaborative approach to design is. And I believe that the same skills and methods that go into making a good, fit-for-market product can be applied to solving the complex, socially-focussed problems facing us today."
-  thumbnailUrl: steph-bannister.jpg
+  id: 10
+  name: "Giovanni"
+  surname: "Allegri"
+  company: "Geosolutions"
+  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data management platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
+  thumbnailUrl: giovanni-allegri.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/stephbannister/"}
--
-  id: 13
-  name: "Dimitris"
-  surname: "Karakostis"
-  company: "World Food Programme"
-  bio: "Dimitris Karakostis is a geoinformatics specialist and a web gis developer with a Ms in Geoinformatics (TU Berlin) and a Diploma in Mining Engineering (TU Crete). Dimitris has four plus years of working experience in GIS related projects, development of web GIS information systems, designing and management of (spatial) databases and implementation of complex workflows."
-  thumbnailUrl: dimitris-karakostis.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "http://www.linkedin.com/dkarakostis"}
-
+    - {name: "twitter", link: "http://twitter.com/_giohappy_"}
+    - {name: "github", link: "https://github.com/giohappy"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
 -
   id: 15
   name: "Paolo"
@@ -140,7 +108,57 @@
   social:
     - {name: "github", link: "https://github.com/ppasq"}
     - {name: "twitter", link: "http://twitter.com/therealPASQ"}
-
+-
+  id: 7
+  name: "Piero"
+  surname: "Boccardo"
+  company: "ITHACA"
+  bio: ""
+  thumbnailUrl: piero-boccardo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
+-
+  id: 3
+  name: "Simone"
+  surname: "Dalmasso"
+  company: "European Commission - DG Joint Research Centre"
+  bio: "Environmental Engineer and Ph.D. in Geomatics with passion for Geospatial Open Source Software, Simone is working at the European Commission DG-JRC based on the lake Maggiore in north Italy where he is in charge for the Copernicus EMS Rapid Mapping technical management and supervision. Simone is a GeoNode core developer since 2011 and OSGeo Charter member."
+  thumbnailUrl: simone-dalmasso.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/simo_d"}
+    - {name: "github", link: "https://github.com/simod"}
+-
+  id: 12
+  name: "Steph"
+  surname: "Bannister"
+  company: "Human-Centred Design Consultant"
+  bio: "I’ve been a designer for more than 15 years. I started in visual communication but have spent most of that time creating digital products and services, along with the concepts and strategies that support them. I’ve done this for large organisations, non-profits, and start-ups in many different sectors: humanitarian, health, employment, government, retail and advertising. I’ve worked on and led teams of all sizes and shapes, alongside everyone from members of the public to members of the board. I know how it important an inquisitive, collaborative approach to design is. And I believe that the same skills and methods that go into making a good, fit-for-market product can be applied to solving the complex, socially-focussed problems facing us today."
+  thumbnailUrl: steph-bannister.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/stephbannister/"}
+-
+  id: 8
+  name: "Stephen"
+  surname: "Peedell"
+  company: "European Commission - DG Joint Research Centre"
+  bio: "Steve Peedell leads the Biodiversity and Protected Areas Management (BIOPAMA) programme at the European Commission Joint Research Centre, mapping areas of high nature value across African, Caribbean and Pacific countries. He has been working with geospatial information technology for the last 30 years and was involved in many projects to improve collaborative use of data and systems for environmental management, including the early work on the Infrastructure for Spatial Information in Europe (INSPIRE)"
+  thumbnailUrl: stephen-peedell.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/stevelaveno ‏"}
+-
+  id: 14
+  name: "Vivien"
+  surname: "Deparday"
+  company: "World Bank Group"
+  bio: "Vivien Deparday is a Disaster Risk Management Specialist at the Global Facility for Disaster Risk Reduction (GFDRR) at the World Bank. He leads GFDRR’s Open Data for Resilience Initiative (OpenDRI). He is a member of the GFDRR Innovation Lab, supporting World Bank teams across the globe by providing technical and strategic assistance to help governments better collect, share, and use information, as well as develop tools and build long-term capacity to support decisions to reduce the impact of disasters. Vivien has extensive experience in geospatial technology, community mapping, open source, open data and more generally in bringing open innovation to resilience projects."
+  thumbnailUrl: vivien-deparday.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/vdeparday"}
 -
   id: 16
   name: "Yoann"
@@ -149,28 +167,11 @@
   bio: "An engineer with 8 years of experience, Yoann joined Novel-T in 2014. His expertise combines in-depth knowledge of GIS (Geographic Information System), both Esri and Open-source with strong Full-Stack web development experience using JavaScript and Python technologies."
   thumbnailUrl: yoann-mira.jpg
   rockstar: true
-
 -
-  id: 17
-  name: "Daniel"
-  surname: "Dufour"
-  company: "GeoTIFF.io"
-  bio: "Daniel J. Dufour is the founder of GeoTIFF.io, FirstDraftGIS.com, and TweetGeoLocator.com. He also works as the lead front-end developer of code.gov.  Previously, he lead development of the Global Agricultural and Disaster Assessment System at the U.S. Department of Agriculture.  He is also a fellow emeritus of MapStory.org, a website based on GeoNode that empowers users to tell stories about change over time using maps."
-  thumbnailUrl: daniel-dufour.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/danieljdufour"}
-    - {name: "twitter", link: "http://twitter.com/DanielJDufour"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danieljdufour/"}
-
--
-  id: 18
-  name: "David"
-  surname: "Kennewell"
-  company: "Hydrata"
-  bio: "I'm a chartered Environmental Engineer and geospatial web developer. I help manage human impacts on our water resources. This often means working with infrastructure projects or cities to transparently manage their data, their modelling and the presentation of environmental impact assessments. The first 10 years of my career was with large engineering consultancies, however now I work through a small independent company. "
-  thumbnailUrl: david-kennewell.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/Hydrata"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/davekennewell"}
+  id: 99
+  name: "To Be"
+  surname: "Defined"
+  company: "GeoNode"
+  bio: ""
+  thumbnailUrl: default.jpg
+  rockstar: false
