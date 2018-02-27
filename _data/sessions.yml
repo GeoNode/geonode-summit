@@ -80,6 +80,12 @@
   subtype: talk
   speakers: [99]
 -
+  id: 208
+  title: "Adding Raster Analysis Tools to the GeoNode Experience"
+  description: "Computers, including mobile devices, continue to become more powerful, opening up pathways for GIS that haven't existed before.  GeoTIFF.io, is an open-source community-driven project, and a website that allows users to analyze rasters completely in their browser.  This presentation will go over a proposed simple addition of a button to GeoNode pages that would allow a user to open up the raster layers in GeoTIFF.io.  GeoTIFF.io, as it processes everything client-side and is hosted on Github Pages, is completely free and can scale nearly infinitely.  Specifically, GeoTIFF.io has been used to analyze pasturelands in Europe, access to ante-natal care in Rwanda, rainfed wheat in Ukraine and much more."
+  subtype: talk
+  speakers: [17]
+-
   id: 211
   title: "Keynote Speech"
   description: "TBD"
