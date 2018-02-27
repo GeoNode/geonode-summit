@@ -21,6 +21,14 @@
     - {name: "twitter", link: "https://twitter.com/ingenieroariel"}
     - {name: "github", link: "https://github.com/ingenieroariel"}
 -
+  id: 20
+  name: "Bernard Justus"
+  surname: "Muhwezi"
+  company: "Uganda Bureau of Statistics"
+  bio: ''
+  thumbnailUrl: bernard-justus-muhwezi.jpg
+  rockstar: false
+-
   id: 5
   name: "Cristiano"
   surname: "Giovando"
@@ -63,6 +71,16 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "http://www.linkedin.com/dkarakostis"}
+-
+  id: 19
+  name: "Fanevanjanahary"
+  surname: "Andriamiadantsoa"
+  company: ""
+  bio: ""
+  thumbnailUrl: fanevanjanahary-andriamiadantsoa.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/Fanevanjanahary"}
 -
   id: 6
   name: "Francesco"
