@@ -10,6 +10,14 @@
     - {name: "twitter", link: "http://twitter.com/alfa7691o"}
     - {name: "github", link: "https://github.com/afabiani"}
 -
+  id: 21
+  name: "Ali Mohammad"
+  surname: "Amini"
+  company: "Independent Directorate of Local Governance (IDLG)"
+  bio: ""
+  thumbnailUrl: default.jpg
+  rockstar: false
+-
   id: 4
   name: "Ariel"
   surname: "Nuñez"
@@ -24,7 +32,7 @@
   id: 20
   name: "Bernard Justus"
   surname: "Muhwezi"
-  company: "Uganda Bureau of Statistics"
+  company: "Uganda Bureau of Statistics (UBOS)"
   bio: ''
   thumbnailUrl: bernard-justus-muhwezi.jpg
   rockstar: false
@@ -75,7 +83,7 @@
   id: 19
   name: "Fanevanjanahary"
   surname: "Andriamiadantsoa"
-  company: ""
+  company: "Cellule de Prévention et Gestion des Urgences (CPGU)"
   bio: ""
   thumbnailUrl: fanevanjanahary-andriamiadantsoa.jpg
   rockstar: false
