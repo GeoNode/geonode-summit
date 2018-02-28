@@ -35,7 +35,7 @@
   company: "Uganda Bureau of Statistics (UBOS)"
   bio: ''
   thumbnailUrl: bernard-justus-muhwezi.jpg
-  rockstar: false
+  rockstar: true
 -
   id: 5
   name: "Cristiano"
