@@ -27,9 +27,10 @@
 -
   id: 101
   title: "Users Workshop"
-  description: "TBD"
+  description: "The workshop will cover the following topics: GeoNode from a user perspective, how to. It will cover tipical functionalities and use cases a GeoNode user, either Administrator and Standard, will face. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, throubleshoot and fix the most common issues."
   subtype: workshop
   speakers: [9, 10]
+  presentation: "http://training.geonode.geo-solutions.it/003_users_workshop/index.html"
 -
   id: 102
   title: "Developers Workshop"
