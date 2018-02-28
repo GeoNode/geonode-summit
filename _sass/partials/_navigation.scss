@@ -113,14 +113,19 @@ nav {
                 padding: 13px 15px 13px 15px;
                 transition: $base-transition;
                 text-transform: none;
-                color: rgba(0, 0, 0, .3);
+                color: rgba(0, 0, 0, .6);
                 outline: 0;
             }
             &.current, &:hover {
+                /*color: $nav-color-hover;*/
+                border-bottom: 1px solid white;
+                color : white;
+                padding-bottom: 1em;
                 text-decoration: none;
-                color: $nav-color-hover;
                 @media (max-width: 767px) {
+                    border-bottom: 0;
                     color: $main-color;
+                    padding-bottom: 1em;
                 }
             }
             .top-header.after-scroll & {
@@ -131,6 +136,7 @@ nav {
                 &.current, &:hover {
                     color: $nav-scroll-color-hover;
                     @media (max-width: 767px) {
+
                         color: $main-color;
                     }
                 }
