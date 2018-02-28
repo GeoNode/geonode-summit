@@ -129,17 +129,37 @@
     - {title: "CdA Room", color: "#ff3e10"}
   timeslots:
     - {
-    	startTime: "09:30",
-    	endTime: "12:30",
-    	sessionIds: [301, 302]
+    	startTime: "08:30",
+    	endTime: "10:00",
+    	sessionIds: [306, 301]
     }
     - {
-    	startTime: "12:30",
-    	endTime: "14:30",
+    	startTime: "10:00",
+    	endTime: "10:30",
+    	sessionIds: [999]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "12:00",
+    	sessionIds: [303, 302]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "13:30",
     	sessionIds: [888]
     }
     - {
-    	startTime: "14:30",
+    	startTime: "13:30",
+    	endTime: "15:00",
+    	sessionIds: [304]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:30",
+    	sessionIds: [999]
+    }
+    - {
+    	startTime: "15:30",
     	endTime: "17:00",
-    	sessionIds: [303, 304]
+    	sessionIds: [305]
     }

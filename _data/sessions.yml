@@ -88,10 +88,10 @@
   speakers: [17]
 -
   id: 211
-  title: "Keynote Speech"
+  title: "Challenges and successes in sharing geospatial data in Africa"
   description: "TBD"
   subtype: keynote
-  speakers: [99]
+  speakers: [20]
 -
   id: 212
   title: "15' Talk"
@@ -124,7 +124,13 @@
   speakers: [99]
 -
   id: 301
-  title: "User-centered design session 1"
+  title: "Governance roundtable"
+  description: "TBD"
+  subtype: workshop
+  speakers: [99]
+-
+  id: 306
+  title: "One-on-One interviews"
   description: "TBD"
   subtype: workshop
   speakers: [12]
@@ -136,12 +142,18 @@
   speakers: [99]
 -
   id: 303
-  title: "User-centered design session 2"
+  title: "User-centered design session"
   description: "TBD"
   subtype: workshop
   speakers: [12]
 -
   id: 304
+  title: "Solution brainstorming"
+  description: "TBD"
+  subtype: workshop
+  speakers: [12]
+-
+  id: 305
   title: "Roadmap Discussion"
   description: "TBD"
   subtype: workshop

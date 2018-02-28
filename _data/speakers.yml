@@ -35,7 +35,7 @@
   company: "Uganda Bureau of Statistics (UBOS)"
   bio: ''
   thumbnailUrl: bernard-justus-muhwezi.jpg
-  rockstar: false
+  rockstar: true
 -
   id: 5
   name: "Cristiano"
@@ -139,7 +139,7 @@
   name: "Piero"
   surname: "Boccardo"
   company: "ITHACA"
-  bio: ""
+  bio: "Director of ITHACA and Professor in Remote Sensing at Politecnico di Torino since 2001, supervisor of more than 70 degree and PhD theses, author of more than 100 scientific publications. Managed several projects in the field of Remote Sensing, GIS and Information Technology especially in support of Disaster Management. President of the AIT (Remote Sensing Italian Association) since 2010; President of the public company 5T; Member of the Steering Committee of ASITA (Federation of Scientific Associations for Environmental Information)."
   thumbnailUrl: piero-boccardo.jpg
   rockstar: true
   social:
