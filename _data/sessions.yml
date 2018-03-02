@@ -129,12 +129,6 @@
   subtype: workshop
   speakers: [99]
 -
-  id: 306
-  title: "One-on-One interviews"
-  description: "TBD"
-  subtype: workshop
-  speakers: [12]
--
   id: 302
   title: "Code Sprint"
   description: "TBD"
@@ -142,14 +136,14 @@
   speakers: [99]
 -
   id: 303
-  title: "User-centered design session"
-  description: "TBD"
+  title: "User-centered design session 1"
+  description: "The first of two design session where we will work together as a community to explore how the current GeoNode experience can be improved for developers as well as for users. Session one will focus on uncovering the problems and obstacles encountered when using and working with GeoNode. We will using a series or fast paced and highly collaborative exercises to identify, arrange and rank issues in preparation for session 2 in the afternoon. To get ready, start thinking of points where changes to GeoNode would make your work easier."
   subtype: workshop
   speakers: [12]
 -
   id: 304
-  title: "Solution brainstorming"
-  description: "TBD"
+  title: "User-centered design session 2"
+  description: "This is the second of two design sessions.  It will build  on the work from the morning session to explore potential solutions the obstacles facing GeoNode users and developers. Once again, it will be hands-on, fast-paced and collaborative. You don't need to have attended the morning design session to contribute to this one, though it will help."
   subtype: workshop
   speakers: [12]
 -
