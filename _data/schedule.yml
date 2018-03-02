@@ -131,7 +131,7 @@
     - {
     	startTime: "08:30",
     	endTime: "10:00",
-    	sessionIds: [306, 301]
+    	sessionIds: [301]
     }
     - {
     	startTime: "10:00",
