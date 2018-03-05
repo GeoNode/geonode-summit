@@ -100,10 +100,10 @@
   speakers: [99]
 -
   id: 213
-  title: "15' Talk"
-  description: "TBD"
+  title: "One Geonode, many Geonode"
+  description: "GeoSolutions has been involved into a number of projects, ranging from local administrations to global institutions, involving GeoNode deployments, customizations and enhancements. A gallery of projects and use cases will showcase the versatility and effectiveness of GeoNode, both as a standalone application and as a service component, for building secured geodata catalogs and web mapping services. Lastly, ongoing and future developments will be presented ranging from the upcoming integration with MapStore to the monitoring and analytics dashboard or the support for time series data."
   subtype: talk
-  speakers: [99]
+  speakers: [9]
 -
   id: 214
   title: "15' Talk"
