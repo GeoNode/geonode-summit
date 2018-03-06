@@ -94,11 +94,11 @@
   speakers: [20]
 -
   id: 212
-  title: "GFDRR Data Exploration Tool"
+  title: "Challenge Fund Data Exploration"
   description: "A data exploration tool for risk related data is under development  by GeoSolutions for the World Bank's Global Facility for Disaster Reduction and Recovery global partnership. As part of the Challenge Fund program, this tool aims at providing a centralized, global, database for exposures, hazards and vulnerabilities data sets. 
   The data exploration tool is being developed leveraging on MapStore and GeoNode to provide stakeholders with a user-friendly access to the rich database of information and data useful for risk analysis and disaster management. Such platform will also try to lay out the foundations for GeoNode 3, the new version of the popular Open Source platform."
   subtype: talk
-  speakers: [9]
+  speakers: [10]
 -
   id: 213
   title: "One Geonode, many Geonode"
