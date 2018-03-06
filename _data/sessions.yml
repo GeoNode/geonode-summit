@@ -119,6 +119,12 @@
   speakers: [99]
 -
   id: 216
+  title: "15' Talk"
+  description: "TBD"
+  subtype: talk
+  speakers: [99]
+-
+  id: 217
   title: "Closing remarks"
   description: "TBD"
   subtype: talk
