@@ -199,5 +199,5 @@ directionDetailsWideCards:
    -
     title: "Attendance Details"
     links:
-     - {link: "/blog/accommodation/", text: "Recommended Hotels"}
+     - {link: "/blog/accommodation", text: "Recommended Hotels"}
      - {permalink: "/cod/", text: "Code of Conduct"}
