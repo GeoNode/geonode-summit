@@ -94,10 +94,10 @@
   speakers: [20]
 -
   id: 212
-  title: "15' Talk"
-  description: "TBD"
+  title: "Geonode integration with town planning management software"
+  description: "This talk is about the demonstrating the use of geonode as map composer and GIS proxy in order to show simple maps in open-source town planning management software in Belgium. Tailoring maps inside geonode help towns to get the needed legal and informative layers online and/or get directly connected to the regional GIS service portal in order to make decision on up-to-date data and share maps inside the town administration."
   subtype: talk
-  speakers: [99]
+  speakers: [22]
 -
   id: 213
   title: "15' Talk"
