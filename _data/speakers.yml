@@ -124,6 +124,18 @@
     - {name: "github", link: "https://github.com/giohappy"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
 -
+  id: 22
+  name: "Nicolas"
+  surname: "Dufrane"
+  company: "Geode SPRL"
+  bio: "GIS Developer and Open-source enthusiast."
+  thumbnailUrl: nicolas-dufrane.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/ndufrane"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nicolas-dufrane-b1836a44"}
+
+-
   id: 15
   name: "Paolo"
   surname: "Pasquali"
