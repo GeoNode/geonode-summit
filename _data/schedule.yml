@@ -58,8 +58,33 @@
     }
     - {
     	startTime: "11:30",
-    	endTime: "11:35",
+    	endTime: "11:45",
     	sessionIds: [208]
+    }
+    - {
+    	startTime: "11:45",
+    	endTime: "12:00",
+    	sessionIds: [209]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:15",
+    	sessionIds: [219]
+    }
+    - {
+    	startTime: "12:15",
+    	endTime: "12:20",
+    	sessionIds: [220]
+    }
+    - {
+    	startTime: "12:20",
+    	endTime: "12:25",
+    	sessionIds: [210]
+    }
+    - {
+    	startTime: "12:25",
+    	endTime: "12:30",
+    	sessionIds: [211]
     }
     - {
     	startTime: "12:30",
@@ -74,17 +99,17 @@
     - {
     	startTime: "14:30",
     	endTime: "15:00",
-    	sessionIds: [211]
+    	sessionIds: [212]
     }
     - {
     	startTime: "15:00",
     	endTime: "15:15",
-    	sessionIds: [212]
+    	sessionIds: [213]
     }
     - {
     	startTime: "15:15",
     	endTime: "15:30",
-    	sessionIds: [213]
+    	sessionIds: [214]
     }
     - {
     	startTime: "15:30",
@@ -94,22 +119,22 @@
     - {
     	startTime: "16:00",
     	endTime: "16:15",
-    	sessionIds: [214]
+    	sessionIds: [215]
     }
     - {
     	startTime: "16:15",
     	endTime: "16:30",
-    	sessionIds: [215]
+    	sessionIds: [216]
     }
     - {
     	startTime: "16:30",
     	endTime: "16:45",
-    	sessionIds: [216]
+    	sessionIds: [217]
     }
     - {
     	startTime: "16:45",
     	endTime: "17:00",
-    	sessionIds: [217]
+    	sessionIds: [218]
     }
     - {
     	startTime: "17:00",

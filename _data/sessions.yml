@@ -82,24 +82,48 @@
   speakers: [6]
 -
   id: 208
+  title: "Customizing GeoNode. The Good, the Bad and the Ugly"
+  description: "TBD"
+  subtype: talk
+  speakers: [15]
+-
+  id: 209
+  title: "TBD"
+  description: "TBD"
+  subtype: talk
+  speakers: [14]
+-
+  id: 210
   title: "Adding Raster Analysis Tools to the GeoNode Experience"
   description: "Computers, including mobile devices, continue to become more powerful, opening up pathways for GIS that haven't existed before.  GeoTIFF.io, is an open-source community-driven project, and a website that allows users to analyze rasters completely in their browser.  This presentation will go over a proposed simple addition of a button to GeoNode pages that would allow a user to open up the raster layers in GeoTIFF.io.  GeoTIFF.io, as it processes everything client-side and is hosted on Github Pages, is completely free and can scale nearly infinitely.  Specifically, GeoTIFF.io has been used to analyze pasturelands in Europe, access to ante-natal care in Rwanda, rainfed wheat in Ukraine and much more."
   subtype: talk
   speakers: [17]
 -
   id: 211
-  title: "Challenges and successes in sharing geospatial data in Africa"
-  description: "TBD"
-  subtype: keynote
-  speakers: [20]
--
-  id: 212
   title: "Geonode integration with town planning management software"
   description: "This talk is about the demonstrating the use of geonode as map composer and GIS proxy in order to show simple maps in open-source town planning management software in Belgium. Tailoring maps inside geonode help towns to get the needed legal and informative layers online and/or get directly connected to the regional GIS service portal in order to make decision on up-to-date data and share maps inside the town administration."
   subtype: talk
   speakers: [22]
 -
+  id: 212
+  title: "Challenges and successes in sharing geospatial data in Africa"
+  description: "TBD"
+  subtype: keynote
+  speakers: [20]
+-
   id: 213
+  title: "TBD"
+  description: "TBD"
+  subtype: talk
+  speakers: [4]
+-
+  id: 214
+  title: "TBD"
+  description: "TDB"
+  subtype: talk
+  speakers: [99]
+-
+  id: 215
   title: "15' Talk"
   description: "TBD"
   title: "Challenge Fund Data Exploration"
@@ -108,7 +132,7 @@
   subtype: talk
   speakers: [10]
 -
-  id: 214
+  id: 216
   title: "15' Talk"
   description: "TBD"
   title: "One Geonode, many Geonode"
@@ -116,14 +140,26 @@
   subtype: talk
   speakers: [9]
 -
-  id: 215
-  title: "15' Talk"
+  id: 217
+  title: "ADB SPADE: exploring and analysing infrastructure and climate data"
+  description: "Finding the balance between out-of-the-box GeoNode implementation, a user interface as simple as possible & advanced analysis tools to support climate change resilient infrastructure project planning, implementation and monitoring."
+  subtype: talk
+  speakers: [23]
+-
+  id: 218
+  title: "Closing remarks"
   description: "TBD"
   subtype: talk
   speakers: [99]
 -
-  id: 216
-  title: "Closing remarks"
+  id: 219
+  title: "TBD"
+  description: "TBD"
+  subtype: talk
+  speakers: [99]
+-
+  id: 220
+  title: "Lightning Talk TBD"
   description: "TBD"
   subtype: talk
   speakers: [99]
