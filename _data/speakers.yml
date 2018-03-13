@@ -80,6 +80,17 @@
   social:
     - {name: "linkedin", link: "http://www.linkedin.com/dkarakostis"}
 -
+  id: 23
+  name: "Erwin"
+  surname: "Sterrenburg"
+  company: "Royal HaskoningDHV"
+  bio: "I am a civil engineer with a healthy interest in GIS and mapping, working as a consultant Geo-ICT for Royal HaskoningDHV, an international, engineering consultancy firm with headquarters in the Netherlands and operating worldwide."
+  thumbnailUrl: erwin-sterrenburg.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/ewsterrenburg"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ewsterrenburg"}
+-
   id: 19
   name: "Fanevanjanahary"
   surname: "Andriamiadantsoa"
