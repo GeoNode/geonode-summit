@@ -111,6 +111,16 @@
   social:
     - {name: "twitter", link: "http://twitter.com/francbartoli"}
 -
+  id: 24
+  name: "Francesco"
+  surname: "Stompanato"
+  company: "World Food Programme"
+  bio: "Telecommunication engineer with a strong passion for geography and Open Source technologies for Humanitarian Assistance and Disaster Management. Since mid-2011 I’m supporting the Emergency Preparedness & Response division in WFP in the implementation and management of systems and initiatives for efficient management and sharing of geospatial information. GeoNode addicted."
+  thumbnailUrl: francesco-stompanato.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://linkedin.com/francesco-stompanato-09042921"}
+-
   id: 11
   name: "Gavin"
   surname: "Fleming"
@@ -134,6 +144,14 @@
     - {name: "twitter", link: "http://twitter.com/_giohappy_"}
     - {name: "github", link: "https://github.com/giohappy"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
+-
+  id: 25
+  name: "Hamid"
+  surname: "Mohammed Abu"
+  company: "World Bank Group"
+  bio: ""
+  thumbnailUrl: mohammed-abu-hamid.jpg
+  rockstar: false
 -
   id: 22
   name: "Nicolas"
@@ -197,7 +215,7 @@
   thumbnailUrl: stephen-peedell.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/stevelaveno ‏"}
+    - {name: "twitter", link: "http://twitter.com/stevelaveno"}
 -
   id: 14
   name: "Vivien"
