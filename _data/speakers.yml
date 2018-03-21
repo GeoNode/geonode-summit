@@ -11,12 +11,12 @@
     - {name: "github", link: "https://github.com/afabiani"}
 -
   id: 21
-  name: "Ali Mohammad"
-  surname: "Amini"
-  company: "Independent Directorate of Local Governance (IDLG)"
+  name: "Silence"
+  surname: "Chirwa"
+  company: "Malawi Department of Surveys"
   bio: ""
-  thumbnailUrl: default.jpg
-  rockstar: false
+  thumbnailUrl: silence-chirwa.jpg
+  rockstar: true
 -
   id: 4
   name: "Ariel"

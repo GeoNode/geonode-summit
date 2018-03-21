@@ -143,10 +143,16 @@
   speakers: [22]
 -
   id: 218
+  title: "Malawi Spatial Data Portal (MASDAP)"
+  description: "Malawi become the first user of Geonode in Africa in the year 2012. MASDAP is a government portal used so storing GIS data. This talk will cover the following topics: Location of Malawi; MASDAP Background; MASDAP Development; Economies of open data; MASDAP site administration; Geospatial data in MASDAP; Layers in MASDAP; Categories of dataset; Main functionalities; Functions within MASDAP; Way forward."
+  subtype: talk
+  speakers: [21]
+-
+  id: 219
   title: "Closing remarks"
   description: "TBD"
   subtype: talk
-  speakers: [99]
+  speakers: [15]
 -
   id: 301
   title: "Governance Roundtable"
@@ -156,7 +162,7 @@
 -
   id: 302
   title: "Code Sprint"
-  description: "TBD"
+  description: "A sprint is getting contributors together and work on Open Source software, testing, documentation and providing feedback. There are roles needed to be filled, no matter what your expertise, so everyone is welcome. This code sprint goal is working on the GeoNode next release."
   subtype: workshop
   speakers: [9]
 -
