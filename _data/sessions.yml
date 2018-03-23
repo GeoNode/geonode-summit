@@ -59,7 +59,7 @@
 -
   id: 204
   title: "WFP GeoNode Use cases and Roadmap"
-  description: ""
+  description: "In this presentation we will describe a set of functionalities and customizations we have implemented in WFP GeoNode (based on GeoNode 2.4) such as a query builder functionality and a map tool for filtering and downloading vector layers, a create new layer functionality with arbitrary number of columns, a create new layer functionality based on administrative boundaries, an editing data app alternative to the existing one and a customization to the remote services app, which allows selecting the layers to be created. Additionally we will present the current position of WFP GeoNode in our GIS infrastructure, the role of the platform as a data hub and a number of use cases and projects in which GeoNode and other tools join forces to accomplish tasks."
   subtype: talk
   speakers: [13, 24]
 -
