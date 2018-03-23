@@ -94,8 +94,8 @@
   speakers: [23]
 -
   id: 210
-  title: "TBD"
-  description: "TBD"
+  title: "A GeoNode platform in Madagascar"
+  description: "In 2017, Madagascar was ranked 178 out of 180 among the countries which have already opened its data. However, we have implemented Geonode platform. So I will present the activities done since the deployment and the challenge for maintain as well as animate. Then, the functionality which we added on our instance. "
   subtype: talk
   speakers: [19]
 -
