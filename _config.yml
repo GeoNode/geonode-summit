@@ -44,9 +44,11 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
+# - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
+- {link: "/schedule/", text: "Schedule"}
 rightNavigationButtons:
- - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
+# - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
+- {link: "/schedule/", text: "Schedule"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,8 +57,10 @@ eventDate: "Torino, Italy | March 26 - 28, 2018"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
 heroButtons:
- - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
- - {permalink: "/#register", text: "Register"}
+# - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
+# - {permalink: "/#register", text: "Register"}
+ - {link: "/schedule/", text: "Schedule"}
+ - {permalink: "#", text: "Registration Closed"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
