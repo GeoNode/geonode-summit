@@ -68,6 +68,7 @@
   description: "The Bangladesh Geospatial Data Sharing Platform (GeoDASH) is a web-based spatial data infrastructure and GIS that empowers government, academia, private enterprise and the public to securely host, manage, share, visualize and analyze geospatial data. GeoDASH overview, Unique features, BNEA overview, Open Group Award 2018, relation between GeoDASH and BNEA, future activities of GeoDASH and BNEA."
   subtype: talk
   speakers: [25, 26]
+  presentation: "../presentation/GeoDASH-and-Bangladesh-NSDI-and-BNEA.pdf"
 -
   id: 206
   title: "Geonode integration with town planning management software"
@@ -98,6 +99,7 @@
   description: "In 2017, Madagascar was ranked 178 out of 180 among the countries which have already opened its data. However, we have implemented Geonode platform. So I will present the activities done since the deployment and the challenge for maintain as well as animate. Then, featured we added on our instance."
   subtype: talk
   speakers: [19]
+  presentation: "../presentation/Geonode-roadmap-in-Madagascar.pdf"
 -
   id: 211
   title: "Customizing GeoNode"
@@ -122,6 +124,7 @@
   description: "TBD"
   subtype: keynote
   speakers: [20]
+  presentation: "../presentation/Challenges-and-Successes-in-Sharing-Geospatial-Data-in-Africa.pdf"
 -
   id: 215
   title: "Challenge Fund Data Exploration"
@@ -141,6 +144,7 @@
   description: "GeoNode is an easy to use platform for developing web based Geospatial Information Systems and for deploying interoperable and OGC standards compliant Spatial Data Infrastructure (SDI). The platform can be composed and extended with different components like Elasticsearch, GeoGig, QGIS Server beyond the common ones GeoServer, PostGIS and pycsw as an example. This model of a such SDI is natively fitting very well with the cloud approach of Software As a Service (SaaS) and looks at the new DevOps technologies like Ansible and Docker for optimizing the scale up and make an easier deployment for the end users. Docker and its orchestration tool docker-compose has been extensively used to strengthen the configuration and the start of each single component. The talk aims to describe how GeoNode images have been designed and docker volumes are used for data configuration, finally how docker-compose can be used by Rancher stacks. The presentation will provide an introduction to the state of the art and examples on how to deploy GeoNode with Docker for development or to use Rancher for production environments into AWS."
   subtype: talk
   speakers: [6]
+  presentation: "http://geonode-summit-2018-geobeyond.surge.sh/#/0"
 -
   id: 218
   title: "GeoNode 0.1 to 3.0"

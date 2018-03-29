@@ -10,14 +10,6 @@
     - {name: "twitter", link: "http://twitter.com/alfa7691o"}
     - {name: "github", link: "https://github.com/afabiani"}
 -
-  id: 21
-  name: "Silence"
-  surname: "Chirwa"
-  company: "Malawi Department of Surveys"
-  bio: ""
-  thumbnailUrl: silence-chirwa.jpg
-  rockstar: true
--
   id: 4
   name: "Ariel"
   surname: "Nuñez"
@@ -185,6 +177,14 @@
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/PieroBoccardo"}
+-
+  id: 21
+  name: "Silence"
+  surname: "Chirwa"
+  company: "Malawi Department of Surveys"
+  bio: ""
+  thumbnailUrl: silence-chirwa.jpg
+  rockstar: true
 -
   id: 3
   name: "Simone"
