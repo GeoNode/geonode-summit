@@ -93,6 +93,7 @@
   description: "Finding the balance between out-of-the-box GeoNode implementation, a user interface as simple as possible & advanced analysis tools to support climate change resilient infrastructure project planning, implementation and monitoring."
   subtype: talk
   speakers: [23]
+  presentation: "https://royalhaskoningdhv.box.com/v/adb-spade-20180325"
 -
   id: 210
   title: "Geonode roadmap in Madagascar"
