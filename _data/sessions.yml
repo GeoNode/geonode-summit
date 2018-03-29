@@ -52,10 +52,11 @@
   speakers: [8]
 -
   id: 203
-  title: "One Geonode, many Geonode"
+  title: "One Geonode, many Geonodes"
   description: "GeoSolutions has been involved into a number of projects, ranging from local administrations to global institutions, involving GeoNode deployments, customizations and enhancements. A gallery of projects and use cases will showcase the versatility and effectiveness of GeoNode, both as a standalone application and as a service component, for building secured geodata catalogs and web mapping services. Lastly, ongoing and future developments will be presented ranging from the upcoming integration with MapStore to the monitoring and analytics dashboard or the support for time series data."
   subtype: talk
   speakers: [9]
+  presentation: "../presentation/One-GeoNode-Many-GeoNodes-SUMMIT-2018-v01.05.pdf"
 -
   id: 204
   title: "WFP GeoNode Use cases and Roadmap"
@@ -133,6 +134,7 @@
   The data exploration tool is being developed leveraging on MapStore and GeoNode to provide stakeholders with a user-friendly access to the rich database of information and data useful for risk analysis and disaster management. Such platform will also try to lay out the foundations for GeoNode 3, the new version of the popular Open Source platform."
   subtype: talk
   speakers: [10]
+  presentation: "../presentation/GeoNode-Summit-HEV-E-v01.03.pdf"
 -
   id: 216
   title: "GeoNode with QGIS, GeoNode for DRR"
