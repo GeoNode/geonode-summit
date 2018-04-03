@@ -156,6 +156,7 @@
   description: "A recount of GeoNode's history from the first version to the current plans and my personal vision for GeoNode 3.0 and its API."
   subtype: talk
   speakers: [4]
+  presentation: "../presentation/GeoNode-0.1-to-3.0.pdf"
 -
   id: 219
   title: "GeoNode Roundtable and closing remarks"
