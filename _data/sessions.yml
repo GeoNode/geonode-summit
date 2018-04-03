@@ -52,10 +52,11 @@
   speakers: [8]
 -
   id: 203
-  title: "One Geonode, many Geonode"
+  title: "One Geonode, many Geonodes"
   description: "GeoSolutions has been involved into a number of projects, ranging from local administrations to global institutions, involving GeoNode deployments, customizations and enhancements. A gallery of projects and use cases will showcase the versatility and effectiveness of GeoNode, both as a standalone application and as a service component, for building secured geodata catalogs and web mapping services. Lastly, ongoing and future developments will be presented ranging from the upcoming integration with MapStore to the monitoring and analytics dashboard or the support for time series data."
   subtype: talk
   speakers: [9]
+  presentation: "../presentation/One-GeoNode-Many-GeoNodes-SUMMIT-2018-v01.05.pdf"
 -
   id: 204
   title: "WFP GeoNode Use cases and Roadmap"
@@ -68,6 +69,7 @@
   description: "The Bangladesh Geospatial Data Sharing Platform (GeoDASH) is a web-based spatial data infrastructure and GIS that empowers government, academia, private enterprise and the public to securely host, manage, share, visualize and analyze geospatial data. GeoDASH overview, Unique features, BNEA overview, Open Group Award 2018, relation between GeoDASH and BNEA, future activities of GeoDASH and BNEA."
   subtype: talk
   speakers: [25, 26]
+  presentation: "../presentation/GeoDASH-and-Bangladesh-NSDI-and-BNEA.pdf"
 -
   id: 206
   title: "Geonode integration with town planning management software"
@@ -86,24 +88,28 @@
   description: "I've paired Geonode with the open-source 2d hydrodynamic flood model, ANUGA, to create a collaborative online flood modelling environment. This allows us to move both flood model inputs and outputs into an adaptable, transparent online hydraulic model that gets better with time, as opposed to that PDF version going out-of-date on your hard drive. The mission is to reduce the hassle involved in building and maintaining up-to-date flood models, especially in the years after the original consultancy contract is complete. I'll present a brief demonstration of the application, followed by a technical architecture overview and some lessons learned along the way. "
   subtype: talk
   speakers: [18]
+  presentation: "../presentation/Building-Flood-Models-with-Geonode.pdf"
 -
   id: 209
   title: "ADB SPADE: exploring and analysing infrastructure and climate data"
   description: "Finding the balance between out-of-the-box GeoNode implementation, a user interface as simple as possible & advanced analysis tools to support climate change resilient infrastructure project planning, implementation and monitoring."
   subtype: talk
   speakers: [23]
+  presentation: "https://royalhaskoningdhv.box.com/v/adb-spade-20180325"
 -
   id: 210
   title: "Geonode roadmap in Madagascar"
   description: "In 2017, Madagascar was ranked 178 out of 180 among the countries which have already opened its data. However, we have implemented Geonode platform. So I will present the activities done since the deployment and the challenge for maintain as well as animate. Then, featured we added on our instance."
   subtype: talk
   speakers: [19]
+  presentation: "../presentation/Geonode-roadmap-in-Madagascar.pdf"
 -
   id: 211
   title: "Customizing GeoNode"
   description: "ITHACA has been working on GeoNode since 2011. From the first European Commission to the latest World Bank funded projects this presentation is a showcase of GeoNode installations made by ITHACA with their own customizations. It's also a brief (not exhaustive) journey into the evolution of GeoNode, from the initial concept by OpenGeo and GFDRR to the current version highlighting some goods and bads."
   subtype: talk
   speakers: [15]
+  presentation: "../presentation/Customizing-GeoNode.pdf"
 -
   id: 212
   title: "GeoNode - an additional set of functionalities"
@@ -122,6 +128,7 @@
   description: "TBD"
   subtype: keynote
   speakers: [20]
+  presentation: "../presentation/Challenges-and-Successes-in-Sharing-Geospatial-Data-in-Africa.pdf"
 -
   id: 215
   title: "Challenge Fund Data Exploration"
@@ -129,6 +136,7 @@
   The data exploration tool is being developed leveraging on MapStore and GeoNode to provide stakeholders with a user-friendly access to the rich database of information and data useful for risk analysis and disaster management. Such platform will also try to lay out the foundations for GeoNode 3, the new version of the popular Open Source platform."
   subtype: talk
   speakers: [10]
+  presentation: "../presentation/GeoNode-Summit-HEV-E-v01.03.pdf"
 -
   id: 216
   title: "GeoNode with QGIS, GeoNode for DRR"
@@ -141,6 +149,7 @@
   description: "GeoNode is an easy to use platform for developing web based Geospatial Information Systems and for deploying interoperable and OGC standards compliant Spatial Data Infrastructure (SDI). The platform can be composed and extended with different components like Elasticsearch, GeoGig, QGIS Server beyond the common ones GeoServer, PostGIS and pycsw as an example. This model of a such SDI is natively fitting very well with the cloud approach of Software As a Service (SaaS) and looks at the new DevOps technologies like Ansible and Docker for optimizing the scale up and make an easier deployment for the end users. Docker and its orchestration tool docker-compose has been extensively used to strengthen the configuration and the start of each single component. The talk aims to describe how GeoNode images have been designed and docker volumes are used for data configuration, finally how docker-compose can be used by Rancher stacks. The presentation will provide an introduction to the state of the art and examples on how to deploy GeoNode with Docker for development or to use Rancher for production environments into AWS."
   subtype: talk
   speakers: [6]
+  presentation: "http://geonode-summit-2018-geobeyond.surge.sh/#/0"
 -
   id: 218
   title: "GeoNode 0.1 to 3.0"
