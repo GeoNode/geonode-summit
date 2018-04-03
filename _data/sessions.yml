@@ -88,6 +88,7 @@
   description: "I've paired Geonode with the open-source 2d hydrodynamic flood model, ANUGA, to create a collaborative online flood modelling environment. This allows us to move both flood model inputs and outputs into an adaptable, transparent online hydraulic model that gets better with time, as opposed to that PDF version going out-of-date on your hard drive. The mission is to reduce the hassle involved in building and maintaining up-to-date flood models, especially in the years after the original consultancy contract is complete. I'll present a brief demonstration of the application, followed by a technical architecture overview and some lessons learned along the way. "
   subtype: talk
   speakers: [18]
+  presentation: "../presentation/Building-Flood-Models-with-Geonode.pdf"
 -
   id: 209
   title: "ADB SPADE: exploring and analysing infrastructure and climate data"
@@ -108,6 +109,7 @@
   description: "ITHACA has been working on GeoNode since 2011. From the first European Commission to the latest World Bank funded projects this presentation is a showcase of GeoNode installations made by ITHACA with their own customizations. It's also a brief (not exhaustive) journey into the evolution of GeoNode, from the initial concept by OpenGeo and GFDRR to the current version highlighting some goods and bads."
   subtype: talk
   speakers: [15]
+  presentation: "../presentation/Customizing-GeoNode.pdf"
 -
   id: 212
   title: "GeoNode - an additional set of functionalities"
