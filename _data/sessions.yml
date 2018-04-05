@@ -50,6 +50,7 @@
   description: "&ldquo;Metadata is dull. Really dull. You just won’t believe how vastly, hugely, mindbogglingly dull it is. I mean, you may think reviewing other people's code is dull, but that’s just peanuts to metadata.&rdquo; - how to make metadata catalogues engaging<br/><br/>&ldquo;He was staring at the search interface with the air of one who is trying to convert Fahrenheit to centigrade in his head while his house is burning down.&rdquo; - how to find what you really need<br/><br/>&ldquo;It seemed to me, said Wonko the Sane, that any civilization that had so far lost its head as to need to include a set of detailed instructions for use in a spatial data catalogue, was no longer a civilization in which I could live and stay sane.&rdquo; - how to make it intuitive, and to give the right instructions where needed<br/><br/>&ldquo;Forty-two&rdquo;, said GeoNode, with infinite majesty and calm. - many GeoNode instances have 42 or less layers/maps/documents in them, how do we avoid this, and in any case, what is the question?<br/><br/>&ldquo;Don't panic.&rdquo; - GeoNode already does a great job, but how can it be made even better?"
   subtype: keynote
   speakers: [8]
+  presentation: "../presentation/Life-the-Universe-and-Everything-Final.pdf"
 -
   id: 203
   title: "One Geonode, many Geonodes"
