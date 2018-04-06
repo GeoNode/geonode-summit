@@ -145,6 +145,7 @@
   description: "Over the last year we have done a number of GeoNode related developments, which relate to integration of GeoNode with QGIS and with using GeoNode for Disaster Risk Reduction. We have also been working to make GeoNode (with QGIS Backend) easily deployable using Rancher and Docker - which we will demonstrate. This presentation will be like a Christmas hamper where we quickly show you the highlights of our work!"
   subtype: talk
   speakers: [11]
+  presentation: "https://www.icloud.com/keynote/0eCjP_Pztlac2RK7p5i59y0XQ#KartozaGeoNodePresentation-GeonodeSummit2018"
 -
   id: 217
   title: "GeoNode DevOps with Docker and Rancher"
