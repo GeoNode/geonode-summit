@@ -24,7 +24,7 @@ siteVerification: "N/A" #TODO!
 organizerName: "GeoSolutions"
 organizerAlternateName: "GeoSolutions"
 organizerDescription: "GeoSolutions provides innovative, robust and cost-effective solutions leveraging on best-of-breed Open Source products."
-organizerEmail: ""
+organizerEmail: "summit2019@geo-solutions.it"
 organizerLogo: "/img/organizers/geosolutions.png"
 organizerLink: "https://www.geo-solutions.it"
 
@@ -142,7 +142,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:summit2019@geo-solutions.it?Subject=About%20the%20Summit", text: "summit2019@geo-solutions.it"}
+   - {link: "mailto:summit2019@geo-solutions.it", text: "summit2019@geo-solutions.it"}
  -
   title: "FAQ"
   links:
