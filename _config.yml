@@ -142,7 +142,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "", text: ""}
+   - {link: "mailto:summit2019@geo-solutions.it?Subject=About%20the%20Summit", text: "summit2019@geo-solutions.it"}
  -
   title: "FAQ"
   links:
