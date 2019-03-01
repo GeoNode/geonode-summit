@@ -1,6 +1,4 @@
 -
   group: ""
   elements:
-    - {name: "ITHACA", description: "ITHACA - Information Technology for Humanitarian Assistance, Cooperation and Action", link: "http://www.ithacaweb.org", imageUrl: "ithaca.png"}
-    - {name: "GFDRR", description: "hGlobal Facility for Disaster Reduction and Recovery", link: "https://www.gfdrr.org", imageUrl: "gfdrr.png"}
-    - {name: "European Commission - Joint Research Centre", description: "European Commission - Joint Research Centre", link: "https://ec.europa.eu/jrc/en", imageUrl: "ec.png"}
+    - {name: "GeoSolutions", description: "GeoSolutions provides innovative, robust and cost-effective solutions leveraging on best-of-breed Open Source products.", link: "https://www.geo-solutions.it", imageUrl: "geosolutions.png"}
