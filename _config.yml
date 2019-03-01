@@ -68,7 +68,7 @@ aboutSubTitle: "Join us for a 3-day packed event to learn and contribute to GeoN
 aboutBlock:
  - {title: "Presentations", image: "conference.jpg", text: "The GeoNode event of the year with awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with workshops held by core developers aimed at users and developers!" }
- - {title: "Roadmapping", image: "roadmapping.jpg", text: "One full day for an open discussion on the future of GeoNode." }
+ - {title: "Codesprint", image: "roadmapping.jpg", text: "Two full days of coding to help shape the next release of GeoNode." }
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
