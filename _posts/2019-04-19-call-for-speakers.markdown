@@ -17,7 +17,7 @@ GeoNode Summit 2019 will be held from June 11 to 13 in Viareggio, Italy. If you 
 If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals).
 
 
-#### Please submit your proposals [here](http://bit.ly/2rzWEeb).
+#### Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform).
 __Deadline__ is May 20 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
