@@ -21,3 +21,13 @@
     - {name: "twitter", link: "http://twitter.com/_giohappy_"}
     - {name: "github", link: "https://github.com/giohappy"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
+-
+  id: 3
+  name: "Francesco"
+  surname: "Bartoli"
+  company: "Geobeyond"
+  bio: "Telecommunication Engineer, security and spatial IT geek with opinionated mind to open source software. Hugely passionate lover of mountain activities and landscape. Francesco is the founder and Chief Technical Officer at Geobeyond. He started GeoAvalanche in 2013, a spatial data infrastructure for snow avalanche information which is based on GeoNode and now he is an actively contributor."
+  thumbnailUrl: francesco-bartoli.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/francbartoli"}
