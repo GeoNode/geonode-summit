@@ -49,7 +49,7 @@
   title: "Developers Workshop"
   description: "The workshop will cover the following topics: GeoNode in development mode, how to. The geonode-project to customize GeoNode. Change the look and feel. Add your own app. Add your own models, views and logic. Build your own APIs. Add a third party app. Deploy your customized GeoNode."
   subtype: workshop
-  speakers: [1, 2]
+  speakers: [3]
   presentation: "http://geonode.org/dev-workshop/#/"
 -
   id: 103
