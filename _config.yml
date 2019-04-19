@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "GeoNode Summit 2019"
 email: ""
@@ -31,24 +30,26 @@ organizerLink: "https://www.geo-solutions.it"
 # Head
 metaKeywords: "event, summit, geonode, open source, programming, maps, developers, django, geoserver, postgis"
 twitterAccount: "@GeoNode"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png" # TODO remove
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- # - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
- # - {permalink: "/about/", text: "About"}
- # - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/about/", text: "About"}
+ - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
-# - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
-# - {link: "/schedule/", text: "Schedule"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
+  - {link: "/schedule/", text: "Schedule"}
+  - {link: "https://goo.gl/forms/XQ3BGXOAlS2xE4ee2", text: "Register"}
 rightNavigationButtons:
-# - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
-# - {link: "/schedule/", text: "Schedule"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
+  - {link: "/schedule/", text: "Schedule"}
+  - {link: "https://goo.gl/forms/XQ3BGXOAlS2xE4ee2", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,11 +57,11 @@ heroTitle: "GeoNode <typeout> Summit 2019"
 eventDate: "Viareggio, Italy | 11 - 13 June, 2019"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
+heroMessage: "Make sure to register to the event, seats are limited!"
 heroButtons:
-# - {link: "http://bit.ly/2rzWEeb", text: "Become a speaker!"}
-# - {permalink: "/#register", text: "Register"}
- # - {link: "/schedule/", text: "Schedule"}
- - {permalink: "https://goo.gl/forms/XQ3BGXOAlS2xE4ee2", text: "Expression of Interests"}
+ - {permalink: "/#register", text: "Register"}
+ - {link: "/schedule/", text: "Schedule"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
@@ -71,65 +72,65 @@ aboutBlock:
  - {title: "Codesprint", image: "roadmapping.jpg", text: "Two full days of coding to help shape the next release of GeoNode." }
 
 # Statistic Block
-# statisticBlockImage: "statistic.jpg"
-# statisticBlock:
-#  - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
-#  - {count: "20", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
-#  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
-#  - {count: "2", specialCharacter: "", info: "workshops", detail: "for users and developers"}
-#
-# # Latest News Block
-# latestNewsTitle: "Latest news"
-#
-# # Rockstar Speakers Block
-# rockstarSpeakersImage: "rockstar-speakers.jpg"
-# rockstarSpeakersCount: 4
-# rockstarSpeakersTitle: "Key speakers and facilitators"
-# rockstarSpeakersButtonText: "See all speakers"
-#
-# # Location Block
-# locationBlockTitle: "Location"
-# eventLocationName: "Viareggio"
-# eventLocationLink: "https://www.geo-solutions.it"
-# eventStreetAddress: "#"
-# eventAddressLocality: "Viareggio"
-# eventAddressLocalityRegion: "Toscana"
-# eventPostalCode: "#"
-# eventAddressCountry: "Italy"
-# eventStartTime: "#"
-# eventDoorTime: "#"
-# eventEndTime: "#"
-# eventPlaceCoordinates: "#"
-# mapCenterCoordinates: "#"
-# mapMobileCenterCoordinates: "#"
-#
-# # Venue Block
-# venueBlockTitle: "Venue"
-# venueBigImage: "#"
-# venueSmallImage1: "#"
-# venueSmallImage2: "#"
-# venueSmallImage3: "#"
-# venueTitle: "GeoSolutions"
-# venueFeatures: []
-#
-# # Tweets Feed Block
-# tweetsFeedImage: "twitter-feed.jpg"
-# tweetsFeedTitle: "What's Up?"
-# twitterHashTag: "geonode"
-# twitterFeed: "#"
-#
-# # Partners Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "20", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
+ - {count: "2", specialCharacter: "", info: "workshops", detail: "for users and developers"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Key speakers and facilitators"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Viareggio"
+eventLocationLink: "https://www.geo-solutions.it"
+eventStreetAddress: "#"
+eventAddressLocality: "Viareggio"
+eventAddressLocalityRegion: "Toscana"
+eventPostalCode: "#"
+eventAddressCountry: "Italy"
+eventStartTime: "#"
+eventDoorTime: "#"
+eventEndTime: "#"
+eventPlaceCoordinates: "#"
+mapCenterCoordinates: "#"
+mapMobileCenterCoordinates: "#"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "#"
+venueSmallImage1: "#"
+venueSmallImage2: "#"
+venueSmallImage3: "#"
+venueTitle: "GeoSolutions"
+venueFeatures: []
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "geonode"
+twitterFeed: "#"
+
+# Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
-#
-# # Subscribe Block
-# subscribeImage: "subscribe.jpg"
-# subscribeTitle: "Subscribe for updates"
-# subscribeAction: "#"
-# subscribeInfo: "Registration coming soon"
-#
-# # Footer
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "#"
+subscribeInfo: "Registration is open and will close at the end of May."
+
+# Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=GeoNode", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -138,7 +139,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://geonode.org", text: "GeoNode"}
-   - {link: "http://https://www.osgeo.org", text: "OSGeo"}
+   - {link: "http://www.osgeo.org", text: "OSGeo"}
  -
   title: "Contacts"
   links:
@@ -146,62 +147,72 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   # - {permalink: "/blog/how-to-get-to-the-venue", text: "How to get to the venue"}
-   # - {permalink: "/cod/", text: "Code of Conduct"}
-#
-# # Blog
-# blogTitle: "Latest news"
-# blogCommentsEnabled: false
-# discusShortName: ""
-#
-# # Speakers List Block
-# showSessions: true
-#
-# # Team Block
-# teamBlockTitle: "About"
-# aboutUs: "The Summit 2019 brings together the community of users, developers and stakeholders of GeoNode, the popular open source geospatial content management system.
-# <br/><br/>Join us for a 3-day packed event to learn and contribute to GeoNode!<br/><br/>
-#
-# GeoNode is a web-based Spatial Data Infrastructure (SDI) that enables sharing and collaborating on geospatial data. Users can upload existing shapefiles, edit data, and publish finished maps.<br/>GeoNode can also host static documents, such as PDF maps. GeoNode has robust support for open standards and OGC services, which streamlines integration with other systems and existing workflows. For example, data from GeoNode can be easily downloaded as a shapefile for use in ArcMap. At its core, GeoNode is designed to be customizable and extensible.<br/><br/>
-# GeoNode is used throughout the world by international organizations, non-profits, and mapping agencies for supporting activities ranging from emergency preparedness and response, disaster risk reduction, and many more. Additionally, GeoNode is supported by a rich ecosystem of commercial providers across the world who can help with training, technical support, or development of new features.<br/>
-# Whether your use case is wrangling thousands of layers or managing just 10 really well, GeoNode can help make your job easier."
-#
-# # Logistics Find Way Block
-# findWayTitle: "Find your way here"
-# findWayDistance: "Distance"
-# findWayDriving: "DRIVING"
-# findWayWalking: "WALKING"
-# findWayBicycling: "BICYCLING"
-# findWayTransit: "TRANSIT"
-# findWayFindFlight: "Find Flight"
-# logisticsMapCenterCoordinates: "49.056728, 3.117289"
-# logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-# logisticsMapAutoDirections: false
-#
-# # Logistics Direction Details Block
-# directionDetailsImage: "direction-details.jpg"
-# directionDetailsTitle: "Get around Torino"
-# directionDetailsCards:
-#  - {title: "From the Airport", information: 'Torino Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aeroportoditorino.it/en">airport website</a>.'}
-#  - {title: "Public Transit", information: 'Ordinary urban ticket is 1.50 €. More information about <a href="http://www.gtt.to.it/cms/en/fares">fares</a> and directions at <a href="http://www.gtt.to.it/cms/en/">GTT website</a>. The Torino Underground connects the Fermi station in Collegno through the Lingotto station in Torino. Vinzaglio is the closest station to ITHACA.'}
-#  - {title: "Hotels", information: 'Torino has lots of great hotels and apartments to rent. More information will be available later.'}
-# directionDetailsWideCards:
-#  -
-#   title: "Questions?"
-#   subCards:
-#    -
-#     title: "Getting to the venue"
-#     links:
-#      - {link: "/blog/how-to-get-to-the-venue", text: "At the airport"}
-#      - {link: "/blog/how-to-get-to-the-venue", text: "Arriving by train"}
-#      - {link: "/blog/how-to-get-to-the-venue", text: "Get around Torino"}
-#    -
-#     title: "Registration"
-#     links:
-#      - {link: "#", text: "How to register"}
-#      - {link: "#", text: "Submit a presentation"}
-#    -
-#     title: "Attendance Details"
-#     links:
-#      - {link: "/blog/accommodation", text: "Recommended Hotels"}
-#      - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/blog/how-to-get-to-the-venue", text: "How to get to the venue"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: false
+discusShortName: ""
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About"
+aboutUs: "The Summit 2019 brings together the community of users, developers and stakeholders of GeoNode, the popular open source geospatial content management system.
+<br/><br/>Join us for a 3-day packed event to learn and contribute to GeoNode!<br/><br/>
+
+GeoNode is a web-based Spatial Data Infrastructure (SDI) that enables sharing and collaborating on geospatial data. Users can upload existing shapefiles, edit data, and publish finished maps.<br/>GeoNode can also host static documents, such as PDF maps. GeoNode has robust support for open standards and OGC services, which streamlines integration with other systems and existing workflows. For example, data from GeoNode can be easily downloaded as a shapefile for use in ArcMap. At its core, GeoNode is designed to be customizable and extensible.<br/><br/>
+GeoNode is used throughout the world by international organizations, non-profits, and mapping agencies for supporting activities ranging from emergency preparedness and response, disaster risk reduction, and many more. Additionally, GeoNode is supported by a rich ecosystem of commercial providers across the world who can help with training, technical support, or development of new features.<br/>
+Whether your use case is wrangling thousands of layers or managing just 10 really well, GeoNode can help make your job easier."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "43.8804, 10.2684"
+logisticsMapMobileCenterCoordinates: "43.8804, 10.2684"
+logisticsMapAutoDirections: false
+
+# Location
+firstLocationName: "GeoSolutions Headquarter"
+firstLocationLatLon: 43.88404, 10.29805
+firstLocationAddress: "Via di Montramito, 3, 55054 Montramito, Massarosa LU"
+secondLocationName: "Grand Hotel Royal"
+secondLocationLatLon: 43.87613, 10.23895
+secondLocationAddress: "Viale Giosuè Carducci, 44, 55049 Viareggio LU"
+locationsCenterLatLon: 43.8804, 10.2684
+zoomLevel: 14
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Viareggio"
+directionDetailsCards:
+ - {title: "From/To the Airport", information: '<a href="http://pisa-mover.com/" target="_blank">PISAMOVER</a> offers fully automated ecological shuttles from <a href="https://www.pisa-airport.com" target="_blank">Pisa International Airport</a> to Pisa Central railways Station in less than three minutes, from 4.30 am to 1.30 am. <a href="https://www.trenitalia.com/" target="_blank">Trenitalia</a> operates a service from Pisa Central Station to Viareggio every 30 minutes and the journey takes 16m.<br>The <b>E25</b> bus of the <a href="http://www.cttnord.it/" target="_blank">CTT</a> also serves this route, take a look at the <a href="http://www.lucca.cttnord.it/Download.aspx?t=1&fn=E25.pdf">timetable</a>.'}
+ - {title: "Public Transit", information: 'Ordinary urban ticket is 1.20€ - 2.50€. More information about <a href="http://www.lucca.cttnord.it/Servizio_Urbano_Viareggio_1_7/P/663" target="_blank">fares</a> and directions at <a href="http://www.lucca.cttnord.it/Linee_e_Orari/Urbano_Di_Viareggio/L/575">CTT website</a>.<br>Viareggio is also a perfect city for cycling with its flat morphology and lots of bike lanes, rent a bike and ride the seafront!'}
+ - {title: "Hotels", information: 'In addition to the <a href="https://www.hotelroyalviareggio.it/en/" target="_blank">Grand Hotel Royal</a>, Viareggio has lots of great hotels and apartments to rent very close to the beach and the city center.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Getting to the venue"
+    links:
+     - {link: "/blog/how-to-get-to-the-venue#from-pisa-airport", text: "At the airport"}
+     - {link: "/blog/how-to-get-to-the-venue#arriving-by-train", text: "Arriving by train"}
+     - {link: "/blog/how-to-get-to-the-venue#moving-in-viareggio", text: "Get around Viareggio"}
+   -
+    title: "Registration"
+    links:
+     - {link: "/#register", text: "How to register"}
+     - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Submit a presentation"}
+   -
+    title: "Attendance Details"
+    links:
+     # - {link: "/blog/accommodation", text: "Recommended Hotels"}
+     - {permalink: "/cod/", text: "Code of Conduct"}

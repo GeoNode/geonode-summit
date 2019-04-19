@@ -1,4 +1,4 @@
 -
   group: "We are looking for sponsors for secondary items, such as social events.<br/> Please contact us for further info."
   elements:
-    # - {name: "Geosolutions", description: "GeoSolutions provides innovative, robust and cost-effective solutions leveraging on best-of-breed Open Source products.", link: "http://www.geo-solutions.it", imageUrl: "geosolutions.png"}
+    - {name: "The World Bank", description: "", link: "http://www.worldbank.org/", imageUrl: "the-world-bank.png"}

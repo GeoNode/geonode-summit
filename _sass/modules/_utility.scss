@@ -24,9 +24,10 @@
 
 @mixin linkColor($color) {
      color: $color;
-     
+
      &:hover, &:active, &:focus {
          color: lighten($color, $link-lighten-amount);
+         outline: none;
      }
 }
 
@@ -47,10 +48,10 @@
 }
 
 @mixin order($val) {
-  -webkit-box-ordinal-group: $val;  
-  -moz-box-ordinal-group: $val;     
-  -ms-flex-order: $val;     
-  -webkit-order: $val;  
+  -webkit-box-ordinal-group: $val;
+  -moz-box-ordinal-group: $val;
+  -ms-flex-order: $val;
+  -webkit-order: $val;
   order: $val;
 }
 
