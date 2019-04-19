@@ -7,193 +7,131 @@
 -
   id: 888
   title: "Lunch Break"
-  description: "No-host lunch at Osteria <a href='https://www.ristorantequattrosoldi.com'>Quattro Soldi</a>."
+  place: "Grand Hotel Royal restaurant"
+  description: "Lunch at the Grand Hotel Royal restaurant."
   service: true
 -
-  id: 290
+  id: 777
+  title: "Welcoming"
+  place: "Grand Hotel Royal"
+  description: "Simone Giannecchini, Founder & Director at GeoSolutions S.A.S., will give a warm welcome and address the GeoNode Summit."
+  service: true
+-
+  id: 666
   title: "Group Photo"
-  place: "SiTI/ITHACA"
   service: true
 -
-  id: 298
-  title: "Guided tour in the city center"
-  description: "Meet up in front of <a target='_blank' href='https://www.openstreetmap.org/node/254594415#map=19/45.06293/7.67907'>Torino Porta Nuova Station</a> and discover step by step the heart of the first Capital of Italy."
-  service: true
--
-  id: 299
+  id: 555
   title: "Social Dinner"
-  description: "The dinner will be held from 8pm at <a target='_blank' href='http://www.etikobistrot.com'>Etiko Bistrot</a> in Torino. Etiko is located in <a target='_blank' href='https://www.openstreetmap.org/node/4736081089'>via Filippo Juvarra 13/a</a>."
+  place: "Grand Hotel Royal restaurant"
+  description: "cooming soon..."
+  service: true
+-
+  id: 444
+  title: "Code Sprint"
+  place: "GeoSolutions Headquarter"
+  description: "A sprint is getting contributors together and work on Open Source software, testing, documentation and providing feedback. There are roles needed to be filled, no matter what your expertise, so everyone is welcome. This code sprint goal is working on the GeoNode version 2.8."
+  subtype: workshop
+-
+  id: 333
+  title: "Social Events"
+  description: "cooming soon..."
   service: true
 -
   id: 101
   title: "Users Workshop"
   description: "The workshop will cover the following topics: GeoNode from a user perspective, how to. It will cover tipical functionalities and use cases a GeoNode user, either Administrator and Standard, will face. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, throubleshoot and fix the most common issues."
   subtype: workshop
-  speakers: [9, 10]
+  speakers: [1, 2]
   presentation: "http://training.geonode.geo-solutions.it/003_users_workshop/index.html"
 -
   id: 102
   title: "Developers Workshop"
   description: "The workshop will cover the following topics: GeoNode in development mode, how to. The geonode-project to customize GeoNode. Change the look and feel. Add your own app. Add your own models, views and logic. Build your own APIs. Add a third party app. Deploy your customized GeoNode."
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [1, 2]
   presentation: "http://geonode.org/dev-workshop/#/"
 -
-  id: 201
-  title: "Welcome Address"
-  description: "Piero Boccardo, Director of ITHACA, will give a warm welcome and address the GeoNode Summit."
-  subtype: keynote
-  speakers: [7]
--
-  id: 202
-  title: "The Maplovers Guide to the Galaxy - is GeoNode the answer to Life, the Universe, and Everything?"
-  description: "&ldquo;Metadata is dull. Really dull. You just won’t believe how vastly, hugely, mindbogglingly dull it is. I mean, you may think reviewing other people's code is dull, but that’s just peanuts to metadata.&rdquo; - how to make metadata catalogues engaging<br/><br/>&ldquo;He was staring at the search interface with the air of one who is trying to convert Fahrenheit to centigrade in his head while his house is burning down.&rdquo; - how to find what you really need<br/><br/>&ldquo;It seemed to me, said Wonko the Sane, that any civilization that had so far lost its head as to need to include a set of detailed instructions for use in a spatial data catalogue, was no longer a civilization in which I could live and stay sane.&rdquo; - how to make it intuitive, and to give the right instructions where needed<br/><br/>&ldquo;Forty-two&rdquo;, said GeoNode, with infinite majesty and calm. - many GeoNode instances have 42 or less layers/maps/documents in them, how do we avoid this, and in any case, what is the question?<br/><br/>&ldquo;Don't panic.&rdquo; - GeoNode already does a great job, but how can it be made even better?"
-  subtype: keynote
-  speakers: [8]
-  presentation: "../presentation/Life-the-Universe-and-Everything-Final.pdf"
--
-  id: 203
-  title: "One Geonode, many Geonodes"
-  description: "GeoSolutions has been involved into a number of projects, ranging from local administrations to global institutions, involving GeoNode deployments, customizations and enhancements. A gallery of projects and use cases will showcase the versatility and effectiveness of GeoNode, both as a standalone application and as a service component, for building secured geodata catalogs and web mapping services. Lastly, ongoing and future developments will be presented ranging from the upcoming integration with MapStore to the monitoring and analytics dashboard or the support for time series data."
+  id: 103
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [9]
-  presentation: "../presentation/One-GeoNode-Many-GeoNodes-SUMMIT-2018-v01.05.pdf"
+  speakers: []
 -
-  id: 204
-  title: "WFP GeoNode Use cases and Roadmap"
-  description: "In this presentation we will describe a set of functionalities and customizations we have implemented in WFP GeoNode (based on GeoNode 2.4) such as a query builder functionality and a map tool for filtering and downloading vector layers, a create new layer functionality with arbitrary number of columns, a create new layer functionality based on administrative boundaries, an editing data app alternative to the existing one and a customization to the remote services app, which allows selecting the layers to be created. Additionally we will present the current position of WFP GeoNode in our GIS infrastructure, the role of the platform as a data hub and a number of use cases and projects in which GeoNode and other tools join forces to accomplish tasks."
+  id: 104
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [13, 24]
-  presentation: "../presentation/WFP-GeoNode-Use-cases-and-Roadmap.pdf"
+  speakers: []
 -
-  id: 205
-  title: "GeoDASH Customize for Bangladesh and Base for NSDI. Bangladesh National Enterprise Architecture (BNEA) and GeoDASH Platform"
-  description: "The Bangladesh Geospatial Data Sharing Platform (GeoDASH) is a web-based spatial data infrastructure and GIS that empowers government, academia, private enterprise and the public to securely host, manage, share, visualize and analyze geospatial data. GeoDASH overview, Unique features, BNEA overview, Open Group Award 2018, relation between GeoDASH and BNEA, future activities of GeoDASH and BNEA."
+  id: 105
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [25, 26]
-  presentation: "../presentation/GeoDASH-and-Bangladesh-NSDI-and-BNEA.pdf"
+  speakers: []
 -
-  id: 206
-  title: "Geonode integration with town planning management software"
-  description: "This talk is about the demonstrating the use of geonode as map composer and GIS proxy in order to show simple maps in open-source town planning management software in Belgium. Tailoring maps inside geonode help towns to get the needed legal and informative layers online and/or get directly connected to the regional GIS service portal in order to make decision on up-to-date data and share maps inside the town administration."
+  id: 106
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [22]
+  speakers: []
 -
-  id: 207
-  title: "Malawi Spatial Data Portal (MASDAP)"
-  description: "Malawi become the first user of Geonode in Africa in the year 2012. MASDAP is a government portal used so storing GIS data. This talk will cover the following topics: Location of Malawi; MASDAP Background; MASDAP Development; Economies of open data; MASDAP site administration; Geospatial data in MASDAP; Layers in MASDAP; Categories of dataset; Main functionalities; Functions within MASDAP; Way forward."
+  id: 107
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [21]
+  speakers: []
 -
-  id: 208
-  title: "Building Flood Models with Geonode"
-  description: "I've paired Geonode with the open-source 2d hydrodynamic flood model, ANUGA, to create a collaborative online flood modelling environment. This allows us to move both flood model inputs and outputs into an adaptable, transparent online hydraulic model that gets better with time, as opposed to that PDF version going out-of-date on your hard drive. The mission is to reduce the hassle involved in building and maintaining up-to-date flood models, especially in the years after the original consultancy contract is complete. I'll present a brief demonstration of the application, followed by a technical architecture overview and some lessons learned along the way. "
+  id: 108
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [18]
-  presentation: "../presentation/Building-Flood-Models-with-Geonode.pdf"
+  speakers: []
 -
-  id: 209
-  title: "ADB SPADE: exploring and analysing infrastructure and climate data"
-  description: "Finding the balance between out-of-the-box GeoNode implementation, a user interface as simple as possible & advanced analysis tools to support climate change resilient infrastructure project planning, implementation and monitoring."
+  id: 109
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [23]
-  presentation: "https://royalhaskoningdhv.box.com/v/adb-spade-20180325"
+  speakers: []
 -
-  id: 210
-  title: "Geonode roadmap in Madagascar"
-  description: "In 2017, Madagascar was ranked 178 out of 180 among the countries which have already opened its data. However, we have implemented Geonode platform. So I will present the activities done since the deployment and the challenge for maintain as well as animate. Then, featured we added on our instance."
+  id: 110
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [19]
-  presentation: "../presentation/Geonode-roadmap-in-Madagascar.pdf"
+  speakers: []
 -
-  id: 211
-  title: "Customizing GeoNode"
-  description: "ITHACA has been working on GeoNode since 2011. From the first European Commission to the latest World Bank funded projects this presentation is a showcase of GeoNode installations made by ITHACA with their own customizations. It's also a brief (not exhaustive) journey into the evolution of GeoNode, from the initial concept by OpenGeo and GFDRR to the current version highlighting some goods and bads."
+  id: 111
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [15]
-  presentation: "../presentation/Customizing-GeoNode.pdf"
+  speakers: []
 -
-  id: 212
-  title: "GeoNode - an additional set of functionalities"
-  description: "During this presentation we will review a set of functionalities which we are adding to GeoNode to support use cases such as a resumable upload allowing the batch upload of large resources including File GeoDatabases and imagery tiles, the ability to upload tabular data (e.g. csv, spss, stata, etc.) and turn it into a point layer if it contains latitude and longitude information, the ability to connect to layers hosted on GeoNode from desktop clients such as QGIS or ArcMap, the ability to search place names and navigate geo-spatially to these location on the map, the ability to draw polygons to query any raster to estimate population in given areas for instance, the ability to reference layers between GeoNode instances, the dockerization of the platform and support for S3 for a scalable and affordable production environment, etc."
+  id: 112
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [16]
+  speakers: []
 -
-  id: 213
-  title: "Adding Raster Analysis Tools to the GeoNode Experience"
-  description: "Computers, including mobile devices, continue to become more powerful, opening up pathways for GIS that haven't existed before.  GeoTIFF.io, is an open-source community-driven project, and a website that allows users to analyze rasters completely in their browser.  This presentation will go over a proposed simple addition of a button to GeoNode pages that would allow a user to open up the raster layers in GeoTIFF.io.  GeoTIFF.io, as it processes everything client-side and is hosted on Github Pages, is completely free and can scale nearly infinitely.  Specifically, GeoTIFF.io has been used to analyze pasturelands in Europe, access to ante-natal care in Rwanda, rainfed wheat in Ukraine and much more."
+  id: 113
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [17]
-  presentation: "https://docs.google.com/presentation/d/1R79uLFGUg3KqIYjLLp2NBeMZWLc_PCBvC1kvdKgBrXk"
+  speakers: []
 -
-  id: 214
-  title: "Challenges and successes in sharing geospatial data in Africa"
-  description: "TBD"
-  subtype: keynote
-  speakers: [20]
-  presentation: "../presentation/Challenges-and-Successes-in-Sharing-Geospatial-Data-in-Africa.pdf"
--
-  id: 215
-  title: "Challenge Fund Data Exploration"
-  description: "A data exploration tool for risk related data is under development by GeoSolutions for the World Bank's Global Facility for Disaster Reduction and Recovery global partnership. As part of the Challenge Fund program, this tool aims at providing a centralized, global, database for exposures, hazards and vulnerabilities data sets.
-  The data exploration tool is being developed leveraging on MapStore and GeoNode to provide stakeholders with a user-friendly access to the rich database of information and data useful for risk analysis and disaster management. Such platform will also try to lay out the foundations for GeoNode 3, the new version of the popular Open Source platform."
+  id: 114
+  title: "Presentation"
+  place: "Grand Hotel Royal"
+  description: ""
   subtype: talk
-  speakers: [10]
-  presentation: "../presentation/GeoNode-Summit-HEV-E-v01.03.pdf"
--
-  id: 216
-  title: "GeoNode with QGIS, GeoNode for DRR"
-  description: "Over the last year we have done a number of GeoNode related developments, which relate to integration of GeoNode with QGIS and with using GeoNode for Disaster Risk Reduction. We have also been working to make GeoNode (with QGIS Backend) easily deployable using Rancher and Docker - which we will demonstrate. This presentation will be like a Christmas hamper where we quickly show you the highlights of our work!"
-  subtype: talk
-  speakers: [11]
-  presentation: "https://www.icloud.com/keynote/0eCjP_Pztlac2RK7p5i59y0XQ#KartozaGeoNodePresentation-GeonodeSummit2018"
--
-  id: 217
-  title: "GeoNode DevOps with Docker and Rancher"
-  description: "GeoNode is an easy to use platform for developing web based Geospatial Information Systems and for deploying interoperable and OGC standards compliant Spatial Data Infrastructure (SDI). The platform can be composed and extended with different components like Elasticsearch, GeoGig, QGIS Server beyond the common ones GeoServer, PostGIS and pycsw as an example. This model of a such SDI is natively fitting very well with the cloud approach of Software As a Service (SaaS) and looks at the new DevOps technologies like Ansible and Docker for optimizing the scale up and make an easier deployment for the end users. Docker and its orchestration tool docker-compose has been extensively used to strengthen the configuration and the start of each single component. The talk aims to describe how GeoNode images have been designed and docker volumes are used for data configuration, finally how docker-compose can be used by Rancher stacks. The presentation will provide an introduction to the state of the art and examples on how to deploy GeoNode with Docker for development or to use Rancher for production environments into AWS."
-  subtype: talk
-  speakers: [6]
-  presentation: "http://geonode-summit-2018-geobeyond.surge.sh/#/0"
--
-  id: 218
-  title: "GeoNode 0.1 to 3.0"
-  description: "A recount of GeoNode's history from the first version to the current plans and my personal vision for GeoNode 3.0 and its API."
-  subtype: talk
-  speakers: [4]
-  presentation: "../presentation/GeoNode-0.1-to-3.0.pdf"
--
-  id: 219
-  title: "GeoNode Roundtable and closing remarks"
-  description: "Open discussion on lessons learned. Wrapping up and logistics information about the social events and Day 3."
-  subtype: talk
-  speakers: [5, 15]
--
-  id: 301
-  title: "Governance Roundtable"
-  description: "GeoNode is now a mature and successful open source project, but surprisingly still lacking a formal governance framework. Let's discuss what model could be adopted for making it easier for organizations to join and contribute to GeoNode's development."
-  subtype: workshop
-  speakers: [24, 14]
--
-  id: 302
-  title: "Code Sprint"
-  description: "A sprint is getting contributors together and work on Open Source software, testing, documentation and providing feedback. There are roles needed to be filled, no matter what your expertise, so everyone is welcome. This code sprint goal is working on the GeoNode version 2.8."
-  subtype: workshop
-  speakers: [9]
--
-  id: 303
-  title: "User-centered design session 1"
-  description: "The first of two design session where we will work together as a community to explore how the current GeoNode experience can be improved for developers as well as for users. Session one will focus on uncovering the problems and obstacles encountered when using and working with GeoNode. We will using a series or fast paced and highly collaborative exercises to identify, arrange and rank issues in preparation for session 2 in the afternoon. To get ready, start thinking of points where changes to GeoNode would make your work easier."
-  subtype: workshop
-  speakers: [12]
--
-  id: 304
-  title: "User-centered design session 2"
-  description: "This is the second of two design sessions. It will build  on the work from the morning session to explore potential solutions the obstacles facing GeoNode users and developers. Once again, it will be hands-on, fast-paced and collaborative. You don't need to have attended the morning design session to contribute to this one, though it will help."
-  subtype: workshop
-  speakers: [12]
--
-  id: 305
-  title: "Roadmap Discussion"
-  description: "Join the GeoNode developers community to discuss about the future of GeoNode. Users and developers will discuss together how and when the current major version (2.x) of GeoNode will evolve and what the next versions (3.x +) will be."
-  subtype: workshop
-  speakers: [9, 4]
+  speakers: []
