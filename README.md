@@ -1,4 +1,4 @@
-# GeoNode Summit 2018
+# GeoNode Summit 2019
 
 ### About
 The website for GeoNode Summit 2019. It is based on project Zeppelin.
