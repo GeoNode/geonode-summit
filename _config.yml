@@ -57,7 +57,7 @@ heroTitle: "GeoNode <typeout> Summit 2019"
 eventDate: "Viareggio, Italy | 11 - 13 June, 2019"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
-heroMessage: "Make sure to register to the event, seats are limited!"
+heroMessage: "Call for presentation open! Submit your talk above and make sure to register to the event, seats are limited!"
 heroButtons:
  - {permalink: "/#register", text: "Register"}
  - {link: "/schedule/", text: "Schedule"}
