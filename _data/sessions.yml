@@ -39,18 +39,18 @@
   service: true
 -
   id: 101
-  title: "Users Workshop"
-  description: "The workshop will cover the following topics: GeoNode from a user perspective, how to. It will cover tipical functionalities and use cases a GeoNode user, either Administrator and Standard, will face. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, throubleshoot and fix the most common issues."
+  title: "Workshop - Installing, configuring, administering and using GeoNode - Part 1"
+  description: "The workshop will touch all the topics from installation, configuration, administration and usage of GeoNode. It will cover tipical functionalities and use cases a GeoNode user, either Administrator or Standard, will face. Installatio and systme configuration. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, troubleshoot and fix the most common issues."
   subtype: workshop
   speakers: [1, 2]
-  presentation: "http://training.geonode.geo-solutions.it/003_users_workshop/index.html"
+  presentation: "http://training.geonode.geo-solutions.it"
 -
   id: 102
-  title: "Developers Workshop"
-  description: "The workshop will cover the following topics: GeoNode in development mode, how to. The geonode-project to customize GeoNode. Change the look and feel. Add your own app. Add your own models, views and logic. Build your own APIs. Add a third party app. Deploy your customized GeoNode."
+  title: "Workshop - Installing, configuring, administering and using GeoNode - Part 2"
+  description: "The workshop will touch all the topics from installation, configuration, administration and usage of GeoNode. It will cover tipical functionalities and use cases a GeoNode user, either Administrator or Standard, will face. Installatio and systme configuration. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, troubleshoot and fix the most common issues."
   subtype: workshop
-  speakers: [1, 2]
-  presentation: "http://geonode.org/dev-workshop/#/"
+  speakers: [3]
+  presentation: "http://training.geonode.geo-solutions.it"
 -
   id: 103
   title: "Presentation"
