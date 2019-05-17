@@ -30,7 +30,7 @@
   id: 444
   title: "Code Sprint"
   place: "GeoSolutions Headquarter"
-  description: "A sprint is getting contributors together and work on Open Source software, testing, documentation and providing feedback. There are roles needed to be filled, no matter what your expertise, so everyone is welcome. This code sprint goal is working on the GeoNode version 2.8."
+  description: "A sprint is getting contributors together and work on Open Source software, testing, documentation and providing feedback. There are roles needed to be filled, no matter what your expertise, so everyone is welcome. This code sprint goal is working on the GeoNode version 2.10."
   subtype: workshop
 -
   id: 333
