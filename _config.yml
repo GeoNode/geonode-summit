@@ -61,7 +61,7 @@ heroMessage: "Call for presentation open! Submit your talk above and make sure t
 heroButtons:
  - {permalink: "/#register", text: "Register"}
  - {link: "/schedule/", text: "Schedule"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
+ #- {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
