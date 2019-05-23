@@ -59,3 +59,15 @@
   social:
     - {name: "github", link: "https://github.com/frafra"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/francesco-frassinelli/"}
+    
+  id: 6
+  name: "Paolo"
+  surname: "Pasquali"
+  company: "ITHACA"
+  bio: "Paolo is a web GIS Specialist at ITHACA (Information Technology for Humanitarian Assistance, Cooperation and Action) based in Torino. Has almost 20 years of experience in designing and developing geospatial applications. Has been installing GeoNode platforms around the world since 2011."
+  thumbnailUrl: paolo-pasquali.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/therealPASQ"}
+    - {name: "github", link: "https://github.com/ppasq"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paolopasquali/"}
