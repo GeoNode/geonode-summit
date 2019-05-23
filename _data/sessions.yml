@@ -60,25 +60,29 @@
   speakers: [1]
 -
   id: 104
-  title: "Presentation"
+  title: "Docker containers and GeoNode in 2019"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "GeoNode has supported Docker since the early days of this technology, but many things have changed since then. This talk is about the recent evolution of containers in GeoNode, current limitations and future improvements."
   subtype: talk
-  speakers: []
+  speakers: [6]
 -
   id: 105
-  title: "Presentation"
+  title: "WFP Geonode Roadmap"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "The future plans of WFP Geonode instance."
   subtype: talk
-  speakers: []
+  speakers: [4,5]
+
 -
   id: 106
-  title: "Presentation"
+  title: "Status and MapStore and its integration with GeoNode"
   place: "Grand Hotel Royal"
-  description: ""
+  description: ""MapStore is the Open Source product for creating, saving and sharing in a simple and intuitive way maps and mashups created selecting contents from public services like Google Maps and OpenStreetMap or other servers implementing OGC and ISO protocols. Thanks to MapStore the user can mix her own data with data available on the web to create comprehensive
+maps and share them with anyone (also via social networks). MapStore is cross-browser, and mobile ready. 
+
+The presentation will give the audience an extensive overview of the MapStore  functionalities for the creation of mapping applications.  It will cover in detail the current status of the integration with GeoNode as well as future evolutions."
   subtype: talk
-  speakers: []
+  speakers: [11]
 -
   id: 107
   title: "Presentation"
