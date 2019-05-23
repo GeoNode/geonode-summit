@@ -31,3 +31,21 @@
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/francbartoli"}
+-
+  id: 4
+  name: "Francesco"
+  surname: "Stompanato"
+  company: "WFP"
+  bio: "GIS Dev Team Lead at World Food Programme"
+  thumbnailUrl: default.jpg
+  rockstar: true
+  
+  -
+  id: 4
+  name: "Dimitri"
+  surname: "Karakostis"
+  company: "WFP"
+  bio: "GIS developer at World Food Programme"
+  thumbnailUrl: default.jpg
+  rockstar: true
+ 
