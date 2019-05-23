@@ -71,8 +71,7 @@
   place: "Grand Hotel Royal"
   description: "The future plans of WFP Geonode instance."
   subtype: talk
-  speakers: [4,5]
-
+  speakers: [4, 5]
 -
   id: 106
   title: "Status and MapStore and its integration with GeoNode"
