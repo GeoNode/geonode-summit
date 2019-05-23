@@ -120,3 +120,25 @@
     - {name: "twitter", link: "https://twitter.com/allyoucanmap"}
     - {name: "github", link: "https://github.com/allyoucanmap"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/stefano-bovio"}
+-
+  id: 12
+  name: "Jemal"
+  surname: "Mensur"
+  company: "IGAD"
+  bio: "Database Expert at IGAD"
+  thumbnailUrl: default.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jemal-dagnew-mensur-86851133/"}
+    
+ -
+  id: 13
+  name: "Francis"
+  surname: "Cram"
+  company: "MapStand"
+  bio: "I am a petroleum geologist by training and after a decade working for oil companies am now focused creating and publishing spatial datasets pertaining to industry activities increasing transparency, oversight and efficiency."
+  thumbnailUrl: default.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/cramrock"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/francis-cram/"}    
