@@ -40,8 +40,8 @@
   thumbnailUrl: default.jpg
   rockstar: true
   
-  -
-  id: 4
+-
+  id: 5
   name: "Dimitri"
   surname: "Karakostis"
   company: "WFP"
@@ -49,8 +49,8 @@
   thumbnailUrl: default.jpg
   rockstar: true
   
-  -
-  id: 5
+-
+  id: 6
   name: "Francesco"
   surname: "Frassinelli"
   company: "NINA"
@@ -60,9 +60,8 @@
   social:
     - {name: "github", link: "https://github.com/frafra"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/francesco-frassinelli/"}
-  
-  -
-  id: 6
+-
+  id: 7
   name: "Paolo"
   surname: "Pasquali"
   company: "ITHACA"
@@ -74,8 +73,8 @@
     - {name: "github", link: "https://github.com/ppasq"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/paolopasquali/"}
     
-   -
-  id: 7
+-
+  id: 8
   name: "Armando"
   surname: "Scarpati"
   company: "GEM"
@@ -85,3 +84,39 @@
   social:
     - {name: "github", link: "https://github.com/hascar"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/armando-scarpati-39137140"}
+    
+ -
+  id: 9
+  name: "Armando"
+  surname: "Scarpati"
+  company: "GEM"
+  bio: "Web Developer at GEM"
+  thumbnailUrl: default.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/hascar"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/armando-scarpati-39137140"}
+    
+-
+  id: 10
+  name: "Amedeo"
+  surname: "Favini"
+  company: "CNR ISMA"
+  bio: "Born 1973, curious since1980, maker since 1985, pc user since 1993,  adult since 1999, Gis user since 2005 Gis developer since 2010 Land Planner since 2016. I am passionate about open source and member of local osgeo chapter"
+  thumbnailUrl: default.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amefad/"}
+    
+ -
+  id: 11
+  name: "Stefano"
+  surname: "Bovio"
+  company: "GeoSolutions"
+  bio: "Cartography, Sound, JavaScript and much more"
+  thumbnailUrl: default.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/allyoucanmap"}
+    - {name: "github", link: "https://github.com/allyoucanmap"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/stefano-bovio"}
