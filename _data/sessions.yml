@@ -92,46 +92,48 @@ In the presentation we will also cover our plans for the mid and long term for G
   speakers: [2]
 -
   id: 108
-  title: "Presentation"
+  title: "The OpenQuake Platform"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "Web-based platform offers an interactive environment in which users can access, manipulate, share and add data, and explore models and tools for integrated assessment of earthquake risk."
   subtype: talk
-  speakers: []
+  speakers: [8]
 -
   id: 109
-  title: "Presentation"
-  place: "Grand Hotel Royal"
+  title: "GeoNode: success stories, lesson learned"
+  place: "ITHACA has been working with GeoNode since 2011 in a number of projects. Based on this experience, this presentation will focus on lessons learned from GeoNode success stories and challenges."
   description: ""
   subtype: talk
-  speakers: []
+  speakers: [7]
 -
   id: 110
-  title: "Presentation"
+  title: "Delivering subcripition-based geospatial content to customers throughout the world with GeoNode"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "MapStand limited mission is to track the global activities of the oil and gas industry and then turn such information into valuable geospatial layers made available as open data to our clients via a subscription fee. 
+In order to deliver our content to subscribers we are using a minimally customised GeoNode instance that enables multiple users to view content with specific groups' restrictions. Such set-up restricts visibility of maps and layers to authorised users and to specific user groups. The ability to download content is also restricted by group although this does limit the ability to interrogate the data tables within GeoNode so SQL views have been created in GeoServer to filter downloadable content for specific interest groups. 
+Lastly, the front-end is a custom-tailored MapStore application that deliver our content in a more comprehensible manner for our end users."
   subtype: talk
-  speakers: []
+  speakers: [13]
 -
   id: 111
-  title: "Presentation"
+  title: "Multidimensional data in Geonode environment"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "If could be useful for the audience I'll be pleased to present a simple use case in which a customized Geonode project has been deployed on the same server whith THREDDS data server instance and a viewer based on Leaflet timeseries that make esier access to time-series marine weather forecasts."
   subtype: talk
-  speakers: []
+  speakers: [10]
 -
   id: 112
-  title: "Presentation"
+  title: "Strengthening Asian Development Bank's Climate Resilient Urban Planning with SPADE (Spatial Data Analyses Explorer)"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "The Spatial Data Analysis Explorer or SPADE is web-based platform showcasing different climate change scenarios along with topography, land use, socioeconomic, and infrastructure data sets that can help improve and support the preparation, planning, implementation, and monitoring of urban resilience projects in the region, leading to liveable cities. SPADE is completely based on Open Source technology and is leveraging out-of-the-box solutions such as GeoNode and Leaflet to provide users with a simple and rich user-friendly interface to share and improve access to spatial data, allowing users to combine and compare different climate change scenarios with land use and infrastructure datasets.The Asian Development Bank, in collaboration with Royal HaskoningDHV, developed SPADE under the Urban Climate Change Resilience Trust Fund. The first generation of the SPADE platform was successfully launched and commissioned in June 2018. The next generation of SPADE looks to integrate Geonode and Mapstore functionality."
   subtype: talk
-  speakers: []
+  speakers: [13]
 -
   id: 113
-  title: "Presentation"
+  title: "IGAD Spatial Web Portal"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "This presentation covers the work performed for the implementation and deployment of the IGAD Geoportal leveraging on the GeoNode platform which was performed by IGAD together with GeoSolutions. The project originates from the intention to set up a regional information system to support IDDRSI Core functions - knowledge management infrastructure and tools - and IGAD Biodiversity Management Project, aiming at poverty reduction and sustainable management in the IGAD region. The main outcome of this project has been the enhancement of the existing IGAD Geoportal, based on the GeoNode Open Source project, to store, visualize and analyze biodiversity spatial and non-spatial data and information at national and regional level. The IGAD Geoportal wpuld then assume the role of a central node within the network of regional data services, and will serve as the main gateway to local and remote data exploration. The presentation will cover the motivations, the starting conditions, the work performed (which includes the first version of the integration with MapStore), the deployment on AWS to then draw some conclusions and lessons learnt that could help those who are willing to follow a similar path with the GeoNode platform."
   subtype: talk
-  speakers: []
+  speakers: [12]
 -
   id: 114
   title: "Presentation"
