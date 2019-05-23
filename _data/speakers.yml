@@ -48,4 +48,14 @@
   bio: "GIS developer at World Food Programme"
   thumbnailUrl: default.jpg
   rockstar: true
- 
+   -
+  id: 5
+  name: "Francesco"
+  surname: "Frassinelli"
+  company: "NINA"
+  bio: "GIS/Python developer, OSM contributor, Linux lover"
+  thumbnailUrl: default.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/frafra"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/francesco-frassinelli/"}
