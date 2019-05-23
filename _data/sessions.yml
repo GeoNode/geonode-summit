@@ -23,7 +23,7 @@
 -
   id: 555
   title: "Social Dinner"
-  place: "Grand Hotel Royal restaurant"
+  place: "TBD"
   description: "cooming soon..."
   service: true
 -
@@ -53,11 +53,11 @@
   presentation: "http://training.geonode.geo-solutions.it"
 -
   id: 103
-  title: "Presentation"
+  title: "State of GeoNode"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "This talk will discuss the current state of GeoNode, a popular open source geospatial Content Management System with a large users and developers community. The talk will provide highlights of the story of the project, its community, and infrastructure, its features and capabilities, a showcase of successful implementations, its architecture and a review of what is new in the latest version."
   subtype: talk
-  speakers: []
+  speakers: [1]
 -
   id: 104
   title: "Presentation"
