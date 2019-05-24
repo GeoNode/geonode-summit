@@ -39,7 +39,6 @@
   bio: "GIS Dev Team Lead at World Food Programme."
   thumbnailUrl: stompanato.jpg
   rockstar: true
-  
 -
   id: 5
   name: "Dimitri"
@@ -48,7 +47,6 @@
   bio: "GIS developer at World Food Programme."
   thumbnailUrl: karakostis.jpg
   rockstar: true
-  
 -
   id: 6
   name: "Francesco"
@@ -72,7 +70,6 @@
     - {name: "twitter", link: "http://twitter.com/therealPASQ"}
     - {name: "github", link: "https://github.com/ppasq"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/paolopasquali/"}
-    
 -
   id: 8
   name: "Armando"
@@ -84,8 +81,6 @@
   social:
     - {name: "github", link: "https://github.com/hascar"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/armando-scarpati-39137140"}
-    
-    
 -
   id: 9
   name: "Alireza"
@@ -96,7 +91,6 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/alireza-ibrahimi/"}
-    
 -
   id: 10
   name: "Amedeo"
@@ -107,8 +101,7 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/amefad/"}
-    
- -
+-
   id: 11
   name: "Stefano"
   surname: "Bovio"
@@ -130,8 +123,7 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jemal-dagnew-mensur-86851133/"}
-    
- -
+-
   id: 13
   name: "Francis"
   surname: "Cram"
@@ -141,9 +133,9 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/cramrock"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/francis-cram/"}    
-     
- -
+    - {name: "linkedin", link: "https://www.linkedin.com/in/francis-cram/"}
+
+-
   id: 14
   name: "Ries"
   surname: "Kluskens"
@@ -152,5 +144,4 @@
   thumbnailUrl: default.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ries-kluskens-31776216/"}    
-     
+     - {name: "linkedin", link: "https://www.linkedin.com/in/ries-kluskens-31776216/"}
