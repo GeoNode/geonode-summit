@@ -129,7 +129,7 @@
   surname: "Cram"
   company: "MapStand"
   bio: "I am a petroleum geologist by training and after a decade working for oil companies am now focused creating and publishing spatial datasets pertaining to industry activities increasing transparency, oversight and efficiency."
-  thumbnailUrl: cram.jpg
+  thumbnailUrl: cram.jpeg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/cramrock"}
