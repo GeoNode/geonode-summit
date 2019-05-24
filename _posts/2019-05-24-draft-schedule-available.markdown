@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GeoNode Summit 2019 - Draft Schedule is available!"
-date:   2019-05-24 15:20:00
+date:   2019-05-24 16:00:00
 isStaticPost: false
 ---
 
