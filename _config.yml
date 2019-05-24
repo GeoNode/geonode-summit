@@ -59,9 +59,9 @@ typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
 heroMessage: "Call for presentation open! Submit your talk above and make sure to register to the event, seats are limited!"
 heroButtons:
- - {permalink: "/#register", text: "Register"}
- - {link: "/schedule/", text: "Schedule"}
- #- {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
+ - {permalink: "/#register", text: "Registration Form"}
+ - {link: "/schedule/", text: "Summit Schedule"}
+ - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
