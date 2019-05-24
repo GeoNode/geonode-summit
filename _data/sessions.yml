@@ -16,6 +16,7 @@
   place: "Grand Hotel Royal"
   description: "Simone Giannecchini, Founder & Director at GeoSolutions S.A.S., will give a warm welcome and address the GeoNode Summit."
   service: true
+  speakers: [1]
 -
   id: 666
   title: "Group Photo"
@@ -24,7 +25,7 @@
   id: 555
   title: "Social Dinner"
   place: "TBD"
-  description: "cooming soon..."
+  description: "Apericena on the seaside promenade. Register here http://bit.ly/summit2019-se"
   service: true
 -
   id: 444
