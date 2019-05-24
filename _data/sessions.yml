@@ -125,7 +125,7 @@
   description: "The Spatial Data Analysis Explorer or SPADE is web-based platform showcasing different climate change scenarios along with topography, land use, socioeconomic, and infrastructure data sets that can help improve and support the preparation, planning, implementation, and monitoring of urban resilience projects in the region, leading to liveable cities. SPADE is completely based on Open Source technology and is leveraging out-of-the-box solutions such as GeoNode and Leaflet to      provide users with a simple and rich user-friendly interface to share and improve access to spatial data, allowing users to combine and compare different climate change scenarios with land use and infrastructure datasets.
   <br>The Asian Development Bank, in collaboration with Royal HaskoningDHV, developed SPADE under the Urban Climate Change Resilience Trust Fund. The first generation of the SPADE platform was successfully launched and commissioned in June 2018. The next generation of SPADE looks to integrate Geonode and Mapstore functionality."
   subtype: talk
-  speakers: [13]
+  speakers: [14]
 -
   id: 113
   title: "IGAD Spatial Web Portal"
