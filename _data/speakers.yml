@@ -129,7 +129,7 @@
   surname: "Cram"
   company: "MapStand"
   bio: "I am a petroleum geologist by training and after a decade working for oil companies am now focused creating and publishing spatial datasets pertaining to industry activities increasing transparency, oversight and efficiency."
-  thumbnailUrl: cram.jpg
+  thumbnailUrl: cram.jpeg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/cramrock"}
@@ -140,7 +140,7 @@
   surname: "Kluskens"
   company: "Royal HaskoningDHV"
   bio: "Ries Kluskens is an environmental engineer with a master’s degree in geographical information systems. He works as a senior consultant Smart Geo-spatial Information Solutions for Royal HaskoningDHV, an international engineering consultancy firm with its headquarters in the Netherlands and operating worldwide."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: kluskens.jpg
   rockstar: true
   social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/ries-kluskens-31776216/"}
