@@ -37,7 +37,7 @@
   surname: "Stompanato"
   company: "WFP"
   bio: "GIS Dev Team Lead at World Food Programme."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: stompanato.jpg
   rockstar: true
 -
   id: 5
@@ -45,7 +45,7 @@
   surname: "Karakostis"
   company: "WFP"
   bio: "GIS developer at World Food Programme."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: karakostis.jpg
   rockstar: true
 -
   id: 6
@@ -53,7 +53,7 @@
   surname: "Frassinelli"
   company: "NINA"
   bio: "GIS/Python developer, OSM contributor, Linux lover."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: frassinelli.jpg
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/frafra"}
@@ -76,7 +76,7 @@
   surname: "Scarpati"
   company: "GEM"
   bio: "Web Developer at GEM."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: scarpati.jpg
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/hascar"}
@@ -84,20 +84,20 @@
 -
   id: 9
   name: "Alireza"
-  surname: "IBRAHIMI"
+  surname: "Ibrahimi"
   company: "Ministry of Urban Development and Land"
   bio: "Alireza Ibrahimi is a lecturer and founder of GIS department in Avicenna University in Kabul, and he is also GIS & IT Specialist at the Department for Preservation of Historic Cities at the Ministry of Urban Development. He graduated a BSc in Software Engineering in 2012 and a Master degree in program GIS & RS from Tehran University in 2014. At the moment he is working on AH-SDI project."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: ibrahimi.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/alireza-ibrahimi/"}
 -
   id: 10
   name: "Amedeo"
-  surname: "Favini"
+  surname: "Fadini"
   company: "CNR ISMA"
   bio: "Born 1973, curious since1980, maker since 1985, pc user since 1993,  adult since 1999, Gis user since 2005 Gis developer since 2010 Land Planner since 2016. I am passionate about open source and member of local osgeo chapter."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: fadini.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/amefad/"}
@@ -107,7 +107,7 @@
   surname: "Bovio"
   company: "GeoSolutions"
   bio: "Cartography, Sound, JavaScript and much more."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: bovio.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/allyoucanmap"}
@@ -119,7 +119,7 @@
   surname: "Mensur"
   company: "IGAD"
   bio: "Database Expert at IGAD."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: jemal.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jemal-dagnew-mensur-86851133/"}
@@ -129,13 +129,13 @@
   surname: "Cram"
   company: "MapStand"
   bio: "I am a petroleum geologist by training and after a decade working for oil companies am now focused creating and publishing spatial datasets pertaining to industry activities increasing transparency, oversight and efficiency."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: cram.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/cramrock"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/francis-cram/"}
 -
-  id: 13
+  id: 14
   name: "Ries"
   surname: "Kluskens"
   company: "Royal HaskoningDHV"
