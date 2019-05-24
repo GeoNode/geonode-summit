@@ -76,10 +76,8 @@
   id: 106
   title: "Status and MapStore and its integration with GeoNode"
   place: "Grand Hotel Royal"
-  description: ""MapStore is the Open Source product for creating, saving and sharing in a simple and intuitive way maps and mashups created selecting contents from public services like Google Maps and OpenStreetMap or other servers implementing OGC and ISO protocols. Thanks to MapStore the user can mix her own data with data available on the web to create comprehensive
-maps and share them with anyone (also via social networks). MapStore is cross-browser, and mobile ready. 
-
-The presentation will give the audience an extensive overview of the MapStore  functionalities for the creation of mapping applications.  It will cover in detail the current status of the integration with GeoNode as well as future evolutions."
+  description: "MapStore is the Open Source product for creating, saving and sharing in a simple and intuitive way maps and mashups created selecting contents from public services like Google Maps and OpenStreetMap or other servers implementing OGC and ISO protocols.
+               <br>Thanks to MapStore the user can mix her own data with data available on the web to create comprehensive maps and share them with anyone (also via social networks). MapStore is cross-browser, and mobile ready. The presentation will give the audience an extensive overview of the MapStore  functionalities for the creation of mapping applications. It will cover in detail the current status of the integration with GeoNode as well as future evolutions."
   subtype: talk
   speakers: [11]
 -
@@ -87,7 +85,7 @@ The presentation will give the audience an extensive overview of the MapStore  f
   title: "One GeoNode, many GeoNode. Where we are, where we want to go"
   place: "Grand Hotel Royal"
   description: "GeoSolutions has been involved into a number of projects, ranging from local administrations to global institutions, involving GeoNode deployments, customizations and enhancements. A gallery of projects and use cases will showcase the versatility and effectiveness of GeoNode, both as a standalone application and as a service component, for building secured geodata catalogs and web mapping services.
-In the presentation we will also cover our plans for the mid and long term for GeoNode, including the next vesion, GeoNode 3."
+               <br>In the presentation we will also cover our plans for the mid and long term for GeoNode, including the next vesion, GeoNode 3."
   subtype: talk
   speakers: [2]
 -
@@ -108,9 +106,9 @@ In the presentation we will also cover our plans for the mid and long term for G
   id: 110
   title: "Delivering subcripition-based geospatial content to customers throughout the world with GeoNode"
   place: "Grand Hotel Royal"
-  description: "MapStand limited mission is to track the global activities of the oil and gas industry and then turn such information into valuable geospatial layers made available as open data to our clients via a subscription fee. 
-In order to deliver our content to subscribers we are using a minimally customised GeoNode instance that enables multiple users to view content with specific groups' restrictions. Such set-up restricts visibility of maps and layers to authorised users and to specific user groups. The ability to download content is also restricted by group although this does limit the ability to interrogate the data tables within GeoNode so SQL views have been created in GeoServer to filter downloadable content for specific interest groups. 
-Lastly, the front-end is a custom-tailored MapStore application that deliver our content in a more comprehensible manner for our end users."
+  description: "MapStand limited mission is to track the global activities of the oil and gas industry and then turn such information into valuable geospatial layers made available as open data to our clients via a subscription fee.
+               <br>In order to deliver our content to subscribers we are using a minimally customised GeoNode instance that enables multiple users to view content with specific groups' restrictions. Such set-up restricts visibility of maps and layers to authorised users and to specific user groups. The ability to download content is also restricted by group although this does limit the ability to interrogate the data tables within GeoNode so SQL views have been created in GeoServer to filter downloadable content for specific interest groups.
+               <br>Lastly, the front-end is a custom-tailored MapStore application that deliver our content in a more comprehensible manner for our end users."
   subtype: talk
   speakers: [13]
 -
@@ -124,14 +122,17 @@ Lastly, the front-end is a custom-tailored MapStore application that deliver our
   id: 112
   title: "Strengthening Asian Development Bank's Climate Resilient Urban Planning with SPADE (Spatial Data Analyses Explorer)"
   place: "Grand Hotel Royal"
-  description: "The Spatial Data Analysis Explorer or SPADE is web-based platform showcasing different climate change scenarios along with topography, land use, socioeconomic, and infrastructure data sets that can help improve and support the preparation, planning, implementation, and monitoring of urban resilience projects in the region, leading to liveable cities. SPADE is completely based on Open Source technology and is leveraging out-of-the-box solutions such as GeoNode and Leaflet to provide users with a simple and rich user-friendly interface to share and improve access to spatial data, allowing users to combine and compare different climate change scenarios with land use and infrastructure datasets.The Asian Development Bank, in collaboration with Royal HaskoningDHV, developed SPADE under the Urban Climate Change Resilience Trust Fund. The first generation of the SPADE platform was successfully launched and commissioned in June 2018. The next generation of SPADE looks to integrate Geonode and Mapstore functionality."
+  description: "The Spatial Data Analysis Explorer or SPADE is web-based platform showcasing different climate change scenarios along with topography, land use, socioeconomic, and infrastructure data sets that can help improve and support the preparation, planning, implementation, and monitoring of urban resilience projects in the region, leading to liveable cities. SPADE is completely based on Open Source technology and is leveraging out-of-the-box solutions such as GeoNode and Leaflet to      provide users with a simple and rich user-friendly interface to share and improve access to spatial data, allowing users to combine and compare different climate change scenarios with land use and infrastructure datasets.
+  <br>The Asian Development Bank, in collaboration with Royal HaskoningDHV, developed SPADE under the Urban Climate Change Resilience Trust Fund. The first generation of the SPADE platform was successfully launched and commissioned in June 2018. The next generation of SPADE looks to integrate Geonode and Mapstore functionality."
   subtype: talk
   speakers: [13]
 -
   id: 113
   title: "IGAD Spatial Web Portal"
   place: "Grand Hotel Royal"
-  description: "This presentation covers the work performed for the implementation and deployment of the IGAD Geoportal leveraging on the GeoNode platform which was performed by IGAD together with GeoSolutions. The project originates from the intention to set up a regional information system to support IDDRSI Core functions - knowledge management infrastructure and tools - and IGAD Biodiversity Management Project, aiming at poverty reduction and sustainable management in the IGAD region. The main outcome of this project has been the enhancement of the existing IGAD Geoportal, based on the GeoNode Open Source project, to store, visualize and analyze biodiversity spatial and non-spatial data and information at national and regional level. The IGAD Geoportal wpuld then assume the role of a central node within the network of regional data services, and will serve as the main gateway to local and remote data exploration. The presentation will cover the motivations, the starting conditions, the work performed (which includes the first version of the integration with MapStore), the deployment on AWS to then draw some conclusions and lessons learnt that could help those who are willing to follow a similar path with the GeoNode platform."
+  description: "This presentation covers the work performed for the implementation and deployment of the IGAD Geoportal leveraging on the GeoNode platform which was performed by IGAD together with GeoSolutions. The project originates from the intention to set up a regional information system to support IDDRSI Core functions - knowledge management infrastructure and tools - and IGAD Biodiversity Management Project, aiming at poverty reduction and sustainable management in the IGAD region.
+  <br>The main outcome of this project has been the enhancement of the existing IGAD Geoportal, based on the GeoNode Open Source project, to store, visualize and analyze biodiversity spatial and non-spatial data and information at national and regional level. The IGAD Geoportal wpuld then assume the role of a central node within the network of regional data services, and will serve as the main gateway to local and remote data exploration.
+  <br>The presentation will cover the motivations, the starting conditions, the work performed (which includes the first version of the integration with MapStore), the deployment on AWS to then draw some conclusions and lessons learnt that could help those who are willing to follow a similar path with the GeoNode platform."
   subtype: talk
   speakers: [12]
 -
