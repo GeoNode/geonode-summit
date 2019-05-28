@@ -43,11 +43,11 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
+  - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
   - {link: "/schedule/", text: "Schedule"}
   - {link: "https://goo.gl/forms/XQ3BGXOAlS2xE4ee2", text: "Register"}
 rightNavigationButtons:
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Become a speaker!"}
+  - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
   - {link: "/schedule/", text: "Schedule"}
   - {link: "https://goo.gl/forms/XQ3BGXOAlS2xE4ee2", text: "Register"}
 
