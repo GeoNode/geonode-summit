@@ -138,8 +138,9 @@
   speakers: [12]
 -
   id: 114
-  title: "Presentation"
+  title: "GET-IT: Integrating sensor information and semantics-aware metadata in GeoNode"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "Since 2014, the Geoinformation Enabling Toolkit starterkIT® (GET-IT), enriched GeoNode® with components addressing two essential needs of scientific research communities. On the one hand GET-IT integrates software for the management of sensor information (via the Sensor Observation Service by 52°North) alongside the geographic information natively supported by GeoNode. On the other, this software suite allows for advanced, customizable, and semantics-aware metadata management (via the EDI editor developed by CNR - IREA).
+These components enable communities interoperable management of in-situ sensor and geographic data through standards-based metadata and services (e.g., OGC, INSPIRE). Initially developed for the marine domain, GET-IT has been customized for the environmental, geological, urban planning, and precision agriculture contexts. In this presentation, the architectural and technological choices underlying this GeoNode Project will be showcased."
   subtype: talk
-  speakers: []
+  speakers: [15]
