@@ -144,3 +144,13 @@
   rockstar: true
   social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/ries-kluskens-31776216/"}
+  -
+  id: 15
+  name: "Cristiano"
+  surname: "Fugazza"
+  company: "CNR - IREA"
+  bio: "Cristiano Fugazza is a researcher by the Institute for Electromagnetic Sensing of the Environment of the National Research Council of Italy (CNR-IREA). He is researching in Spatial Data Infrastructures (SDIs), focusing on data and metadata management. In particular, he is active in the design and management of Free and Open Source Software (FOSS) for SDI implementation. He worked by the Spatial Data Infrastructure Unit (SDIU) of the JRC-IES (Institute for Environment and Sustainability, Joint Research Centre, European Commission) on the creation, harmonization, and exploitation of multilingual thesauri in the SKOS format for the purpose of annotation and discovery of spatial resources. He supported the development of the Global Earth Observation System of Systems (GEOSS) and the European spatial data infrastructure established by the INSPIRE Directive by managing a comprehensive repository of harmonized reference and thematic thesauri. He obtained his Ph.D. in Computer Science by the Dept. of Information Technologies, University of Milan, focusing on Knowledge Management and Semantic Web technologies. He has contributed to, and published in international journals, conferences, and workshops in the domains of spatial data infrastructures, supply chain management, business modeling, digital rights management, personal information protection, and persistent identifiers."
+  thumbnailUrl: fugazza.jpg
+  rockstar: true
+  social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/cristiano-fugazza-125a7a2"}
