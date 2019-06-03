@@ -45,11 +45,9 @@ navigationLinks:
 bottomNavigationLinks:
   - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
   - {link: "/schedule/", text: "Schedule"}
-  - {link: "https://goo.gl/forms/XQ3BGXOAlS2xE4ee2", text: "Register"}
 rightNavigationButtons:
   - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
   - {link: "/schedule/", text: "Schedule"}
-  - {link: "https://goo.gl/forms/XQ3BGXOAlS2xE4ee2", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -57,9 +55,8 @@ heroTitle: "GeoNode <typeout> Summit 2019"
 eventDate: "Viareggio, Italy | 11 - 13 June, 2019"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
-heroMessage: "Call for presentation open! Submit your talk above and make sure to register to the event, seats are limited!"
+heroMessage: "Registration is now closed. Write to summit2019@geo-solutions.it for info."
 heroButtons:
- - {permalink: "/#register", text: "Registration Form"}
  - {link: "/schedule/", text: "Summit Schedule"}
  - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
