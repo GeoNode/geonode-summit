@@ -105,7 +105,7 @@
   speakers: [7]
 -
   id: 110
-  title: "Delivering subcripition-based geospatial content to customers throughout the world with GeoNode"
+  title: "Delivering subscripition-based geospatial content to customers throughout the world with GeoNode"
   place: "Grand Hotel Royal"
   description: "MapStand limited mission is to track the global activities of the oil and gas industry and then turn such information into valuable geospatial layers made available as open data to our clients via a subscription fee.
                <br>In order to deliver our content to subscribers we are using a minimally customised GeoNode instance that enables multiple users to view content with specific groups' restrictions. Such set-up restricts visibility of maps and layers to authorised users and to specific user groups. The ability to download content is also restricted by group although this does limit the ability to interrogate the data tables within GeoNode so SQL views have been created in GeoServer to filter downloadable content for specific interest groups.
