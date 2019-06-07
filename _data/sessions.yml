@@ -61,11 +61,11 @@
   speakers: [1]
 -
   id: 104
-  title: "Docker containers and GeoNode in 2019"
+  title: "GeoNode: success stories, lessons learned"
   place: "Grand Hotel Royal"
-  description: "GeoNode has supported Docker since the early days of this technology, but many things have changed since then. This talk is about the recent evolution of containers in GeoNode, current limitations and future improvements."
+  description: "In this presentation we analyze the evolution of GeoNode from the initial concept to some case studies we have been working on for different kind of organizations. We highlight also the different needs GeoNode was able to satisfy and the issues we faced. Finally our considerations on the future of the project."
   subtype: talk
-  speakers: [6]
+  speakers: [7, 16]
 -
   id: 105
   title: "WFP Geonode Roadmap"
@@ -98,11 +98,11 @@
   speakers: [8]
 -
   id: 109
-  title: "GeoNode: success stories, lesson learned"
-  place: "ITHACA has been working with GeoNode since 2011 in a number of projects. Based on this experience, this presentation will focus on lessons learned from GeoNode success stories and challenges."
-  description: ""
+  title: "Docker containers and GeoNode in 2019"
+  place: "Grand Hotel Royal"
+  description: "GeoNode has supported Docker since the early days of this technology, but many things have changed since then. This talk is about the recent evolution of containers in GeoNode, current limitations and future improvements."
   subtype: talk
-  speakers: [7]
+  speakers: [6]
 -
   id: 110
   title: "Delivering subscripition-based geospatial content to customers throughout the world with GeoNode"
