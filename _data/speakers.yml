@@ -154,3 +154,15 @@
   rockstar: true
   social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/cristiano-fugazza-125a7a2"}
+-
+  id: 16
+  name: "Simone"
+  surname: "Dalmasso"
+  company: "European Commission JRC"
+  bio: "Simone is a technical project officer at the European Commission Joint Research Centre in charge of the Copernicus Emergency Management Rapid Mapping technical coordination and supervision.
+  Simone is a GeoNode core developer since 2012 and member of the PSC."
+  thumbnailUrl: simone-dalmasso.jpg
+  rockstar: true
+  social:
+     - {name: "github", link: "https://github.com/simod"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/simonedalmasso/"}
