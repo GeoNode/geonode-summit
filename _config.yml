@@ -43,10 +43,10 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
-  - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
+  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
   - {link: "/schedule/", text: "Schedule"}
 rightNavigationButtons:
-  - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
+  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
   - {link: "/schedule/", text: "Schedule"}
 
 # Hero Block
@@ -58,7 +58,7 @@ typeoutFallback: ""
 heroMessage: "Registration is now closed. Write to summit2019@geo-solutions.it for info."
 heroButtons:
  - {link: "/schedule/", text: "Summit Schedule"}
- - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
+ # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
 # About Block
 aboutTitle: "About GeoNode Summit"
