@@ -9,9 +9,9 @@ The Geonode Summit 2019 ended, many ideas have been discussed about the past, th
 
 Many thanks to participants for coming here in Viareggio and for their interesting presentations.
 
-All those presentations are available [here](https://github.com/GeoNode/geonode-summit/tree/gh-pages/presentation/2019). Take also a look at the [GeoNode Summit 2019 on twitter](https://twitter.com/search?q=geonodesummit2019) for further contents.
+All the presentations are available on the schedule, just click on the abstract of the presentation and follow the links. Most of them as also available [here](https://github.com/GeoNode/geonode-summit/tree/gh-pages/presentation/2019). If you a social person you might want to have a look at the GeoNode Summit 2019 twitter flow [here](https://twitter.com/search?q=geonodesummit2019) for further contents.
 
-And here some photos of the summit.
+Last but not least, here below you can find some photos from the summit.
 
 ![](../img/posts/ffrassinelli_presentation.jpg){: width="100%"}
 
