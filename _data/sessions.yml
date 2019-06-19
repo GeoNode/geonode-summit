@@ -67,6 +67,7 @@
   description: "In this presentation we analyze the evolution of GeoNode from the initial concept to some case studies we have been working on for different kind of organizations. We highlight also the different needs GeoNode was able to satisfy and the issues we faced. Finally our considerations on the future of the project."
   subtype: talk
   speakers: [7, 16]
+  presentation: "https://docs.google.com/presentation/d/1id2xpyKP1cOTGwM6M0PWJPj37Efd3OarVfJ4L6ag3yA/edit#slide=id.p"
 -
   id: 105
   title: "WFP Geonode Roadmap"
