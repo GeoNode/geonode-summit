@@ -25,7 +25,7 @@
   id: 555
   title: "Social Dinner"
   place: "TBD"
-  description: "Apericena on the seaside promenade. Register here http://bit.ly/summit2019-se"
+  description: "Apericena on the seaside promenade at Fanatiko Beach Bar. Register here http://bit.ly/summit2019-se"
   service: true
 -
   id: 444
@@ -44,14 +44,14 @@
   description: "The workshop will touch all the topics from installation, configuration, administration and usage of GeoNode. It will cover tipical functionalities and use cases a GeoNode user, either Administrator or Standard, will face. Installatio and systme configuration. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, troubleshoot and fix the most common issues."
   subtype: workshop
   speakers: [1, 3]
-  presentation: "http://training.geonode.geo-solutions.it"
+  presentation: "http://docs.geonode.org/en/master/install/index.html"
 -
   id: 102
   title: "Workshop - Installing, configuring, administering and using GeoNode - Part 2"
   description: "The workshop will touch all the topics from installation, configuration, administration and usage of GeoNode. It will cover tipical functionalities and use cases a GeoNode user, either Administrator or Standard, will face. Installatio and systme configuration. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, troubleshoot and fix the most common issues."
   subtype: workshop
   speakers: [1, 3]
-  presentation: "http://training.geonode.geo-solutions.it"
+  presentation: "http://docs.geonode.org/en/master/usage/accounts_user_profile/index.html"
 -
   id: 103
   title: "State of GeoNode"
@@ -59,13 +59,15 @@
   description: "This talk will discuss the current state of GeoNode, a popular open source geospatial Content Management System with a large users and developers community. The talk will provide highlights of the story of the project, its community, and infrastructure, its features and capabilities, a showcase of successful implementations, its architecture and a review of what is new in the latest version."
   subtype: talk
   speakers: [1]
+  presentation: "../presentation/2019/afabiani_StateOfGeoNode.pdf"
 -
   id: 104
   title: "GeoNode: success stories, lessons learned"
-  place: "ITHACA has been working with GeoNode since 2011 in a number of projects. Based on this experience, this presentation will focus on lessons learned from GeoNode success stories and challenges."
-  description: ""
+  place: "Grand Hotel Royal"
+  description: "In this presentation we analyze the evolution of GeoNode from the initial concept to some case studies we have been working on for different kind of organizations. We highlight also the different needs GeoNode was able to satisfy and the issues we faced. Finally our considerations on the future of the project."
   subtype: talk
   speakers: [7, 16]
+  presentation: "../presentation/2019/ppasquali_lessons_learned.pptx"
 -
   id: 105
   title: "WFP Geonode Roadmap"
@@ -73,6 +75,7 @@
   description: "The future plans of WFP Geonode instance."
   subtype: talk
   speakers: [4, 5]
+  presentation: "../presentation/2019/stompanato_karakostis_WFP_GeoNode.pdf"
 -
   id: 106
   title: "Status and MapStore and its integration with GeoNode"
@@ -81,6 +84,7 @@
                <br>Thanks to MapStore the user can mix her own data with data available on the web to create comprehensive maps and share them with anyone (also via social networks). MapStore is cross-browser, and mobile ready. The presentation will give the audience an extensive overview of the MapStore  functionalities for the creation of mapping applications. It will cover in detail the current status of the integration with GeoNode as well as future evolutions."
   subtype: talk
   speakers: [11]
+  presentation: "../presentation/2019/mbartolomeoli_MapStore2_ModernWebMapping.pdf"
 -
   id: 107
   title: "One GeoNode, many GeoNode. Where we are, where we want to go"
@@ -89,6 +93,7 @@
                <br>In the presentation we will also cover our plans for the mid and long term for GeoNode, including the next vesion, GeoNode 3."
   subtype: talk
   speakers: [2]
+  presentation: "../presentation/2019/gallegri_OneGeoNodeManyGeoNodes.pdf"
 -
   id: 108
   title: "The OpenQuake Platform"
@@ -96,6 +101,7 @@
   description: "Web-based platform offers an interactive environment in which users can access, manipulate, share and add data, and explore models and tools for integrated assessment of earthquake risk."
   subtype: talk
   speakers: [8]
+  presentation: "../presentation/2019/gallegri_OneGeoNodeManyGeoNodes.pdf"
 -
   id: 109
   title: "Docker containers and GeoNode in 2019"
@@ -103,15 +109,17 @@
   description: "GeoNode has supported Docker since the early days of this technology, but many things have changed since then. This talk is about the recent evolution of containers in GeoNode, current limitations and future improvements."
   subtype: talk
   speakers: [6]
+  presentation: "../presentation/2019/ffrassinelli_GeoNode_Docker.pdf"
 -
   id: 110
-  title: "Delivering subcripition-based geospatial content to customers throughout the world with GeoNode"
+  title: "Delivering subscripition-based geospatial content to customers throughout the world with GeoNode"
   place: "Grand Hotel Royal"
   description: "MapStand limited mission is to track the global activities of the oil and gas industry and then turn such information into valuable geospatial layers made available as open data to our clients via a subscription fee.
                <br>In order to deliver our content to subscribers we are using a minimally customised GeoNode instance that enables multiple users to view content with specific groups' restrictions. Such set-up restricts visibility of maps and layers to authorised users and to specific user groups. The ability to download content is also restricted by group although this does limit the ability to interrogate the data tables within GeoNode so SQL views have been created in GeoServer to filter downloadable content for specific interest groups.
                <br>Lastly, the front-end is a custom-tailored MapStore application that deliver our content in a more comprehensible manner for our end users."
   subtype: talk
   speakers: [13]
+  presentation: "../presentation/2019/fcram_GeoNode_MapStand.pptx"
 -
   id: 111
   title: "Multidimensional data in Geonode environment"
@@ -119,6 +127,7 @@
   description: "If could be useful for the audience I'll be pleased to present a simple use case in which a customized Geonode project has been deployed on the same server whith THREDDS data server instance and a viewer based on Leaflet timeseries that make esier access to time-series marine weather forecasts."
   subtype: talk
   speakers: [10]
+  presentation: "../presentation/2019/afadini_Geonode_and_multidimensional_data.pdf"
 -
   id: 112
   title: "Strengthening Asian Development Bank's Climate Resilient Urban Planning with SPADE (Spatial Data Analyses Explorer)"
@@ -127,6 +136,7 @@
   <br>The Asian Development Bank, in collaboration with Royal HaskoningDHV, developed SPADE under the Urban Climate Change Resilience Trust Fund. The first generation of the SPADE platform was successfully launched and commissioned in June 2018. The next generation of SPADE looks to integrate Geonode and Mapstore functionality."
   subtype: talk
   speakers: [14]
+  presentation: "../presentation/2019/rkluskens_SPADE_GeoNode.pdf"
 -
   id: 113
   title: "IGAD Spatial Web Portal"
@@ -136,10 +146,13 @@
   <br>The presentation will cover the motivations, the starting conditions, the work performed (which includes the first version of the integration with MapStore), the deployment on AWS to then draw some conclusions and lessons learnt that could help those who are willing to follow a similar path with the GeoNode platform."
   subtype: talk
   speakers: [12]
+  presentation: "../presentation/2019/jmensur_IGAD_GeoNode_Portal.pdf"
 -
   id: 114
-  title: "Presentation"
+  title: "GET-IT: Integrating sensor information and semantics-aware metadata in GeoNode"
   place: "Grand Hotel Royal"
-  description: ""
+  description: "Since 2014, the Geoinformation Enabling Toolkit starterkIT® (GET-IT), enriched GeoNode® with components addressing two essential needs of scientific research communities. On the one hand GET-IT integrates software for the management of sensor information (via the Sensor Observation Service by 52°North) alongside the geographic information natively supported by GeoNode. On the other, this software suite allows for advanced, customizable, and semantics-aware metadata management (via the EDI editor developed by CNR - IREA).
+These components enable communities interoperable management of in-situ sensor and geographic data through standards-based metadata and services (e.g., OGC, INSPIRE). Initially developed for the marine domain, GET-IT has been customized for the environmental, geological, urban planning, and precision agriculture contexts. In this presentation, the architectural and technological choices underlying this GeoNode Project will be showcased."
   subtype: talk
-  speakers: []
+  speakers: [15]
+  presentation: "../presentation/2019/cfugazza_GETIT_Geonode.pdf"
