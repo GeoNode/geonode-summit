@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "How to get to the venue"
-date:   2019-12-19 14:30:00
+date:   2019-12-19 15:00:00
 isStaticPost: false
 ---
 The venue is at the [Thünen Institute Forum](https://www.google.de/maps/place/Forum+des+Johann+Heinrich+von+Th%C3%BCnen-Institut/@52.2882346,10.441939,16z/data=!4m16!1m10!4m9!1m0!1m6!1m2!1s0x47aff5d58a00663b:0x425ac6d94ac3ab0!2sBraunschweig!2m2!1d10.5267696!2d52.2688736!3e0!3m4!1s0x47aff7774d2005c9:0xe027a0ae4105dfaa!8m2!3d52.2895531!4d10.4340345) in Brunswick (Braunschweig). The Forum is located on the Thünen Institutes Campus at the western outskirts of Brunswick.
-
-![](../img/posts/Venue_ThuenenForum.jpg){: width="100%"}
 
 
 ##### Venue Information
