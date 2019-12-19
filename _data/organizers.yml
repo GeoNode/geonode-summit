@@ -1,4 +1,5 @@
 -
   group: ""
   elements:
+    - {name: "Thünen Institute", description: "The Thünen Insitute is a Federal Research Institute for Rural Areas, Forestry and Fisheries. Our research is targeted at developing concepts for a sustainable, ecologically viable, and competitive agriculture and food economy, forestry and wood economy, fisheries and aquaculture.", link: "https://www.thuenen.de/en/about-us/the-institute/", imageUrl: "THUENEN_Office_RGB_200x80.png"}
     - {name: "GeoSolutions", description: "GeoSolutions provides innovative, robust and cost-effective solutions leveraging on best-of-breed Open Source products.", link: "https://www.geo-solutions.it", imageUrl: "geosolutions.png"}
