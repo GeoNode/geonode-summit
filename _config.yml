@@ -144,7 +144,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/blog/how-to-get-to-the-venue", text: "How to get to the venue"}
+   - {permalink: "/blog/how-to-get-to-the-venue-thuenen", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
@@ -206,8 +206,8 @@ directionDetailsWideCards:
    -
     title: "Registration"
     links:
-     - {link: "/#register", text: "How to register"}
-     - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Submit a presentation"}
+     - {link: "/#", text: "will open soon"}
+#     - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Submit a presentation"}
    -
     title: "Attendance Details"
     links:
