@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -24,7 +24,7 @@ organizerName: "Thünen Institute"
 organizerAlternateName: "Thünen Institute"
 organizerDescription: "The Thünen Insitute is a Federal Research Institute for Rural Areas, Forestry and Fisheries. Our research is targeted at developing concepts for a sustainable, ecologically viable, and competitive agriculture and food economy, forestry and wood economy, fisheries and aquaculture."
 organizerEmail: "summit2020@thuenen.de"
-organizerLogo: "/img/organizers/THUENEN_Office_RGB_200x80.png"
+organizerLogo: "/img/organizers/THUENEN_Office_RGB_hq.png"
 organizerLink: "https://www.thuenen.de/en/"
 
 # Head
@@ -187,11 +187,11 @@ locationsCenterLatLon: 52.271975, 10.476464
 zoomLevel: 12
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "brunsick_getting_around.jpg"
 directionDetailsTitle: "Get around Brunswick"
 directionDetailsCards:
  - {title: "From/To the Airport", information: '<a href="http://www.hannover-airport.de/index.php?id=fluginfo_index&L=1">Hannover Airport</a>, transfer to main train station and then continue by train (hourly ICE and IC connections to Braunschweig).</br><a href="http://www.berlin-airport.de/en/index.php">Berlin Tegel or Berlin Schönefeld</a>, transfer to main train station and then continue by train (hourly ICE connections to Braunschweig).</br> Map of the Thünen campus in Braunschweig <a href="https://www.thuenen.de/media/ti/Ueber_uns/Standorte_und_Anreise/2018-02_Thuenen-Gelaendeplan_Wache_A4_englisch.pdf">(PDF Download)</a>.'} #TODO
- - {title: "Public Transit", information: 'Destination station is Braunschweig Main Station. Travel Information for the German Railroad (Deutsche Bahn) is available <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=38181&country=DEU&protocol=https:&rt=1&newrequest=yes&&country=GBR">here</a>. Continue your trip with a taxi or public transportation (public buses require about 30 minutes). Bus stations are located directly in front of the railway station. Bus line 411 in the direction "Lamme" or 461 in the direction "Lehndorf, PTB". Get off at the "Bundesallee" stop. The bus stop is directly at the entrance of the Thünen campus. Since the campus is very large, either plan for a long walk or have your host pick you up at the main entrance. For example, the walk from the main entrance to the Forum, the central event venue, takes about 15 minutes. Schedules for the public buses of Braunschweig can be found <a href="http://www.verkehr-bs.de/fahrplan.html">here</a>. '}
+ - {title: "Public Transit", information: 'Destination station is Braunschweig Main Station. Travel Information for the German Railroad (Deutsche Bahn) is available <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=38181&country=DEU&protocol=https:&rt=1&newrequest=yes&&country=GBR">here</a>.</br>Continue your trip with a taxi or public transportation (public buses require about 30 minutes). Bus stations are located directly in front of the railway station. Bus line 411 in the direction "Lamme" or 461 in the direction "Lehndorf, PTB". Get off at the "Bundesallee" stop. The bus stop is directly at the entrance of the Thünen campus.</br>Since the campus is very large, either plan for a long walk or have your host pick you up at the main entrance. For example, the walk from the main entrance to the Forum, the central event venue, takes about 15 minutes.</br>Schedules for the public buses of Braunschweig can be found <a href="http://www.verkehr-bs.de/fahrplan.html">here</a>. '}
  - {title: "Hotels", information: 'You can book at "Waldhaus Oelper" or "B&B Hotel Braunschweig-City". If you search for accommodations you should see if they are located on the western side of brunswick to be not to far from the venue'}
 directionDetailsWideCards:
  -
@@ -200,9 +200,9 @@ directionDetailsWideCards:
    -
     title: "Getting to the venue"
     links:
-     - {link: "/blog/how-to-get-to-the-venue#from-pisa-airport", text: "At the airport"}
-     - {link: "/blog/how-to-get-to-the-venue#arriving-by-train", text: "Arriving by train"}
-     - {link: "/blog/how-to-get-to-the-venue#moving-in-viareggio", text: "Get around Viareggio"}
+     - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-plane", text: "At the airport"}
+     - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-train", text: "Arriving by train"}
+     - {link: "/blog/how-to-get-to-the-venue-thuenen#getting-around-in-brunswick", text: "Get around Brunswick"}
    -
     title: "Registration"
     links:
