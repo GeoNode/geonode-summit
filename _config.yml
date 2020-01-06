@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -9,9 +9,9 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "GeoNode Summit 2019"
+title: "GeoNode Summit 2020"
 email: ""
-description: "Website of the 2019 GeoNode Summit"
+description: "Website of the 2020 GeoNode Summit"
 baseurl: ""
 url: http://summit.geonode.org
 permalink: "/blog/:title"
@@ -20,17 +20,17 @@ googleAnalyticsSiteUrl: "geonode.github.io" #TODO!
 siteVerification: "N/A" #TODO!
 
 # Organizer Info
-organizerName: "GeoSolutions"
-organizerAlternateName: "GeoSolutions"
-organizerDescription: "GeoSolutions provides innovative, robust and cost-effective solutions leveraging on best-of-breed Open Source products."
-organizerEmail: "summit2019@geo-solutions.it"
-organizerLogo: "/img/organizers/geosolutions.png"
-organizerLink: "https://www.geo-solutions.it"
+organizerName: "Thünen Institute"
+organizerAlternateName: "Thünen Institute"
+organizerDescription: "The Thünen Insitute is a Federal Research Institute for Rural Areas, Forestry and Fisheries. Our research is targeted at developing concepts for a sustainable, ecologically viable, and competitive agriculture and food economy, forestry and wood economy, fisheries and aquaculture."
+organizerEmail: "summit2020@thuenen.de"
+organizerLogo: "/img/organizers/THUENEN_Office_RGB_hq.png"
+organizerLink: "https://www.thuenen.de/en/"
 
 # Head
 metaKeywords: "event, summit, geonode, open source, programming, maps, developers, django, geoserver, postgis"
 twitterAccount: "@GeoNode"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png" # TODO remove
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png" # TODO remove
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -50,12 +50,12 @@ rightNavigationButtons:
   - {link: "/schedule/", text: "Schedule"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GeoNode <typeout> Summit 2019"
-eventDate: "Viareggio, Italy | 11 - 13 June, 2019"
+heroImage: "ThuenenforumAerial_large.jpg"
+heroTitle: "GeoNode <typeout> Summit 2020"
+eventDate: "Brunswick, Germany | 12 - 14 May, 2020"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
-heroMessage: "Registration is now closed. Write to summit2019@geo-solutions.it for info."
+heroMessage: "Save the date! Registration will soon be opened"
 heroButtons:
  - {link: "/schedule/", text: "Summit Schedule"}
  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
@@ -87,13 +87,13 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Viareggio"
-eventLocationLink: "https://www.geo-solutions.it"
-eventStreetAddress: "#"
-eventAddressLocality: "Viareggio"
-eventAddressLocalityRegion: "Toscana"
-eventPostalCode: "#"
-eventAddressCountry: "Italy"
+eventLocationName: "Brunswick"
+eventLocationLink: "https://www.thuenen.de/en/about-us/locations-and-how-to-find-us/how-to-find-braunschweig/"
+eventStreetAddress: "Bundesallee 50"
+eventAddressLocality: "Brunswick"
+eventAddressLocalityRegion: "Lower-Saxony"
+eventPostalCode: "38116"
+eventAddressCountry: "Germany"
 eventStartTime: "#"
 eventDoorTime: "#"
 eventEndTime: "#"
@@ -107,7 +107,7 @@ venueBigImage: "#"
 venueSmallImage1: "#"
 venueSmallImage2: "#"
 venueSmallImage3: "#"
-venueTitle: "GeoSolutions"
+venueTitle: "Thünen Institute"
 venueFeatures: []
 
 # Tweets Feed Block
@@ -125,7 +125,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "#"
-subscribeInfo: "Registration is open and will close at the end of May."
+subscribeInfo: "Registration will open soon."
 
 # Footer
 socialLinks:
@@ -140,7 +140,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:summit2019@geo-solutions.it", text: "summit2019@geo-solutions.it"}
+   - {link: "mailto:summit2020@thuenen.de", text: "summit2020@thuenen.de"}
  -
   title: "FAQ"
   links:
@@ -157,7 +157,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About"
-aboutUs: "The Summit 2019 brings together the community of users, developers and stakeholders of GeoNode, the popular open source geospatial content management system.
+aboutUs: "The Summit 2020 brings together the community of users, developers and stakeholders of GeoNode, the popular open source geospatial content management system.
 <br/><br/>Join us for a 3-day packed event to learn and contribute to GeoNode!<br/><br/>
 
 GeoNode is a web-based Spatial Data Infrastructure (SDI) that enables sharing and collaborating on geospatial data. Users can upload existing shapefiles, edit data, and publish finished maps.<br/>GeoNode can also host static documents, such as PDF maps. GeoNode has robust support for open standards and OGC services, which streamlines integration with other systems and existing workflows. For example, data from GeoNode can be easily downloaded as a shapefile for use in ArcMap. At its core, GeoNode is designed to be customizable and extensible.<br/><br/>
@@ -172,27 +172,27 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "43.8804, 10.2684"
-logisticsMapMobileCenterCoordinates: "43.8804, 10.2684"
+logisticsMapCenterCoordinates: "52.290549, 10.437200"
+logisticsMapMobileCenterCoordinates: "52.290549, 10.437200"
 logisticsMapAutoDirections: false
 
 # Location
-firstLocationName: "GeoSolutions Headquarter"
-firstLocationLatLon: 43.88404, 10.29805
-firstLocationAddress: "Via di Montramito, 3, 55054 Montramito, Massarosa LU"
-secondLocationName: "Grand Hotel Royal"
-secondLocationLatLon: 43.87613, 10.23895
-secondLocationAddress: "Viale Giosuè Carducci, 44, 55049 Viareggio LU"
-locationsCenterLatLon: 43.8804, 10.2684
-zoomLevel: 14
+firstLocationName: "Thünen Institute"
+firstLocationLatLon: 52.290549, 10.437200
+firstLocationAddress: "Bundesallee 50, 38116 Braunschweig, Germany"
+secondLocationName: "Brunswick"
+secondLocationLatLon: 52.263054, 10.525196
+#secondLocationAddress: "Viale Giosuè Carducci, 44, 55049 Viareggio LU"
+locationsCenterLatLon: 52.271975, 10.476464
+zoomLevel: 12
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Viareggio"
+directionDetailsImage: "brunsick_getting_around.jpg"
+directionDetailsTitle: "Get around Brunswick"
 directionDetailsCards:
- - {title: "From/To the Airport", information: '<a href="http://pisa-mover.com/" target="_blank">PISAMOVER</a> offers fully automated ecological shuttles from <a href="https://www.pisa-airport.com" target="_blank">Pisa International Airport</a> to Pisa Central railways Station in less than three minutes, from 4.30 am to 1.30 am. <a href="https://www.trenitalia.com/" target="_blank">Trenitalia</a> operates a service from Pisa Central Station to Viareggio every 30 minutes and the journey takes 16m.<br>The <b>E25</b> bus of the <a href="http://www.cttnord.it/" target="_blank">CTT</a> also serves this route, take a look at the <a href="http://www.lucca.cttnord.it/Download.aspx?t=1&fn=E25.pdf">timetable</a>.'}
- - {title: "Public Transit", information: 'Ordinary urban ticket is 1.20€ - 2.50€. More information about <a href="http://www.lucca.cttnord.it/Servizio_Urbano_Viareggio_1_7/P/663" target="_blank">fares</a> and directions at <a href="http://www.lucca.cttnord.it/Linee_e_Orari/Urbano_Di_Viareggio/L/575">CTT website</a>.<br>Viareggio is also a perfect city for cycling with its flat morphology and lots of bike lanes, rent a bike and ride the seafront!'}
- - {title: "Hotels", information: 'In addition to the <a href="https://www.hotelroyalviareggio.it/en/" target="_blank">Grand Hotel Royal</a>, Viareggio has lots of great hotels and apartments to rent very close to the beach and the city center.'}
+ - {title: "From/To the Airport", information: '<a href="http://www.hannover-airport.de/index.php?id=fluginfo_index&L=1">Hannover Airport</a>, transfer to main train station and then continue by train (hourly ICE and IC connections to Braunschweig).</br><a href="http://www.berlin-airport.de/en/index.php">Berlin Tegel or Berlin Schönefeld</a>, transfer to main train station and then continue by train (hourly ICE connections to Braunschweig).</br> Map of the Thünen campus in Braunschweig <a href="https://www.thuenen.de/media/ti/Ueber_uns/Standorte_und_Anreise/2018-02_Thuenen-Gelaendeplan_Wache_A4_englisch.pdf">(PDF Download)</a>.'} #TODO
+ - {title: "Public Transit", information: 'Destination station is Braunschweig Main Station. Travel Information for the German Railroad (Deutsche Bahn) is available <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=38181&country=DEU&protocol=https:&rt=1&newrequest=yes&&country=GBR">here</a>.</br>Continue your trip with a taxi or public transportation (public buses require about 30 minutes). Bus stations are located directly in front of the railway station. Bus line 411 in the direction "Lamme" or 461 in the direction "Lehndorf, PTB". Get off at the "Bundesallee" stop. The bus stop is directly at the entrance of the Thünen campus.</br>Since the campus is very large, either plan for a long walk or have your host pick you up at the main entrance. For example, the walk from the main entrance to the Forum, the central event venue, takes about 15 minutes.</br>Schedules for the public buses of Braunschweig can be found <a href="http://www.verkehr-bs.de/fahrplan.html">here</a>. '}
+ - {title: "Hotels", information: 'You can book at "Waldhaus Oelper" or "B&B Hotel Braunschweig-City". If you search for accommodations you should see if they are located on the western side of brunswick to be not to far from the venue'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -200,9 +200,9 @@ directionDetailsWideCards:
    -
     title: "Getting to the venue"
     links:
-     - {link: "/blog/how-to-get-to-the-venue#from-pisa-airport", text: "At the airport"}
-     - {link: "/blog/how-to-get-to-the-venue#arriving-by-train", text: "Arriving by train"}
-     - {link: "/blog/how-to-get-to-the-venue#moving-in-viareggio", text: "Get around Viareggio"}
+     - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-plane", text: "At the airport"}
+     - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-train", text: "Arriving by train"}
+     - {link: "/blog/how-to-get-to-the-venue-thuenen#getting-around-in-brunswick", text: "Get around Brunswick"}
    -
     title: "Registration"
     links:

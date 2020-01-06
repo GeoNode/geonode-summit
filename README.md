@@ -1,7 +1,7 @@
-# GeoNode Summit 2019
+# GeoNode Summit 2020
 
 ### About
-The website for GeoNode Summit 2019. It is based on project Zeppelin.
+The website for GeoNode Summit 2020. It is based on project Zeppelin.
 
 Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
 

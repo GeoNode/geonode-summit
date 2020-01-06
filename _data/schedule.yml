@@ -1,133 +1,133 @@
--
-  date: "2019-06-11"
-  dateReadable: "Tuesday June 11"
-  tracks:
-    - {title: "Grand Hotel Royal", color: "#0cb851"}
-  timeslots:
-    - {
-    	startTime: "09:00",
-    	endTime: "09:15",
-    	sessionIds: [777]
-    }
-    - {
-    	startTime: "09:15",
-    	endTime: "10:45",
-    	sessionIds: [101]
-    }
-    - {
-    	startTime: "10:45",
-    	endTime: "11:15",
-    	sessionIds: [999]
-    }
-    - {
-    	startTime: "11:15",
-    	endTime: "12:45",
-    	sessionIds: [102]
-    }
-    - {
-    	startTime: "12:45",
-    	endTime: "13:00",
-    	sessionIds: [666]
-    }
-    - {
-    	startTime: "13:00",
-    	endTime: "14:00",
-    	sessionIds: [888]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "14:20",
-    	sessionIds: [103]
-    }
-    - {
-    	startTime: "14:20",
-    	endTime: "14:40",
-    	sessionIds: [104]
-    }
-    - {
-    	startTime: "14:40",
-    	endTime: "15:00",
-    	sessionIds: [105]
-    }
-    - {
-    	startTime: "15:00",
-    	endTime: "15:20",
-    	sessionIds: [106]
-    }
-    - {
-    	startTime: "15:20",
-    	endTime: "15:40",
-    	sessionIds: [107]
-    }
-    - {
-    	startTime: "15:40",
-    	endTime: "16:00",
-    	sessionIds: [114]
-    }
-    - {
-    	startTime: "16:00",
-    	endTime: "16:30",
-    	sessionIds: [999]
-    }
-    - {
-    	startTime: "16:30",
-    	endTime: "16:50",
-    	sessionIds: [109]
-    }
-    - {
-    	startTime: "16:50",
-    	endTime: "17:10",
-    	sessionIds: [110]
-    }
-    - {
-    	startTime: "17:10",
-    	endTime: "17:30",
-    	sessionIds: [108]
-    }
-    - {
-    	startTime: "17:30",
-    	endTime: "17:50",
-    	sessionIds: [112]
-    }
-    - {
-    	startTime: "17:50",
-    	endTime: "18:10",
-    	sessionIds: [111]
-    }
-    - {
-    	startTime: "18:10",
-    	endTime: "18:30",
-    	sessionIds: [113]
-    }
-    - {
-    	startTime: "19:00",
-    	endTime: "20:30",
-    	sessionIds: [333]
-    }
-    - {
-    	startTime: "20:30",
-    	endTime: "22:30",
-    	sessionIds: [555]
-    }
--
-  date: "2019-06-12"
-  dateReadable: "Wednesday June 12"
-  tracks:
-    - {title: "GeoSolutions Headquarter", color: "#0cb851"}
-  timeslots:
-    - {
-    	startTime: "09:00",
-    	endTime: "18:00",
-    	sessionIds: [444]
-    }
--
-  date: "2019-06-13"
-  dateReadable: "Thursday June 13"
-  tracks:
-    - {title: "GeoSolutions Headquarter", color: "#0cb851"}
-  timeslots:
-    - {
-    	startTime: "09:00",
-    	endTime: "18:00",
-    	sessionIds: [444]
-    }
+#-
+#  date: "2019-06-11"
+#  dateReadable: "Tuesday June 11"
+#  tracks:
+#    - {title: "Grand Hotel Royal", color: "#0cb851"}
+#  timeslots:
+#    - {
+#    	startTime: "09:00",
+#    	endTime: "09:15",
+#    	sessionIds: [777]
+#    }
+#    - {
+#    	startTime: "09:15",
+#    	endTime: "10:45",
+#    	sessionIds: [101]
+#    }
+#    - {
+#    	startTime: "10:45",
+#    	endTime: "11:15",
+#    	sessionIds: [999]
+#    }
+#    - {
+#    	startTime: "11:15",
+#    	endTime: "12:45",
+#    	sessionIds: [102]
+#    }
+#    - {
+#    	startTime: "12:45",
+#    	endTime: "13:00",
+#    	sessionIds: [666]
+#    }
+#    - {
+#    	startTime: "13:00",
+#    	endTime: "14:00",
+#    	sessionIds: [888]
+#    }
+#    - {
+#    	startTime: "14:00",
+#    	endTime: "14:20",
+#    	sessionIds: [103]
+#    }
+#    - {
+#    	startTime: "14:20",
+#    	endTime: "14:40",
+#    	sessionIds: [104]
+#    }
+#    - {
+#    	startTime: "14:40",
+#    	endTime: "15:00",
+#    	sessionIds: [105]
+#    }
+#    - {
+#    	startTime: "15:00",
+#    	endTime: "15:20",
+#    	sessionIds: [106]
+#    }
+#    - {
+#    	startTime: "15:20",
+#    	endTime: "15:40",
+#    	sessionIds: [107]
+#    }
+#    - {
+#    	startTime: "15:40",
+#    	endTime: "16:00",
+#    	sessionIds: [114]
+#    }
+#    - {
+#    	startTime: "16:00",
+#    	endTime: "16:30",
+#    	sessionIds: [999]
+#    }
+#    - {
+#    	startTime: "16:30",
+#    	endTime: "16:50",
+#    	sessionIds: [109]
+#    }
+#    - {
+#    	startTime: "16:50",
+#    	endTime: "17:10",
+#    	sessionIds: [110]
+#    }
+#    - {
+#    	startTime: "17:10",
+#    	endTime: "17:30",
+#    	sessionIds: [108]
+#    }
+#    - {
+#    	startTime: "17:30",
+#    	endTime: "17:50",
+#    	sessionIds: [112]
+#    }
+#    - {
+#    	startTime: "17:50",
+#    	endTime: "18:10",
+#    	sessionIds: [111]
+#    }
+#    - {
+#    	startTime: "18:10",
+#    	endTime: "18:30",
+#    	sessionIds: [113]
+#    }
+#    - {
+#    	startTime: "19:00",
+#    	endTime: "20:30",
+#    	sessionIds: [333]
+#    }
+#    - {
+#    	startTime: "20:30",
+#    	endTime: "22:30",
+#    	sessionIds: [555]
+#    }
+#-
+#  date: "2019-06-12"
+#  dateReadable: "Wednesday June 12"
+#  tracks:
+#    - {title: "GeoSolutions Headquarter", color: "#0cb851"}
+#  timeslots:
+#    - {
+#    	startTime: "09:00",
+#    	endTime: "18:00",
+#    	sessionIds: [444]
+#    }
+#-
+#  date: "2019-06-13"
+#  dateReadable: "Thursday June 13"
+#  tracks:
+#    - {title: "GeoSolutions Headquarter", color: "#0cb851"}
+#  timeslots:
+#    - {
+#    	startTime: "09:00",
+#    	endTime: "18:00",
+#    	sessionIds: [444]
+#    }

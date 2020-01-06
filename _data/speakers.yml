@@ -1,4 +1,15 @@
 -
+  id: 0
+  name: "Florian"
+  surname: "Hoedt"
+  company: "Thünen Institute"
+  bio: "Florian is the GIS coordinator of the Thünen Institute and responsible for the Thünen Institute Spatial DAta Repository (TISDAR) - a fork of GeoNode. He has a Master of Science degree in Geoinformatics and loves FOSSGIS"
+  thumbnailUrl: florian-hoedt.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/gannebamm"}
+    - {name: "github", link: "https://github.com/gannebamm"}
+-
   id: 1
   name: "Alessio"
   surname: "Fabiani"
@@ -9,20 +20,20 @@
   social:
     - {name: "twitter", link: "http://twitter.com/alfa7691o"}
     - {name: "github", link: "https://github.com/afabiani"}
+#-
+#  id: 2
+#  name: "Giovanni"
+#  surname: "Allegri"
+#  company: "Geosolutions"
+#  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data management platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
+#  thumbnailUrl: giovanni-allegri.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "http://twitter.com/_giohappy_"}
+#    - {name: "github", link: "https://github.com/giohappy"}
+#    - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
 -
   id: 2
-  name: "Giovanni"
-  surname: "Allegri"
-  company: "Geosolutions"
-  bio: "Giovanni Allegri is a GIS and EO specialist, with a scientific background in Earth Science. He has more then 10 years experience in spatial data mangement, data management platforms and spatial data analysis. He has worked as a freelance consultant, software developer (in particular QGIS, Python and WebGIS products) and technical lead in numerous projects for public institutions, the talian Research Council and private companies."
-  thumbnailUrl: giovanni-allegri.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/_giohappy_"}
-    - {name: "github", link: "https://github.com/giohappy"}
-    - {name: "linkedin", link: "https://it.linkedin.com/in/giovanniallegri"}
--
-  id: 3
   name: "Francesco"
   surname: "Bartoli"
   company: "Geobeyond"
@@ -31,138 +42,138 @@
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/francbartoli"}
--
-  id: 4
-  name: "Francesco"
-  surname: "Stompanato"
-  company: "WFP"
-  bio: "GIS Dev Team Lead at World Food Programme."
-  thumbnailUrl: stompanato.jpg
-  rockstar: true
--
-  id: 5
-  name: "Dimitri"
-  surname: "Karakostis"
-  company: "WFP"
-  bio: "GIS developer at World Food Programme."
-  thumbnailUrl: karakostis.jpg
-  rockstar: true
--
-  id: 6
-  name: "Francesco"
-  surname: "Frassinelli"
-  company: "NINA"
-  bio: "GIS/Python developer, OSM contributor, Linux lover."
-  thumbnailUrl: frassinelli.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/frafra"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/francesco-frassinelli/"}
--
-  id: 7
-  name: "Paolo"
-  surname: "Pasquali"
-  company: "ITHACA"
-  bio: "Paolo is a web GIS Specialist at ITHACA (Information Technology for Humanitarian Assistance, Cooperation and Action) based in Torino. Has almost 20 years of experience in designing and developing geospatial applications. Has been installing GeoNode platforms around the world since 2011."
-  thumbnailUrl: paolo-pasquali.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/therealPASQ"}
-    - {name: "github", link: "https://github.com/ppasq"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/paolopasquali/"}
--
-  id: 8
-  name: "Armando"
-  surname: "Scarpati"
-  company: "GEM"
-  bio: "Web Developer at GEM."
-  thumbnailUrl: scarpati.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/hascar"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/armando-scarpati-39137140"}
--
-  id: 9
-  name: "Alireza"
-  surname: "Ibrahimi"
-  company: "Ministry of Urban Development and Land"
-  bio: "Alireza Ibrahimi is a lecturer and founder of GIS department in Avicenna University in Kabul, and he is also GIS & IT Specialist at the Department for Preservation of Historic Cities at the Ministry of Urban Development. He graduated a BSc in Software Engineering in 2012 and a Master degree in program GIS & RS from Tehran University in 2014. At the moment he is working on AH-SDI project."
-  thumbnailUrl: ibrahimi.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/alireza-ibrahimi/"}
--
-  id: 10
-  name: "Amedeo"
-  surname: "Fadini"
-  company: "CNR ISMA"
-  bio: "Born 1973, curious since1980, maker since 1985, pc user since 1993,  adult since 1999, Gis user since 2005 Gis developer since 2010 Land Planner since 2016. I am passionate about open source and member of local osgeo chapter."
-  thumbnailUrl: fadini.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/amefad/"}
--
-  id: 11
-  name: "Stefano"
-  surname: "Bovio"
-  company: "GeoSolutions"
-  bio: "Cartography, Sound, JavaScript and much more."
-  thumbnailUrl: bovio.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/allyoucanmap"}
-    - {name: "github", link: "https://github.com/allyoucanmap"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/stefano-bovio"}
--
-  id: 12
-  name: "Jemal"
-  surname: "Mensur"
-  company: "IGAD"
-  bio: "Database Expert at IGAD."
-  thumbnailUrl: jemal.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jemal-dagnew-mensur-86851133/"}
--
-  id: 13
-  name: "Francis"
-  surname: "Cram"
-  company: "MapStand"
-  bio: "I am a petroleum geologist by training and after a decade working for oil companies am now focused creating and publishing spatial datasets pertaining to industry activities increasing transparency, oversight and efficiency."
-  thumbnailUrl: cram.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/cramrock"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/francis-cram/"}
--
-  id: 14
-  name: "Ries"
-  surname: "Kluskens"
-  company: "Royal HaskoningDHV"
-  bio: "Ries Kluskens is an environmental engineer with a master’s degree in geographical information systems. He works as a senior consultant Smart Geo-spatial Information Solutions for Royal HaskoningDHV, an international engineering consultancy firm with its headquarters in the Netherlands and operating worldwide."
-  thumbnailUrl: kluskens.jpg
-  rockstar: true
-  social:
-     - {name: "linkedin", link: "https://www.linkedin.com/in/ries-kluskens-31776216/"}
--
-  id: 15
-  name: "Cristiano"
-  surname: "Fugazza"
-  company: "CNR - IREA"
-  bio: "Cristiano Fugazza is a researcher by the Institute for Electromagnetic Sensing of the Environment of the National Research Council of Italy (CNR-IREA). He is researching in Spatial Data Infrastructures (SDIs), focusing on data and metadata management. In particular, he is active in the design and management of Free and Open Source Software (FOSS) for SDI implementation. He worked by the Spatial Data Infrastructure Unit (SDIU) of the JRC-IES (Institute for Environment and Sustainability, Joint Research Centre, European Commission) on the creation, harmonization, and exploitation of multilingual thesauri in the SKOS format for the purpose of annotation and discovery of spatial resources. He supported the development of the Global Earth Observation System of Systems (GEOSS) and the European spatial data infrastructure established by the INSPIRE Directive by managing a comprehensive repository of harmonized reference and thematic thesauri. He obtained his Ph.D. in Computer Science by the Dept. of Information Technologies, University of Milan, focusing on Knowledge Management and Semantic Web technologies. He has contributed to, and published in international journals, conferences, and workshops in the domains of spatial data infrastructures, supply chain management, business modeling, digital rights management, personal information protection, and persistent identifiers."
-  thumbnailUrl: fugazza.jpg
-  rockstar: true
-  social:
-     - {name: "linkedin", link: "https://www.linkedin.com/in/cristiano-fugazza-125a7a2"}
--
-  id: 16
-  name: "Simone"
-  surname: "Dalmasso"
-  company: "European Commission JRC"
-  bio: "Simone is a technical project officer at the European Commission Joint Research Centre in charge of the Copernicus Emergency Management Rapid Mapping technical coordination and supervision.
-  Simone is a GeoNode core developer since 2012 and member of the PSC."
-  thumbnailUrl: simone-dalmasso.jpg
-  rockstar: true
-  social:
-     - {name: "github", link: "https://github.com/simod"}
-     - {name: "linkedin", link: "https://www.linkedin.com/in/simonedalmasso/"}
+#-
+#  id: 4
+#  name: "Francesco"
+#  surname: "Stompanato"
+#  company: "WFP"
+#  bio: "GIS Dev Team Lead at World Food Programme."
+#  thumbnailUrl: stompanato.jpg
+#  rockstar: true
+#-
+#  id: 5
+#  name: "Dimitri"
+#  surname: "Karakostis"
+#  company: "WFP"
+#  bio: "GIS developer at World Food Programme."
+#  thumbnailUrl: karakostis.jpg
+#  rockstar: true
+#-
+#  id: 6
+#  name: "Francesco"
+#  surname: "Frassinelli"
+#  company: "NINA"
+#  bio: "GIS/Python developer, OSM contributor, Linux lover."
+#  thumbnailUrl: frassinelli.jpg
+#  rockstar: true
+#  social:
+#    - {name: "github", link: "https://github.com/frafra"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/francesco-frassinelli/"}
+#-
+#  id: 7
+#  name: "Paolo"
+#  surname: "Pasquali"
+#  company: "ITHACA"
+#  bio: "Paolo is a web GIS Specialist at ITHACA (Information Technology for Humanitarian Assistance, Cooperation and Action) based in Torino. Has almost 20 years of experience in designing and developing geospatial applications. Has been installing GeoNode platforms around the world since 2011."
+#  thumbnailUrl: paolo-pasquali.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "http://twitter.com/therealPASQ"}
+#    - {name: "github", link: "https://github.com/ppasq"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/paolopasquali/"}
+#-
+#  id: 8
+#  name: "Armando"
+#  surname: "Scarpati"
+#  company: "GEM"
+#  bio: "Web Developer at GEM."
+#  thumbnailUrl: scarpati.jpg
+#  rockstar: true
+#  social:
+#    - {name: "github", link: "https://github.com/hascar"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/armando-scarpati-39137140"}
+#-
+#  id: 9
+#  name: "Alireza"
+#  surname: "Ibrahimi"
+#  company: "Ministry of Urban Development and Land"
+#  bio: "Alireza Ibrahimi is a lecturer and founder of GIS department in Avicenna University in Kabul, and he is also GIS & IT Specialist at the Department for Preservation of Historic Cities at the Ministry of Urban Development. He graduated a BSc in Software Engineering in 2012 and a Master degree in program GIS & RS from Tehran University in 2014. At the moment he is working on AH-SDI project."
+#  thumbnailUrl: ibrahimi.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/alireza-ibrahimi/"}
+#-
+#  id: 10
+#  name: "Amedeo"
+#  surname: "Fadini"
+#  company: "CNR ISMA"
+#  bio: "Born 1973, curious since1980, maker since 1985, pc user since 1993,  adult since 1999, Gis user since 2005 Gis developer since 2010 Land Planner since 2016. I am passionate about open source and member of local osgeo chapter."
+#  thumbnailUrl: fadini.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/amefad/"}
+#-
+#  id: 11
+#  name: "Stefano"
+#  surname: "Bovio"
+#  company: "GeoSolutions"
+#  bio: "Cartography, Sound, JavaScript and much more."
+#  thumbnailUrl: bovio.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/allyoucanmap"}
+#    - {name: "github", link: "https://github.com/allyoucanmap"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/stefano-bovio"}
+#-
+#  id: 12
+#  name: "Jemal"
+#  surname: "Mensur"
+#  company: "IGAD"
+#  bio: "Database Expert at IGAD."
+#  thumbnailUrl: jemal.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/jemal-dagnew-mensur-86851133/"}
+#-
+#  id: 13
+#  name: "Francis"
+#  surname: "Cram"
+#  company: "MapStand"
+#  bio: "I am a petroleum geologist by training and after a decade working for oil companies am now focused creating and publishing spatial datasets pertaining to industry activities increasing transparency, oversight and efficiency."
+#  thumbnailUrl: cram.jpeg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/cramrock"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/francis-cram/"}
+#-
+#  id: 14
+#  name: "Ries"
+#  surname: "Kluskens"
+#  company: "Royal HaskoningDHV"
+#  bio: "Ries Kluskens is an environmental engineer with a master’s degree in geographical information systems. He works as a senior consultant Smart Geo-spatial Information Solutions for Royal HaskoningDHV, an international engineering consultancy firm with its headquarters in the Netherlands and operating worldwide."
+#  thumbnailUrl: kluskens.jpg
+#  rockstar: true
+#  social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/ries-kluskens-31776216/"}
+#-
+#  id: 15
+#  name: "Cristiano"
+#  surname: "Fugazza"
+#  company: "CNR - IREA"
+#  bio: "Cristiano Fugazza is a researcher by the Institute for Electromagnetic Sensing of the Environment of the National Research Council of Italy (CNR-IREA). He is researching in Spatial Data Infrastructures (SDIs), focusing on data and metadata management. In particular, he is active in the design and management of Free and Open Source Software (FOSS) for SDI implementation. He worked by the Spatial Data Infrastructure Unit (SDIU) of the JRC-IES (Institute for Environment and Sustainability, Joint Research Centre, European Commission) on the creation, harmonization, and exploitation of multilingual thesauri in the SKOS format for the purpose of annotation and discovery of spatial resources. He supported the development of the Global Earth Observation System of Systems (GEOSS) and the European spatial data infrastructure established by the INSPIRE Directive by managing a comprehensive repository of harmonized reference and thematic thesauri. He obtained his Ph.D. in Computer Science by the Dept. of Information Technologies, University of Milan, focusing on Knowledge Management and Semantic Web technologies. He has contributed to, and published in international journals, conferences, and workshops in the domains of spatial data infrastructures, supply chain management, business modeling, digital rights management, personal information protection, and persistent identifiers."
+#  thumbnailUrl: fugazza.jpg
+#  rockstar: true
+#  social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/cristiano-fugazza-125a7a2"}
+#-
+#  id: 16
+#  name: "Simone"
+#  surname: "Dalmasso"
+#  company: "European Commission JRC"
+#  bio: "Simone is a technical project officer at the European Commission Joint Research Centre in charge of the Copernicus Emergency Management Rapid Mapping technical coordination and supervision.
+#  Simone is a GeoNode core developer since 2012 and member of the PSC."
+#  thumbnailUrl: simone-dalmasso.jpg
+#  rockstar: true
+#  social:
+#     - {name: "github", link: "https://github.com/simod"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/simonedalmasso/"}

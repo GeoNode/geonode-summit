@@ -8,17 +8,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/simogeo"}
     - {name: "github", link: "https://github.com/simboss"}
+#-
+#  id: 1
+#  name: "Eleonora"
+#  surname: "Fontana"
+#  title: "Logistics"
+#  thumbnailUrl: eleonora-fontana.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/elefonta"}
 -
   id: 1
-  name: "Eleonora"
-  surname: "Fontana"
-  title: "Logistics"
-  thumbnailUrl: eleonora-fontana.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/elefonta"}
--
-  id: 2
   name: "Alessio"
   surname: "Fabiani"
   title: "Program"
@@ -27,12 +27,22 @@
   social:
     - {name: "twitter", link: "https://twitter.com/alfa7691"}
     - {name: "github", link: "https://github.com/afabiani"}
+#-
+#  id: 3
+#  name: "Cristiano"
+#  surname: "Giovando"
+#  title: "Program"
+#  thumbnailUrl: cristiano-giovando.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/giovand"}
 -
-  id: 3
-  name: "Cristiano"
-  surname: "Giovando"
+  id: 2
+  name: "Florian"
+  surname: "Hoedt"
   title: "Program"
-  thumbnailUrl: cristiano-giovando.jpg
+  thumbnailUrl: florian-hoedt.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/giovand"}
+    - {name: "twitter", link: "https://twitter.com/gannebamm"}
+    - {name: "github", link: "https://github.com/gannebamm"}
