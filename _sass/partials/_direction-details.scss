@@ -5,7 +5,7 @@ $direction-details-color: #757575;
     color: $direction-details-color;
     .image-section {
         @media (max-width: 767px) {
-            min-height: 350px;
+            min-height: 950px;
         }
     }
     .card {
@@ -14,6 +14,7 @@ $direction-details-color: #757575;
             font-size: 17px;
             font-weight: $regular;
             margin: 0;
+            margin-top: -90px;
             padding: 0;
             list-style: none;
         }

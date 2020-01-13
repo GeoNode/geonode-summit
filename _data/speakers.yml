@@ -42,6 +42,16 @@
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/francbartoli"}
+-
+  id: 3
+  name: "This could be"
+  surname: "You"
+  company: "-"
+  bio: "You can present how you use GeoNode in your company or institution and discuss the modifications you made. You can also discuss your ideas for upcoming GeoNode versions and help us to shape GeoNode to better suite your needs."
+  thumbnailUrl: default.jpg
+  rockstar: true
+  social:
+    #- {name: "twitter", link: "http://twitter.com/francbartoli"}
 #-
 #  id: 4
 #  name: "Francesco"
