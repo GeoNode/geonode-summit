@@ -56,9 +56,11 @@ heroTitle: "GeoNode <typeout> Summit 2020"
 eventDate: "Brunswick, Germany | 12 - 14 May, 2020"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
-heroMessage: "Register now!"
+heroMessage: ""
 heroButtons:
  - {link: "/schedule/", text: "Summit Schedule"}
+ - {link: "/registration/", text: "Register Now"}
+ - {link: "/blog/call-for-presentations-workshops", text: "Submit Presentation / Workshop Proposal"}
  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
 # About Block
@@ -195,7 +197,7 @@ directionDetailsTitle: "Get around Brunswick"
 directionDetailsCards:
  - {title: "From/To the Airport", information: '<a href="http://www.hannover-airport.de/index.php?id=fluginfo_index&L=1">Hannover Airport</a>, transfer to main train station and then continue by train (hourly ICE and IC connections to Braunschweig).</br><a href="http://www.berlin-airport.de/en/index.php">Berlin Tegel or Berlin Schönefeld</a>, transfer to main train station and then continue by train (hourly ICE connections to Braunschweig).</br> Map of the Thünen campus in Braunschweig <a href="https://www.thuenen.de/media/ti/Ueber_uns/Standorte_und_Anreise/2018-02_Thuenen-Gelaendeplan_Wache_A4_englisch.pdf">(PDF Download)</a>.'}
  - {title: "Public Transit", information: 'Destination station is Braunschweig Main Station. Travel Information for the German Railroad (Deutsche Bahn) is available <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=38181&country=DEU&protocol=https:&rt=1&newrequest=yes&&country=GBR">here</a>.</br></br>Continue your trip with a taxi or public transportation (public buses require about 30 minutes). Bus stations are located directly in front of the railway station. Bus line 411 in the direction "Lamme" or 461 in the direction "Lehndorf, PTB". Get off at the "Bundesallee" stop. The bus stop is directly at the entrance of the Thünen campus.</br>Since the campus is very large, either plan for a long walk or have your host pick you up at the main entrance. For example, the walk from the main entrance to the Forum, the central event venue, takes about 15 minutes.</br>Schedules for the public buses of Braunschweig can be found <a href="http://www.verkehr-bs.de/fahrplan.html">here</a>. '}
- - {title: "Hotels", information: 'Since we provide a morning and evening shuttle service <b>onside the campus</b>, you should book a hotel in the centre of brunswick. The Institute has <a href="/blog/accommodation">pre-booked a quota of rooms</a> for this' }
+ - {title: "Hotels", information: 'Since we provide a morning and evening shuttle service <b>onside the campus</b>, you should book a hotel in the centre of brunswick. The Institute will <a href="/blog/accommodation">pre-book a quota of rooms</a> for this' }
 directionDetailsWideCards:
  -
   title: "Questions?"
