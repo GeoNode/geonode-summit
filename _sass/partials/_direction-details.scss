@@ -8,6 +8,15 @@ $direction-details-color: #757575;
             min-height: 350px;
         }
     }
+    .image-section.standart-height{
+        min-height: 950px;
+    }
+    .row{
+        margin-top: -200px;
+    }
+    h3{
+        font-weight: $regular * 2;
+    }
     .card {
         transform: translateY(-125px);
         ul {

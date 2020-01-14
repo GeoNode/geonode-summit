@@ -37,6 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/registration/", text: "Registration"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
@@ -55,9 +56,11 @@ heroTitle: "GeoNode <typeout> Summit 2020"
 eventDate: "Brunswick, Germany | 12 - 14 May, 2020"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
-heroMessage: "Save the date! Registration will soon be opened"
+heroMessage: ""
 heroButtons:
  - {link: "/schedule/", text: "Summit Schedule"}
+ - {link: "/registration/", text: "Register Now"}
+ - {link: "/blog/call-for-presentations-workshops", text: "Submit Presentation / Workshop Proposal"}
  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
 # About Block
@@ -74,7 +77,7 @@ statisticBlock:
  - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "20", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
- - {count: "2", specialCharacter: "", info: "workshops", detail: "for users and developers"}
+ - {count: "2", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -144,6 +147,8 @@ footerBlocks:
  -
   title: "FAQ"
   links:
+   - {link: "/registration/", text: "Register"}
+   - {link: "/blog/call-for-presentations-workshops", text: "Submit a presentation"}
    - {permalink: "/blog/how-to-get-to-the-venue-thuenen", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
@@ -190,9 +195,9 @@ zoomLevel: 12
 directionDetailsImage: "brunsick_getting_around.jpg"
 directionDetailsTitle: "Get around Brunswick"
 directionDetailsCards:
- - {title: "From/To the Airport", information: '<a href="http://www.hannover-airport.de/index.php?id=fluginfo_index&L=1">Hannover Airport</a>, transfer to main train station and then continue by train (hourly ICE and IC connections to Braunschweig).</br><a href="http://www.berlin-airport.de/en/index.php">Berlin Tegel or Berlin Schönefeld</a>, transfer to main train station and then continue by train (hourly ICE connections to Braunschweig).</br> Map of the Thünen campus in Braunschweig <a href="https://www.thuenen.de/media/ti/Ueber_uns/Standorte_und_Anreise/2018-02_Thuenen-Gelaendeplan_Wache_A4_englisch.pdf">(PDF Download)</a>.'} #TODO
- - {title: "Public Transit", information: 'Destination station is Braunschweig Main Station. Travel Information for the German Railroad (Deutsche Bahn) is available <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=38181&country=DEU&protocol=https:&rt=1&newrequest=yes&&country=GBR">here</a>.</br>Continue your trip with a taxi or public transportation (public buses require about 30 minutes). Bus stations are located directly in front of the railway station. Bus line 411 in the direction "Lamme" or 461 in the direction "Lehndorf, PTB". Get off at the "Bundesallee" stop. The bus stop is directly at the entrance of the Thünen campus.</br>Since the campus is very large, either plan for a long walk or have your host pick you up at the main entrance. For example, the walk from the main entrance to the Forum, the central event venue, takes about 15 minutes.</br>Schedules for the public buses of Braunschweig can be found <a href="http://www.verkehr-bs.de/fahrplan.html">here</a>. '}
- - {title: "Hotels", information: 'You can book at "Waldhaus Oelper" or "B&B Hotel Braunschweig-City". If you search for accommodations you should see if they are located on the western side of brunswick to be not to far from the venue'}
+ - {title: "From/To the Airport", information: '<a href="http://www.hannover-airport.de/index.php?id=fluginfo_index&L=1">Hannover Airport</a>, transfer to main train station and then continue by train (hourly ICE and IC connections to Braunschweig).</br><a href="http://www.berlin-airport.de/en/index.php">Berlin Tegel or Berlin Schönefeld</a>, transfer to main train station and then continue by train (hourly ICE connections to Braunschweig).</br> Map of the Thünen campus in Braunschweig <a href="https://www.thuenen.de/media/ti/Ueber_uns/Standorte_und_Anreise/2018-02_Thuenen-Gelaendeplan_Wache_A4_englisch.pdf">(PDF Download)</a>.'}
+ - {title: "Public Transit", information: 'Destination station is Braunschweig Main Station. Travel Information for the German Railroad (Deutsche Bahn) is available <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=38181&country=DEU&protocol=https:&rt=1&newrequest=yes&&country=GBR">here</a>.</br></br>Continue your trip with a taxi or public transportation (public buses require about 30 minutes). Bus stations are located directly in front of the railway station. Bus line 411 in the direction "Lamme" or 461 in the direction "Lehndorf, PTB". Get off at the "Bundesallee" stop. The bus stop is directly at the entrance of the Thünen campus.</br>Since the campus is very large, either plan for a long walk or have your host pick you up at the main entrance. For example, the walk from the main entrance to the Forum, the central event venue, takes about 15 minutes.</br>Schedules for the public buses of Braunschweig can be found <a href="http://www.verkehr-bs.de/fahrplan.html">here</a>. '}
+ - {title: "Hotels", information: 'Since we provide a morning and evening shuttle service <b>onside the campus</b>, you should book a hotel in the centre of brunswick. The Institute will <a href="/blog/accommodation">pre-book a quota of rooms</a> for this' }
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -204,12 +209,12 @@ directionDetailsWideCards:
      - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-train", text: "Arriving by train"}
      - {link: "/blog/how-to-get-to-the-venue-thuenen#getting-around-in-brunswick", text: "Get around Brunswick"}
    -
-    title: "Registration"
+    title: "How to"
     links:
-     - {link: "/#", text: "will open soon"}
-#     - {link: "https://docs.google.com/forms/d/e/1FAIpQLScZO5EjSZXTShA6iPlpcwBCN-RKb9FNGQkGvWQq9BNwsi4sWw/viewform", text: "Submit a presentation"}
+     - {link: "/registration/", text: "Register"}
+     - {link: "/blog/call-for-presentations-workshops", text: "Submit a presentation"}
    -
     title: "Attendance Details"
     links:
-     # - {link: "/blog/accommodation", text: "Recommended Hotels"}
+     - {link: "/blog/accommodation", text: "Recommended Hotels"}
      - {permalink: "/cod/", text: "Code of Conduct"}
