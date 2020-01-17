@@ -57,7 +57,26 @@ layout: compress
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
     {% endif %}
+
     <script>
+        {% if page.permalink == '/' %}
+           $(document).ready(function () {
+                $(function () {
+                    if ($(window).width() > 767) {
+                        $("#typeout-text").typed({
+                            strings: [{{site.typeoutTextValues}}],
+                            typeSpeed: 150,
+                            backDelay: 900,
+                            loop: true
+                        });
+                    }
+                });
+            });
+    {% endif %}
+    </script>
+    <script>
+        // old script tag for type-out; something seems wrong in here;
+        // see https://github.com/GeoNode/geonode-summit/issues/91
         Waves.displayEffect();
         {% if page.permalink == '/' %}
             if ($(window).width() > 767) {
@@ -75,16 +94,17 @@ layout: compress
             }
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
-                $(function () {
-                    if ($(window).width() > 767) {
-                        $("#typeout-text").typed({
-                            strings: [{{site.typeoutTextValues}}],
-                            typeSpeed: 150,
-                            backDelay: 900,
-                            loop: true
-                        });
-                    }
-                });
+                // see https://github.com/GeoNode/geonode-summit/issues/91
+                // $(function () {
+                //     if ($(window).width() > 767) {
+                //         $("#typeout-text").typed({
+                //             strings: [{{site.typeoutTextValues}}],
+                //             typeSpeed: 150,
+                //             backDelay: 900,
+                //             loop: true
+                //         });
+                //     }
+                // });
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}
