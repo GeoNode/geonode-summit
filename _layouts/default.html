@@ -75,7 +75,8 @@ layout: compress
     {% endif %}
     </script>
     <script>
-        console.log("old script tag");
+        // old script tag for type-out; something seems wrong in here;
+        // see https://github.com/GeoNode/geonode-summit/issues/91
         Waves.displayEffect();
         {% if page.permalink == '/' %}
             if ($(window).width() > 767) {
