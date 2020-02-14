@@ -4,6 +4,10 @@ title:  "Pre-booked hotels in brunswick"
 date:   2020-02-03 09:00:00
 isStaticPost: false
 ---
+### OUTDATED
+
+**Due to postponing the event the below quota is cancelled. We will try to get a new quota for the new date of the summit.**
+
 #### Quota
 To make hotel booking easier we have pre-booked a quota of rooms in brunswick. Please use the provided link to choose between the two options. **Please change your arrival and departure dates according to your needs**
 
