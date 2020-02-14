@@ -156,3 +156,11 @@ These components enable communities interoperable management of in-situ sensor a
   subtype: talk
   speakers: [15]
   presentation: "../presentation/2019/cfugazza_GETIT_Geonode.pdf"
+#-
+#  id: 115
+#  title: "State of GeoNode"
+#  place: "TBD"
+#  description: "This talk will discuss the current state of GeoNode, a popular open source geospatial Content Management System with a large users and developers community. The talk will provide highlights of the story of the project, its community, and infrastructure, its features and capabilities, a showcase of successful implementations, its architecture and a review of what is new in the latest version."
+#  subtype: talk
+#  speakers: [1]
+#  presentation: "../presentation/2020/afabiani_StateOfGeoNode.pdf"
