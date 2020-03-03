@@ -4,6 +4,10 @@ title:  "Call for presentations and workshops"
 date:   2020-01-13 09:00:00
 isStaticPost: false
 ---
+### OUTDATED
+
+**Due to postponing the event the call for presentations is cancelled. We will inform you about the new call as soon as possible.**
+
 #### The call for presentations and workshop ideas is now open
 
 The GeoNode Summit 2020 will be held from May 12 to 15 at the Thünen Institute in Brunswick, Germany. If you want to be part of this great event as a speaker or want to lead a workshop here you can find all the information:

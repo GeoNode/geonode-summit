@@ -53,14 +53,15 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "ThuenenforumAerial_large.jpg"
 heroTitle: "GeoNode <typeout> Summit 2020"
-eventDate: "Brunswick, Germany | 12 - 14 May, 2020"
+eventDate: "Brunswick, Germany | Q3, 2020"
 typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
 heroMessage: ""
 heroButtons:
- - {link: "/schedule/", text: "Summit Schedule"}
- - {link: "/registration/", text: "Register Now"}
- - {link: "/blog/call-for-presentations-workshops", text: "Submit Presentation / Workshop Proposal"}
+ - {link: "/blog/2020-03-03-summit-postponed/", text: "The Summit was postponed to later this year. Click for more information."}
+# - {link: "/schedule/", text: "Summit Schedule"}
+# - {link: "/registration/", text: "Register Now"}
+# - {link: "/blog/call-for-presentations-workshops", text: "Submit Presentation / Workshop Proposal"}
  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
 # About Block
@@ -74,10 +75,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "20", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
- - {count: "2", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
+ - {count: "?", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "?", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
+ - {count: "?", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
+ - {count: "?", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
