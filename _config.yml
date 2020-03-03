@@ -2,6 +2,7 @@
 plugins:
 - jekyll-sitemap
 safe: false
+future: true
 
 # Build Settings
 markdown: kramdown
@@ -58,7 +59,7 @@ typeoutTextValues: '"", "Dev", "Users", "World"'
 typeoutFallback: ""
 heroMessage: ""
 heroButtons:
- - {link: "/blog/2020-03-03-summit-postponed/", text: "The Summit was postponed to later this year. Click for more information."}
+ - {link: "/blog/summit-postponed/", text: "The Summit was postponed to later this year. Click for more information."}
 # - {link: "/schedule/", text: "Summit Schedule"}
 # - {link: "/registration/", text: "Register Now"}
 # - {link: "/blog/call-for-presentations-workshops", text: "Submit Presentation / Workshop Proposal"}
