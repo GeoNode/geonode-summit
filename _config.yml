@@ -54,12 +54,12 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "ThuenenforumAerial_large.jpg"
 heroTitle: "GeoNode <typeout> Summit 2020"
-eventDate: "Brunswick, Germany | Q3, 2020"
-typeoutTextValues: '"", "Dev", "Users", "World"'
+eventDate: "Everywhere | Q3, 2020"
+typeoutTextValues: '"", "Virtual","Dev","Virtual", "Users","Virtual", "World"'
 typeoutFallback: ""
 heroMessage: ""
 heroButtons:
- - {link: "/blog/summit-postponed", text: "The Summit was postponed to later this year. Click for more information."}
+ - {link: "/blog/virtual-summit", text: "The Summit will be held virtually. Click for more information."}
 # - {link: "/schedule/", text: "Summit Schedule"}
 # - {link: "/registration/", text: "Register Now"}
 # - {link: "/blog/call-for-presentations-workshops", text: "Submit Presentation / Workshop Proposal"}
@@ -67,19 +67,19 @@ heroButtons:
 
 # About Block
 aboutTitle: "About GeoNode Summit"
-aboutSubTitle: "Join us for a 3-day packed event to learn and contribute to GeoNode!"
+aboutSubTitle: "This year for the first time as virtual conference! Join us to learn and contribute to GeoNode!"
 aboutBlock:
  - {title: "Presentations", image: "conference.jpg", text: "The GeoNode event of the year with awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Improve your knowledge of GeoNode with workshops held by core developers aimed at users and developers!" }
- - {title: "Codesprint", image: "roadmapping.jpg", text: "Two full days of coding to help shape the next release of GeoNode." }
+ - {title: "Codesprint", image: "roadmapping.jpg", text: "Dedicated timeframes of coding to help shape the next releases of GeoNode." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "?", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "?", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
- - {count: "?", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
- - {count: "?", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
+ - {count: "TBA", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "TBA", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
+ - {count: "TBA", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
+ - {count: "TBA", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -92,8 +92,8 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Brunswick"
-eventLocationLink: "https://www.thuenen.de/en/about-us/locations-and-how-to-find-us/how-to-find-braunschweig/"
+eventLocationName: "virtual conference hosted by the Thünen-Institute"
+eventLocationLink: "https://www.thuenen.de/en/about-us/"
 eventStreetAddress: "Bundesallee 50"
 eventAddressLocality: "Brunswick"
 eventAddressLocalityRegion: "Lower-Saxony"
@@ -107,7 +107,7 @@ mapCenterCoordinates: "#"
 mapMobileCenterCoordinates: "#"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Host"
 venueBigImage: "#"
 venueSmallImage1: "#"
 venueSmallImage2: "#"
@@ -151,7 +151,7 @@ footerBlocks:
   links:
    - {link: "/registration/", text: "Register"}
    - {link: "/blog/call-for-presentations-workshops", text: "Submit a presentation"}
-   - {permalink: "/blog/how-to-get-to-the-venue-thuenen", text: "How to get to the venue"}
+  #  - {permalink: "/blog/how-to-get-to-the-venue-thuenen", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
@@ -165,7 +165,7 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About"
 aboutUs: "The Summit 2020 brings together the community of users, developers and stakeholders of GeoNode, the popular open source geospatial content management system.
-<br/><br/>Join us for a 3-day packed event to learn and contribute to GeoNode!<br/><br/>
+<br/><br/>Join us for a packed event to learn and contribute to GeoNode!<br/><br/>
 
 GeoNode is a web-based Spatial Data Infrastructure (SDI) that enables sharing and collaborating on geospatial data. Users can upload existing shapefiles, edit data, and publish finished maps.<br/>GeoNode can also host static documents, such as PDF maps. GeoNode has robust support for open standards and OGC services, which streamlines integration with other systems and existing workflows. For example, data from GeoNode can be easily downloaded as a shapefile for use in ArcMap. At its core, GeoNode is designed to be customizable and extensible.<br/><br/>
 GeoNode is used throughout the world by international organizations, non-profits, and mapping agencies for supporting activities ranging from emergency preparedness and response, disaster risk reduction, and many more. Additionally, GeoNode is supported by a rich ecosystem of commercial providers across the world who can help with training, technical support, or development of new features.<br/>
@@ -194,29 +194,29 @@ locationsCenterLatLon: 52.271975, 10.476464
 zoomLevel: 12
 
 # Logistics Direction Details Block
-directionDetailsImage: "brunsick_getting_around.jpg"
-directionDetailsTitle: "Get around Brunswick"
+directionDetailsImage: "virtual_conference_notebook.jpg"
+directionDetailsTitle: "Virtual means everywhere!"
 directionDetailsCards:
- - {title: "From/To the Airport", information: '<a href="http://www.hannover-airport.de/index.php?id=fluginfo_index&L=1">Hannover Airport</a>, transfer to main train station and then continue by train (hourly ICE and IC connections to Braunschweig).</br><a href="http://www.berlin-airport.de/en/index.php">Berlin Tegel or Berlin Schönefeld</a>, transfer to main train station and then continue by train (hourly ICE connections to Braunschweig).</br> Map of the Thünen campus in Braunschweig <a href="https://www.thuenen.de/media/ti/Ueber_uns/Standorte_und_Anreise/2018-02_Thuenen-Gelaendeplan_Wache_A4_englisch.pdf">(PDF Download)</a>.'}
- - {title: "Public Transit", information: 'Destination station is Braunschweig Main Station. Travel Information for the German Railroad (Deutsche Bahn) is available <a href="https://reiseauskunft.bahn.de/bin/query.exe/en?ld=38181&country=DEU&protocol=https:&rt=1&newrequest=yes&&country=GBR">here</a>.</br></br>Continue your trip with a taxi or public transportation (public buses require about 30 minutes). Bus stations are located directly in front of the railway station. Bus line 411 in the direction "Lamme" or 461 in the direction "Lehndorf, PTB". Get off at the "Bundesallee" stop. The bus stop is directly at the entrance of the Thünen campus.</br>Since the campus is very large, either plan for a long walk or have your host pick you up at the main entrance. For example, the walk from the main entrance to the Forum, the central event venue, takes about 15 minutes.</br>Schedules for the public buses of Braunschweig can be found <a href="http://www.verkehr-bs.de/fahrplan.html">here</a>. '}
- - {title: "Hotels", information: 'Since we provide a morning and evening shuttle service <b>onside the campus</b>, you should book a hotel in the centre of brunswick. The Institute will <a href="/blog/accommodation">pre-book a quota of rooms</a> for this' }
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Getting to the venue"
-    links:
-     - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-plane", text: "At the airport"}
-     - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-train", text: "Arriving by train"}
-     - {link: "/blog/how-to-get-to-the-venue-thuenen#getting-around-in-brunswick", text: "Get around Brunswick"}
-   -
-    title: "How to"
-    links:
-     - {link: "/registration/", text: "Register"}
-     - {link: "/blog/call-for-presentations-workshops", text: "Submit a presentation"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "/blog/accommodation", text: "Recommended Hotels"}
-     - {permalink: "/cod/", text: "Code of Conduct"}
+ - {title: "What you need", information: 'To participate in the conference you should have a stable internet conection and for a better experience a headset.'}
+ - {title: "What we provide", information: 'We provide a website with participatory tools and moderation functionality for up to 200 users.'}
+#  - {title: "Questions?", information: 'Since we provide a morning and evening shuttle service <b>onside the campus</b>, you should book a hotel in the centre of brunswick. The Institute will <a href="/blog/accommodation">pre-book a quota of rooms</a> for this' }
+# directionDetailsWideCards:
+#  -
+#   title: "Questions?"
+#   subCards:
+#    -
+#     title: "Getting to the venue"
+#     links:
+#      - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-plane", text: "At the airport"}
+#      - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-train", text: "Arriving by train"}
+#      - {link: "/blog/how-to-get-to-the-venue-thuenen#getting-around-in-brunswick", text: "Get around Brunswick"}
+#    -
+#     title: "How to"
+#     links:
+#      - {link: "/registration/", text: "Register"}
+#      - {link: "/blog/call-for-presentations-workshops", text: "Submit a presentation"}
+#    -
+#     title: "Attendance Details"
+#     links:
+#      - {link: "/blog/accommodation", text: "Recommended Hotels"}
+#      - {permalink: "/cod/", text: "Code of Conduct"}

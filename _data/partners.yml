@@ -1,4 +1,4 @@
 -
-  group: "We are looking for sponsors for secondary items, such as social events.<br/> Please contact us for further info."
+  group: "We are looking for sponsors for secondary items, such shirts and their shipping.<br/> Please contact us for further info."
   elements:
-    - {name: "The World Bank", description: "", link: "http://www.worldbank.org/", imageUrl: "the-world-bank.png"}
+    # - {name: "The World Bank", description: "", link: "http://www.worldbank.org/", imageUrl: "the-world-bank.png"}
