@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 
 #### GeoNode Summit 2020 will virtual
-Due to this years COVID-19 crisis we decided to switch the on-premise summit to a virtual one for 2020. The summit will cover codesprints, talks and workshops as usually but will be hosted as web conference by the original host the Thünen Institue.
+Due to this years COVID-19 crisis we decided to switch the on-premise summit to a virtual one for 2020. The summit will cover codesprints, talks and workshops as usually but will be hosted as web conference by the original host the Thünen Institute.
 
 We will inform you about new dates as soon as possible.
 

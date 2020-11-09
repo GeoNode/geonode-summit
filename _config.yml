@@ -54,15 +54,15 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "ThuenenforumAerial_large.jpg"
 heroTitle: "GeoNode <typeout> Summit 2020"
-eventDate: "Everywhere | Q3, 2020"
+eventDate: "Everywhere | 07 - 09 December, 2020"
 typeoutTextValues: '"", "Virtual","Dev","Virtual", "Users","Virtual", "World"'
 typeoutFallback: ""
 heroMessage: ""
 heroButtons:
- - {link: "/blog/virtual-summit", text: "The Summit will be held virtually. Click for more information."}
+# - {link: "/blog/Save-the-date-Summit-2020", text: "More Information"}
 # - {link: "/schedule/", text: "Summit Schedule"}
-# - {link: "/registration/", text: "Register Now"}
-# - {link: "/blog/call-for-presentations-workshops", text: "Submit Presentation / Workshop Proposal"}
+ - {link: "/registration/", text: "Register Now"}
+ - {link: "/blog/call-for-presentations-workshops-again", text: "Submit Presentation / Workshop Proposal"}
  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
 # About Block
@@ -76,10 +76,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "TBA", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "TBA", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
- - {count: "TBA", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
- - {count: "TBA", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
+ - {count: "30", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "6", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
+ - {count: "4", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
+ - {count: "2", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -130,7 +130,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "#"
-subscribeInfo: "Registration will open soon."
+subscribeInfo: "Registration is open again."
 
 # Footer
 socialLinks:
@@ -150,7 +150,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {link: "/registration/", text: "Register"}
-   - {link: "/blog/call-for-presentations-workshops", text: "Submit a presentation"}
+   - {link: "/blog/call-for-presentations-workshops-again", text: "Submit a presentation"}
   #  - {permalink: "/blog/how-to-get-to-the-venue-thuenen", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
@@ -200,23 +200,23 @@ directionDetailsCards:
  - {title: "What you need", information: 'To participate in the conference you should have a stable internet conection and for a better experience a headset.'}
  - {title: "What we provide", information: 'We provide a website with participatory tools and moderation functionality for up to 200 users.'}
 #  - {title: "Questions?", information: 'Since we provide a morning and evening shuttle service <b>onside the campus</b>, you should book a hotel in the centre of brunswick. The Institute will <a href="/blog/accommodation">pre-book a quota of rooms</a> for this' }
-# directionDetailsWideCards:
-#  -
-#   title: "Questions?"
-#   subCards:
+directionDetailsWideCards:
+  -
+   title: "Questions?"
+   subCards:
 #    -
 #     title: "Getting to the venue"
 #     links:
 #      - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-plane", text: "At the airport"}
 #      - {link: "/blog/how-to-get-to-the-venue-thuenen#arriving-by-train", text: "Arriving by train"}
 #      - {link: "/blog/how-to-get-to-the-venue-thuenen#getting-around-in-brunswick", text: "Get around Brunswick"}
-#    -
-#     title: "How to"
-#     links:
-#      - {link: "/registration/", text: "Register"}
-#      - {link: "/blog/call-for-presentations-workshops", text: "Submit a presentation"}
-#    -
-#     title: "Attendance Details"
-#     links:
+    -
+     title: "How to"
+     links:
+      - {link: "/registration/", text: "Register"}
+      - {link: "/blog/call-for-presentations-workshops-again", text: "Submit a presentation"}
+    -
+     title: "Attendance Details"
+     links:
 #      - {link: "/blog/accommodation", text: "Recommended Hotels"}
-#      - {permalink: "/cod/", text: "Code of Conduct"}
+      - {permalink: "/cod/", text: "Code of Conduct"}
