@@ -21,6 +21,7 @@ To do so please provide the following information inside a pdf file:
 
 * presentation title,
 * a short abstract,
+* estimated presentation time (5 - 30 minutes),
 * your name,
 * the organization you work for,
 * your short bio
@@ -32,7 +33,8 @@ You should upload the pdf file [here](https://tc.thuenen.de/index.php/s/SJSesiYP
 the following password: `Summit-2020`
 
 The call for presentations will be open until 29-11-2020. The program committee picks the most interesting talk 
-proposals and informs the selected submitters until December 1, 2020.
+proposals and informs the selected submitters until December 1, 2020. After we see the topics and abstracts for 
+the presentations we will get in contact with you to answer any open questions.
 
 #### Workshop Leaders – who should lead a workshop at the GeoNode Summit?
 
@@ -46,6 +48,7 @@ If you would like to host a workshop please provide a short description as pdf f
 
 * presentation title,
 * a short abstract,
+* estimated workshop time (30 - 90 minutes),
 * your name,
 * the organization you work for,
 * your short bio
@@ -58,7 +61,8 @@ You should upload the file [here](https://tc.thuenen.de/index.php/s/SJSesiYPJzEC
 the following password: `Summit-2020`
 
 The call for workshops will be open until 29-11-2020. The program committee picks the most interesting workshop
- proposals and informs the selected submitters until December 1, 2020.
+ proposals and informs the selected submitters until December 1, 2020. After we see the topics and abstracts for 
+the workshops we will get in contact with you to answer any open questions.
 
 #### Any questions?
 Email organizers at [summit2020@thuenen.de](mailto:summit2020@thuenen.de)
