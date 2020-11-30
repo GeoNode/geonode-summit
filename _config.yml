@@ -76,10 +76,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "65", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "6", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
- - {count: "4", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
- - {count: "2", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
+ - {count: "110", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of GeoNode full immersion"}
+ - {count: "12", specialCharacter: "+", info: "speakers", detail: "from everywhere"}
+ - {count: "4", specialCharacter: "+", info: "workshops", detail: "for users and developers"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
