@@ -174,12 +174,19 @@
   name: "Matthes"
   surname: "Rieke"
   company: "52°North GmbH"
-  bio: "Matthes Rieke is a project manager and software architect at 52°North. He is the project lead of several research and consulting projects at 52°North with a focus on innovative Geo-IT solutions. In addition, he participated in many previous OGC Testbeds where he contributed particularly to the promotion of web-based geoprocessing and Sensor Web concepts. Matthes has a strong background in designing classic service-oriented architectures as well as modern microservice-based systems with cloud native concepts in mind."
-  thumbnailUrl: default.jpg
+  bio: "Matthes Rieke is a project manager and software architect at
+        52°North. He is the project lead of several research and consulting
+        projects at 52°North with a focus on innovative Geo-IT solutions. In
+        addition, he participated in many previous OGC Testbeds where he
+        contributed particularly to the promotion of web-based geoprocessing and
+        Sensor Web concepts. Matthes has a strong background in designing
+        classic service-oriented architectures as well as modern
+        microservice-based systems with cloud native concepts in mind."
+  thumbnailUrl: MatthesRieke.jpg
   rockstar: true
-#  social:
-#    - {name: "github", link: "https://github.com/mtnorthcott"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/matthewnorthcott"}
+  social:
+    - {name: "github", "https://github.com/matthesrieke"}
+    - {name: "twitter", link: "https://twitter.com/matthesrieke"}
 -
   id: 15
   name: "Ibrahim"
