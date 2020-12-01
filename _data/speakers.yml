@@ -34,10 +34,18 @@
   id: 3
   name: "Tom"
   surname: "Kralidis"
-  company: ""
-  bio: ""
-  thumbnailUrl: default.jpg
+  company: "OSGeo"
+  bio: "Tom is a longtime contributor to open source and open standards.
+          He has contributed to numerous OSGeo software packages, such as
+          MapServer, GeoNode, QGIS, PyWPS and OWSLib. He is the creator of
+          numerous Geopython projects, including pycsw, GeoHealthCheck and
+          pygeoapi. Tom's recent efforts involve developing and implementing the
+          evolving OGC API standards."
+  thumbnailUrl: tomkralidis.JPG
   rockstar: true
+  social links:
+    - { name: "twitter", link: "https://twitter.com/tomkralidis" }
+    - { name: "github", link: "https://github.com/tomkralidis" }
 -
   id: 4
   name: "Stefano"
@@ -183,13 +191,13 @@
 #    - {name: "github", link: "https://github.com/mtnorthcott"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ibrahimhamid/"}
 
--
-  id: 99
-  name: "This could be"
-  surname: "You"
-  company: "-"
-  bio: "You can present how you use GeoNode in your company or institution and discuss the modifications you made. You can also discuss your ideas for upcoming GeoNode versions and help us to shape GeoNode to better suite your needs."
-  thumbnailUrl: default.jpg
-  rockstar: true
-  social:
-    #- {name: "twitter", link: "http://twitter.com/francbartoli"}
+#-
+#  id: 99
+#  name: "This could be"
+#  surname: "You"
+#  company: "-"
+#  bio: "You can present how you use GeoNode in your company or institution and discuss the modifications you made. You can also discuss your ideas for upcoming GeoNode versions and help us to shape GeoNode to better suite your needs."
+#  thumbnailUrl: default.jpg
+#  rockstar: true
+#  social:
+#    #- {name: "twitter", link: "http://twitter.com/francbartoli"}
