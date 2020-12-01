@@ -81,7 +81,8 @@
                 Coverages), search (OGC API - Records), and vector/map tiles (OGC API - Tiles). pygeoapi is a community project of the Open Source Geospatial Foundation (OSGeo).
                 pygeoapi follows a clear separation structure with a view, provider/plugin and entry point module. The view approach allows for easy integration with other Python
                 web frameworks like Starlette and Django. The provider abstracts connectivity to numerous data sources (CSV, SQLite3, GeoJSON, Elasticsearch, GDAL/OGR) and
-                provides extensibility to support additional formats, databases, object storage and more."
+                provides extensibility to support additional formats, databases, object storage and more.
+                This presentation will provide an overview of pygeoapi, roadmap and possibilities for GeoNode integration."
   subtype: talk
   speakers: [2, 3, 11]
 -
