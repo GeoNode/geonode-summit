@@ -1,133 +1,125 @@
-#-
-#  date: "2019-06-11"
-#  dateReadable: "Tuesday June 11"
-#  tracks:
-#    - {title: "Grand Hotel Royal", color: "#0cb851"}
-#  timeslots:
-#    - {
-#    	startTime: "09:00",
-#    	endTime: "09:15",
-#    	sessionIds: [777]
-#    }
-#    - {
-#    	startTime: "09:15",
-#    	endTime: "10:45",
-#    	sessionIds: [101]
-#    }
-#    - {
-#    	startTime: "10:45",
-#    	endTime: "11:15",
-#    	sessionIds: [999]
-#    }
-#    - {
-#    	startTime: "11:15",
-#    	endTime: "12:45",
-#    	sessionIds: [102]
-#    }
-#    - {
-#    	startTime: "12:45",
-#    	endTime: "13:00",
-#    	sessionIds: [666]
-#    }
-#    - {
-#    	startTime: "13:00",
-#    	endTime: "14:00",
-#    	sessionIds: [888]
-#    }
-#    - {
-#    	startTime: "14:00",
-#    	endTime: "14:20",
-#    	sessionIds: [103]
-#    }
-#    - {
-#    	startTime: "14:20",
-#    	endTime: "14:40",
-#    	sessionIds: [104]
-#    }
-#    - {
-#    	startTime: "14:40",
-#    	endTime: "15:00",
-#    	sessionIds: [105]
-#    }
-#    - {
-#    	startTime: "15:00",
-#    	endTime: "15:20",
-#    	sessionIds: [106]
-#    }
-#    - {
-#    	startTime: "15:20",
-#    	endTime: "15:40",
-#    	sessionIds: [107]
-#    }
-#    - {
-#    	startTime: "15:40",
-#    	endTime: "16:00",
-#    	sessionIds: [114]
-#    }
-#    - {
-#    	startTime: "16:00",
-#    	endTime: "16:30",
-#    	sessionIds: [999]
-#    }
-#    - {
-#    	startTime: "16:30",
-#    	endTime: "16:50",
-#    	sessionIds: [109]
-#    }
-#    - {
-#    	startTime: "16:50",
-#    	endTime: "17:10",
-#    	sessionIds: [110]
-#    }
-#    - {
-#    	startTime: "17:10",
-#    	endTime: "17:30",
-#    	sessionIds: [108]
-#    }
-#    - {
-#    	startTime: "17:30",
-#    	endTime: "17:50",
-#    	sessionIds: [112]
-#    }
-#    - {
-#    	startTime: "17:50",
-#    	endTime: "18:10",
-#    	sessionIds: [111]
-#    }
-#    - {
-#    	startTime: "18:10",
-#    	endTime: "18:30",
-#    	sessionIds: [113]
-#    }
-#    - {
-#    	startTime: "19:00",
-#    	endTime: "20:30",
-#    	sessionIds: [333]
-#    }
-#    - {
-#    	startTime: "20:30",
-#    	endTime: "22:30",
-#    	sessionIds: [555]
-#    }
-#-
-#  date: "2019-06-12"
-#  dateReadable: "Wednesday June 12"
-#  tracks:
-#    - {title: "GeoSolutions Headquarter", color: "#0cb851"}
-#  timeslots:
-#    - {
-#    	startTime: "09:00",
-#    	endTime: "18:00",
-#    	sessionIds: [444]
-#    }
-#-
-#  date: "2019-06-13"
-#  dateReadable: "Thursday June 13"
-#  tracks:
-#    - {title: "GeoSolutions Headquarter", color: "#0cb851"}
-#  timeslots:
-#    - {
-#    	startTime: "09:00",
-#    	endTime: "18:00",
-#    	sessionIds: [444]
-#    }
+-
+  date: "2020-12-07"
+  dateReadable: "Monday December 07"
+  tracks:
+    - {title: "Virtual Summit Room", color: "#0cb851"}
+    - {title: "Virtual Workshop Room A", color: "#D3A90F"}
+    - {title: "Virtual Workshop Room B", color: "#375BE6"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "08:35",
+    	sessionIds: [101]
+    }
+    - {
+    	startTime: "08:35",
+    	endTime: "09:00",
+    	sessionIds: [102]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "09:25",
+    	sessionIds: [103]
+    }
+    - {
+    	startTime: "09:25",
+    	endTime: "09:35",
+    	sessionIds: [998]
+    }
+    - {
+    	startTime: "09:35",
+    	endTime: "10:00",
+    	sessionIds: [104]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:20",
+    	sessionIds: [105]
+    }
+    - {
+    	startTime: "10:20",
+    	endTime: "10:50",
+    	sessionIds: [106]
+    }
+    - {
+    	startTime: "10:50",
+    	endTime: "11:00",
+    	sessionIds: [998]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:10",
+    	sessionIds: [107]
+    }
+    - {
+    	startTime: "11:10",
+    	endTime: "11:40",
+    	sessionIds: [108]
+    }
+    - {
+    	startTime: "11:40",
+    	endTime: "12:00",
+    	sessionIds: [107]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "13:00",
+    	sessionIds: [999]
+    }
+    - {
+    	startTime: "13:00",
+    	endTime: "13:30",
+    	sessionIds: [404, 201, 211]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:00",
+    	sessionIds: [404, 202, 211]
+    }
+    - {
+		startTime: "14:00",
+		endTime: "14:20",
+		sessionIds: [110]
+	}
+    - {
+		startTime: "14:20",
+		endTime: "14:30",
+		sessionIds: [ 998 ]
+	}
+    - {
+		startTime: "14:30",
+		endTime: "16:30",
+		sessionIds: [404, 203, 212 ]
+	}
+    - {
+		startTime: "16:30",
+		endTime: "16:45",
+		sessionIds: [ 998 ]
+	}
+    - {
+    	startTime: "16:45",
+    	endTime: "17:00",
+    	sessionIds: [111]
+    }
+-
+  date: "2020-12-08"
+  dateReadable: "Tuesday December 08"
+  tracks:
+    - {title: "Virtual Summit Room", color: "#0cb851"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "17:00",
+    	sessionIds: [300]
+    }
+-
+  date: "2020-12-09"
+  dateReadable: "Wednesday December 09"
+  tracks:
+    - {title: "Virtual Summit Room", color: "#0cb851"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "17:00",
+    	sessionIds: [300]
+    }

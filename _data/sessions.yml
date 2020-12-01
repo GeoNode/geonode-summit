@@ -1,50 +1,234 @@
-#-
-#  id: 999
-#  title: "Coffee Break"
-#  place: "Hall"
-#  service: true
-#  description: "The best time for networking"
-#-
-#  id: 888
-#  title: "Lunch Break"
-#  place: "Grand Hotel Royal restaurant"
-#  description: "Lunch at the Grand Hotel Royal restaurant."
-#  service: true
-#-
-#  id: 777
-#  title: "Welcoming"
-#  place: "Grand Hotel Royal"
-#  description: "Simone Giannecchini, Founder & Director at GeoSolutions S.A.S., will give a warm welcome and address the GeoNode Summit."
-#  service: true
-#  speakers: [1]
-#-
-#  id: 666
-#  title: "Group Photo"
-#  service: true
-#-
-#  id: 555
-#  title: "Social Dinner"
-#  place: "TBD"
-#  description: "Apericena on the seaside promenade at Fanatiko Beach Bar. Register here http://bit.ly/summit2019-se"
-#  service: true
-#-
-#  id: 444
-#  title: "Code Sprint"
-#  place: "GeoSolutions Headquarter"
-#  description: "A sprint is getting contributors together and work on Open Source software, testing, documentation and providing feedback. There are roles needed to be filled, no matter what your expertise, so everyone is welcome. This code sprint goal is working on the GeoNode version 2.10."
-#  subtype: workshop
+-
+  id: 100
+  title: "Welcoming"
+  place: "Virtual Summit Room"
+  description: "Florian Hoedt, head of geoinformatics at the Thünen-Institute and GeoNode PSC member, will give a warm welcome and address the GeoNode Summit."
+  subtype: talk
+  speakers: [0]
+-
+  id: 101
+  title: "Welcome to a year with GeoNode in review"
+  place: "Virtual Summit Room"
+  description: "The year 2020 was special, everyone knows that. We welcome all of you and review what happened in the GeoNode community and glimpse at upcoming features."
+  subtype: talk
+  speakers: [0]
+-
+  id: 102
+  title: "My first steps into free and open-source software – GeoNode 3"
+  place: "Virtual Summit Room"
+  description: "Despite enjoying the freedoms of open-source software as a user, many developers may not have
+                experience actually contributing to an open source project. As one such user, and possessing no
+                prior knowledge of GIS, GeoNode 3 became my first contribution to an open-source platform, let
+                alone an open-source geospatial platform. My involvement includes the upgrade from the Python 2-
+                based application to the present-day version and continues to this day with full PostGIS integration
+                right around the corner. This talk will focus on my journey to becoming a free and open-source
+                software developer, the challenges I encountered and opportunities I was given. I will share my
+                perspective on becoming a FOSS developer on an international project while working remotely
+                from my home in New Zealand. In doing so, I aim to highlight and discuss my ideas to make open-
+                source technologies more accessible for future contributors."
+  subtype: talk
+  speakers: [13]
+-
+  id: 103
+  title: "How GeoNode helps broadband expansion in Germany"
+  place: "Virtual Summit Room"
+  description: "As the project sponsor of the funding program for the expansion of Gigabit Internet on behalf of the Federal
+                Ministry of Transport and Digital Infrastructure, the atene KOM GmbH has to manage hundreds of funding
+                applications of communes in Germany. One requirement of the funding application is a network plan,
+                containing multiple layers of the broadband network in the region of the funding applicant.
+                We use GeoNode to manage the datasets and provide preconfigured maps to our colleagues which are in
+                charge of checking the individual network plans. During the years our GeoNode Stack was filled up with
+                more than 30000 layers in over 2300 maps. In the presentation, I will focus on the workflow of the
+                automatic import and configuration of the layers and maps as well as address challenges we have to deal
+                with the growing number of datasets.
+                In addition to the internal use of GeoNode, we host multiple GeoNode instances for external customers,
+                also in the field of broadband expansion. Here, we developed custom features which will be shown in the
+                presentation."
+  subtype: talk
+  speakers: [10]
+-
+  id: 104
+  title: "FAIR data management from a research institute's perspective: GeoNode at IGB"
+  place: "Virtual Summit Room"
+  description: "The Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB) is Germany’s largest
+                and one of the leading international freshwater research institutes. Large amounts of research data and geodata are produced every year,
+                therefore optimizing data management following the FAIR data principles is at the core of IGB's
+                integrative research approach.
+                The IGB GeoNode instance was implemented by GeoSolutions in 2019. We will briefly talk
+                about the requirements of a large research institute, lessons learned, and the resulting
+                developments and contributions to the GeoNode community."
+  subtype: talk
+  speakers: [6, 7]
+-
+  id: 105
+  title: "Geonode implementation in the International Fund for Agricultural Development"
+  place: "Virtual Summit Room"
+  description: "At the International Fund for Agricultural Development (IFAD) we invest in rural people,
+                empowering them to increase their food security, improve the nutrition of their families,
+                and increase their incomes. We help them build resilience, expand their businesses, and take
+                charge of their own development.
+                We use GIS in many ways: to identify strategic national priorities, for targeted project design,
+                in supervision missions, for monitoring and evaluation.
+                Geonode has been in use in IFAD since 2017 and it has become the backbone of the GIS
+                infrastructure in IFAD, serving as a foundation for the Enterprise FOSS GIS. It provides a
+                centralized visual catalog of 500+ spatial layers and a starting point for a number of custom
+                applications and integration with third party systems."
+  subtype: talk
+  speakers: [12]
+-
+  id: 106
+  title: "pygeoapi: a possible future GeoNode backend?"
+  place: "Virtual Summit Room"
+  description: "The proliferation of REST as an architectural style as well as OpenAPI has resulted in broader adoption of a leaner service contract and the OGC developing a
+                new generation of API specifications in support of discovery, access, visualization and processing of geospatial data. These efforts are aimed to lower the barrier
+                to implementation, especially for mass-market/non-geospatial developers.
+                pygeoapi is an OGC Reference Implementation compliant with the OGC API - Features specification. Implemented in Python, pygeoapi supports many other OGC
+                APIs via the Flask web framework and a fully integrated OpenAPI structure. Lightweight, easy to deploy and cloud-ready, pygeoapi's architecture facilitates publishing
+                datasets and processes from multiple sources. Implementations of other OGC APIs are in progress for the 1.0 roadmap, including gridded/coverage data (OGC API -
+                Coverages), search (OGC API - Records), and vector/map tiles (OGC API - Tiles). pygeoapi is a community project of the Open Source Geospatial Foundation (OSGeo).
+                pygeoapi follows a clear separation structure with a view, provider/plugin and entry point module. The view approach allows for easy integration with other Python
+                web frameworks like Starlette and Django. The provider abstracts connectivity to numerous data sources (CSV, SQLite3, GeoJSON, Elasticsearch, GDAL/OGR) and
+                provides extensibility to support additional formats, databases, object storage and more."
+  subtype: talk
+  speakers: [2, 3, 11]
+-
+  id: 107
+  title: "Track geospatial & non-geospatial data edits with Github and start using APIs today."
+  place: "Virtual Summit Room"
+  description: "In this lightning talk we will see how we can record, compare and visualize changes to GeoNode with only writing one line of code."
+  subtype: talk
+  speakers: [9]
+-
+  id: 108
+  title: "Integration of Sensor Web Components into the GeoNode Ecosystem"
+  place: "Virtual Summit Room"
+  description: "Recent developments in the field of research data infrastructures (RDIs) have shown that
+                efficient management of geodata for researchers and their projects becomes increasingly
+                important. Besides the storage, discovery and presentation of classic geodata (raster, vector),
+                additional data types will come into focus. While GeoNode is already suitable for managing
+                aforementioned classic geodata, an integration of (near real-time) sensor and time series
+                datasets (e.g. air quality, agriculture,water management, traffic,) can provide benefits for
+                researchers, data scientists as well as the GeoNode software landscape. In this short
+                presentation we outline a possible integration of OGC-compliant 52°North Open Source
+                software solutions (i.e. OGC Sensor Observation Service and SensorThings API). Besides a
+                short technological demonstration of existing software components, we conceptualize initial
+                ideas on possible integration patterns as well as key interfaces for a successful realization."
+  subtype: talk
+  speakers: [14]
+-
+  id: 109
+  title: "CartoView a Special GeoNode Project Template featuring an Appstore for GeoNode and a Windows Installer"
+  place: "Virtual Summit Room"
+  description: "In this presentation we will show a highly customized project template for GeoNode. CartoView is
+                a full GeoNode project template offering a windows installer and an app store for installing web
+                apps at run time. CartoView is 100% open source free to use and free to modify aiming to provide
+                a ready-to-use different feel professional experience for GeoNode. We will present CartoView
+                and GeoNode ecosystem and go through 3 advanced CartoView app examples. 1) Integrating
+                GeoNode with Wagtail. 2) Ingesting ArcGIS Server Services data to GeoNode Layers. 3) Full
+                Backup and Restore of GeoNode Content from Geopackages."
+  subtype: talk
+  speakers: [8]
+-
+  id: 110
+  title: "Extending Geonode to Support Historical Map Georeferencing"
+  place: "Virtual Summit Room"
+  description: "In this presentation, I will begin with background on the concept of crowdsourced
+                georeferencing—a strategy used by many historical map archives to enhance their digital collections.
+                By supporting map georeferencing in a browser-based platform, the labor-intensive process of
+                transforming each scan in a large institutional collection can be distributed among interested members
+                of the public. For my current masters degree research, I am using GeoNode as the basis for my own
+                contribution to this field. By creating an extension on GeoNode that provides a georeferencing
+                interface, users will be able to turn Documents (scanned historical maps) into Layers
+                (GeoTIFFs/WMS). I will share details about my technical strategies and progress thus far. I see great
+                potential for a fully open source and modern tech stack like GeoNode (and its constituent parts) to not
+                only support crowdsourced georeferencing, but also build small “georeferencing communities” through
+                user interaction and collaboration."
+  subtype: talk
+  speakers: [5]
+-
+  id: 111
+  title: "Wrap Up"
+  place: "Virtual Summit Room"
+  description: "We will summarize today's discussion outcomes and say farewell."
+  subtype: talk
+  speakers: [0]
+-
+  id: 201
+  title: "Workshop - Developing for GeoNode on Windows with VirtualBox and PyCharm CE"
+  place: "Virtual Workshop Room A"
+  description: "We will use a Ubuntu 20 box with PycharmCE to get up and running for GeoNode development. We will use some of the
+                Pycharm CE features to help us debug and manage our code."
+  subtype: workshop
+  speakers: [0]
+  #presentation: "http://docs.geonode.org/en/master/install/index.html"
+-
+  id: 202
+  title: "Workshop - Cross Platform Mobile Applications for GeoNode"
+  place: "Virtual Workshop Room A"
+  description: "In this workshop I will be making a simple cross platform mobile application that uses GeoNode
+                as a standalone backend. No development will be performed on the GeoNode side, only simple
+                administration. The mobile application will authenticate from GeoNode then will display
+                authorized content only. The mobile application will be developed using Ionic5 and ReactJS in
+                conjunction with Capacitor. The source code will be available on GitHub afterwards."
+  subtype: workshop
+  speakers: [15]
+#  presentation: "http://docs.geonode.org/en/master/install/index.html"
+-
+  id: 203
+  title: "Workshop - Customizing and Extending MapStore"
+  place: "Virtual Workshop Room A"
+  description: "MapStore is an Open Source WebGIS framework based on ReactJS and it’s used by GeoNode as default maps/layers viewer. This workshop will provide an initial overview of the MapStore client and it’s own integration inside GeoNode followed by some examples on the possibility to customize and/or extend the viewer.
+
+                Summary of main topics we will try to cover in the workshop:
+
+                    Overview of the structure/configuration of the client
+                    Running in the client in developer mode
+                    Working with MapStore2 plugins"
+  subtype: workshop
+  speakers: [4]
+  presentation: "http://docs.geonode.org/en/master/install/index.html"
+-
+  id: 211
+  title: "Workshop - Using GeoNodes new features"
+  place: "Virtual Workshop Room B"
+  description: "The workshop will cover the new features and shows how to use GeoNode in many different scenarios."
+  subtype: workshop
+  speakers: [1]
+#  presentation: "http://docs.geonode.org/en/master/install/index.html"
+-
+  id: 212
+  title: "Workshop - Installing, configuring, administering and using GeoNode"
+  place: "Virtual Workshop Room B"
+  description: "The workshop will show best practices on production GeoNode deployments: sanity checks, further optimizations and async mode."
+  subtype: workshop
+  speakers: [1]
+#  presentation: "http://docs.geonode.org/en/master/install/index.html"
+
+-
+  id: 998
+  title: "Coffee / Bio Break"
+  place: "Virtual Summit Room"
+  service: true
+  description: "Get yourself refreshed"
+-
+  id: 999
+  title: "Lunch Break"
+  place: "Virtual Summit Room"
+  description: "You get your lunch | We deliver topics to discuss."
+  service: true
+-
+  id: 300
+  title: "Code Sprint"
+  place: "Virtual Summit Room"
+  description: "A sprint is getting contributors together and work on Open Source software, testing, documentation and providing feedback. There are roles needed to be filled, no matter what your expertise, so everyone is welcome. This code sprint goal is working on the GeoNode version 2.10."
+  subtype: workshop
+
 #-
 #  id: 333
 #  title: "Social Event"
 #  description: "Walk on the seaside promenade"
 #  service: true
-#-
-#  id: 101
-#  title: "Workshop - Installing, configuring, administering and using GeoNode - Part 1"
-#  description: "The workshop will touch all the topics from installation, configuration, administration and usage of GeoNode. It will cover tipical functionalities and use cases a GeoNode user, either Administrator or Standard, will face. Installatio and systme configuration. Accounts, users and groups. Resource types handled by GeoNode, how to upload, set permissions, edit metadata and tweak to improve your portal usability. Management of geospatial datasets, diffrent types and how to nicely apply styling to them. Creation of Maps, and share them with the world. Accessing GeoNode from other Desktop and Web GIS applications. As an Administrator, manage the GeoNode data, troubleshoot and fix the most common issues."
-#  subtype: workshop
-#  speakers: [1, 3]
-#  presentation: "http://docs.geonode.org/en/master/install/index.html"
+
 #-
 #  id: 102
 #  title: "Workshop - Installing, configuring, administering and using GeoNode - Part 2"

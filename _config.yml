@@ -60,9 +60,9 @@ typeoutFallback: ""
 heroMessage: ""
 heroButtons:
 # - {link: "/blog/Save-the-date-Summit-2020", text: "More Information"}
-# - {link: "/schedule/", text: "Summit Schedule"}
+ - {link: "/schedule/", text: "See Schedule"}
  - {link: "/registration/", text: "Register Now"}
- - {link: "/blog/call-for-presentations-workshops-again", text: "Submit Presentation / Workshop Proposal"}
+# - {link: "/blog/call-for-presentations-workshops-again", text: "Submit Presentation / Workshop Proposal"}
  # - {link: "http://bit.ly/summit2019-se", text: "Social Dinner Registration"}
 
 # About Block
@@ -99,9 +99,9 @@ eventAddressLocality: "Brunswick"
 eventAddressLocalityRegion: "Lower-Saxony"
 eventPostalCode: "38116"
 eventAddressCountry: "Germany"
-eventStartTime: "#"
+eventStartTime: "08:00 UTC"
 eventDoorTime: "#"
-eventEndTime: "#"
+eventEndTime: "17:00 UTC"
 eventPlaceCoordinates: "#"
 mapCenterCoordinates: "#"
 mapMobileCenterCoordinates: "#"
@@ -150,7 +150,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {link: "/registration/", text: "Register"}
-   - {link: "/blog/call-for-presentations-workshops-again", text: "Submit a presentation"}
+   - {link: "/schedule/", text: "Schedule"}
   #  - {permalink: "/blog/how-to-get-to-the-venue-thuenen", text: "How to get to the venue"}
    - {permalink: "/cod/", text: "Code of Conduct"}
 
@@ -214,9 +214,9 @@ directionDetailsWideCards:
      title: "How to"
      links:
       - {link: "/registration/", text: "Register"}
-      - {link: "/blog/call-for-presentations-workshops-again", text: "Submit a presentation"}
+ #     - {link: "/blog/call-for-presentations-workshops-again", text: "Submit a presentation"}
     -
      title: "Attendance Details"
      links:
-#      - {link: "/blog/accommodation", text: "Recommended Hotels"}
+      - {link: "/schedule/", text: "Schedule"}
       - {permalink: "/cod/", text: "Code of Conduct"}
