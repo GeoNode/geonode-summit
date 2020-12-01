@@ -1,11 +1,4 @@
 -
-  id: 100
-  title: "Welcoming"
-  place: "Virtual Summit Room"
-  description: "Florian Hoedt, head of geoinformatics at the Thünen-Institute and GeoNode PSC member, will give a warm welcome and address the GeoNode Summit."
-  subtype: talk
-  speakers: [0]
--
   id: 101
   title: "Welcome to a year with GeoNode in review"
   place: "Virtual Summit Room"
