@@ -133,12 +133,17 @@
   id: 11
   name: "Angelos"
   surname: "Tzotsos"
-  company: "Open Source Geospatial Foundation"
-  bio: ""
-  thumbnailUrl: default.jpg
+  company: "OSGeo"
+  bio: "Angelos is a remote sensing expert with background in surveying engineering and software development.
+        He is involved in numerous activities around free and open source software and has great experience in geospatial
+        applications, geospatial data catalogues and metadata. His research involves remote sensing, machine learning,
+        computer vision and object-based image analysis. He is currently the President of OSGeo and also serves at the OSGeo
+        Board of Directors. He is an active advocate of OSGeo in Greece at related conferences. He is also an individual OGC
+        member. His recent activity involved implementation of data.gov catalog service and implementation of the Greek
+        national open data portal geodata.gov.gr."
+  thumbnailUrl: Tzotsos.jpg
   rockstar: true
   social:
-#    - {name: "researchgate", link: "https://www.researchgate.net/profile/Sami_Domisch"}
     - {name: "github", link: "https://github.com/kalxas"}
     - {name: "twitter", link: "https://twitter.com/tzotsos"}
 -
