@@ -43,7 +43,7 @@
           evolving OGC API standards."
   thumbnailUrl: tomkralidis.JPG
   rockstar: true
-  social links:
+  social:
     - { name: "twitter", link: "https://twitter.com/tomkralidis" }
     - { name: "github", link: "https://github.com/tomkralidis" }
 -
