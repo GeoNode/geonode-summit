@@ -154,6 +154,33 @@
   subtype: talk
   speakers: [0]
 -
+  id: 112
+  title: "(requested) The Open Access Database of the GEMex H2020 project"
+  place: "Virtual Summit Room"
+  description: "The GEMex was a 3 year and half project on a cooperation in Geothermal energy research between
+                Europe-Mexico for development of two different geothermal areas in a complementary effort of a European
+                consortium with a corresponding consortium from Mexico.The GEMex project focused on these three pillars
+                on both areas: i) resource assessment, ii) Reservoir characterization and iii) concept development.
+                Geothermal data, in the form of maps, datasets and models were organized and collected in an open access
+                 database and made available in a spatial data infrastructure according to international standards and
+                 protocols.The GeoNode Open Source Geospatial Content Management System was chosen as web-based
+                 application to deploy the GEMex spatial data infrastructure. To this aim, beside the GeoNode system
+                 installation and configuration initially at the version2.4, a procedure to prepare the datasets and
+                 the metadata was defined to facilitate and speed-up the datasets uploading. In order to maximize the
+                 discovery effectiveness, some specific categories were created on the platform as geology,
+                 geochemistry, geophysics, modelling because related to the main produced datasets. At the end of the
+                 project, more than 120 different datasets were stored as layers into the GeoNode platform (migrated to
+                 the 3.1 version) and 15 maps were created to combine different layer by study area or theme. The
+                 geological and geophysical cross-section vector layers were even prepared embedding in their attribute
+                 table the URL of the cross-section images, which they could be accessed directly by click on the
+                 getFeatureInfo box. Researchers belonging to the project consortium took the advantage of this kind of
+                 tool to easily share and get needed datasets for their research activity but even Mexican SME
+                 interested in geothermal business has used and are using the Open Access Database. This contribution
+                 can be classified as case study and it is aimed to describe how GeoNode was used for a
+                 EU Geothermal project."
+  subtype: talk
+  speakers: [17]
+-
   id: 201
   title: "Workshop - Developing for GeoNode on Windows with VirtualBox and PyCharm CE"
   place: "Virtual Workshop Room A"
@@ -195,6 +222,14 @@
   description: "The workshop will cover the new features and shows how to use GeoNode in many different scenarios."
   subtype: workshop
   speakers: [1]
+#  presentation: "http://docs.geonode.org/en/master/install/index.html"
+-
+  id: 213
+  title: "Workshop - The MapStore mapping client"
+  place: "Virtual Workshop Room B"
+  description: "The workshop will focus on the new features for the default mapping client MapStore2."
+  subtype: workshop
+  speakers: [4, 1]
 #  presentation: "http://docs.geonode.org/en/master/install/index.html"
 -
   id: 212
