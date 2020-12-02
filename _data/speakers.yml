@@ -120,11 +120,12 @@
   name: "Toni"
   surname: "Schönbuchner"
   company: "CSGIS"
-  bio: "Toni is a full stack developer with strong belief in Open-Source and part of the GeoNode Project-Steering-Committee."
-  thumbnailUrl: default.jpg
+  bio: "I'm working as a full stack developer and stake holding Partner of CSGIS. My focus is on design, security and maintenance of data centric systems"
+  thumbnailUrl: toni.jpg
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/t-book"}
+    - {name: "twitter", link: "https://twitter.com/tschoenbuchner"}
 
 -
   id: 10
