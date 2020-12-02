@@ -58,20 +58,21 @@
     - {name: "twitter", link: "https://twitter.com/allyoucanmap"}
     - {name: "github", link: "https://github.com/allyoucanmap"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/stefano-bovio"}
-
 -
   id: 5
   name: "Adam"
   surname: "Cox"
-#  company: "GeoSolutions"
-  bio: "Adam Cox has worked as a geospatial developer since 2011, generally in the field of cultural resource management and heritage inventories. As an independent consultant, for many years he has been a service provider for and contributor to the Arches project, an open source web-based inventory platform for cultural heritage databases. He is currently pursuing masters degrees in Geography and Library Information Science at Louisiana State University in Baton Rouge, Louisiana."
-  thumbnailUrl: default.jpg
+  company: "Louisiana State University, Legion GIS"
+  bio: "Adam Cox is currently a graduate student at Louisiana State University, and owner of Legion GIS, LLC.
+        He has worked as a geospatial developer for many years, focusing on open source software and heritage preservation.
+        Since 2014 he has been a service provider for and contributor to the Arches project, an open source web-based
+        inventory platform for cultural heritage databases. He is currently pursuing masters degrees in Geography and
+        Library Information Science, and lives in Baton Rouge, Louisiana."
+  thumbnailUrl: adamcox.jpg
   rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/allyoucanmap"}
-#    - {name: "github", link: "https://github.com/allyoucanmap"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/stefano-bovio"}
-
+  social:
+    - {name: "twitter", link: "https://twitter.com/mradamcox"}
+    - {name: "github", link: "https://github.com/mradamcox"}
 -
   id: 6
   name: "Vanessa"
@@ -103,10 +104,11 @@
   surname: "Osman"
   company: "Cartologic"
   bio: "Mr. Osman has many years of experience in the development, implementation and management of shortterm and long-term GIS-based solutions including several International multimillion-dollar projects. Mr. Osman has been managing, developing, and implementing GIS Desktop and Web systems since 1993. Over those years he took different roles in the GIS Application Development industry, participated in projects as a developer/programmer, consultant, and a manager, and in both public and private sectors. He worked with ESRI (the market leader of the GIS field) for 10 years on projects varying in scale, size, technology, and duration. Following the ESRI journey Mr. Osman established CartoLogic at 2006, a geospatial professional service company offering hybrid and open source geospatial solutions and services. Mr. Osman is now deeply involved in implementing projects with various open source technologies and bridging the gap between the proprietary and the open geo worlds."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: ahmedosman.jpg
   rockstar: true
   social:
-#    - {name: "researchgate", link: "https://www.researchgate.net/profile/Sami_Domisch"}
+    - {name: "github", link: "https://github.com/ahmednosman"}
+    - {name: "twitter", link: "https://twitter.com/ahmednosman"}
 -
   id: 9
   name: "Toni"
@@ -120,15 +122,18 @@
 
 -
   id: 10
-  name: "Steffan"
+  name: "Steffen"
   surname: "Berger"
   company: "ateneKOM GmbH | Agentur für Kommunikation, Organisation und Management"
-  bio: ""
-  thumbnailUrl: default.jpg
+  bio: "Steffen has a degree in Geodesy and Geoinformatics with focus on processing and analysing volunteered
+        geographic information. As a fullstack developer at atene KOM he mainly works on GeoNode and other
+        GIS-related software products."
+  thumbnailUrl: steffenberger.jpeg
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/sjohn-atenekom"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/steffenberger"}
+    - {name: "twitter", link: "https://twitter.com/stberg_os"}
 -
   id: 11
   name: "Angelos"
@@ -202,7 +207,20 @@
   social:
 #    - {name: "github", link: "https://github.com/mtnorthcott"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ibrahimhamid/"}
-
+-
+  id: 16
+  name: "Silvio"
+  surname: "Sygnetzki"
+  company: "ateneKOM GmbH | Agentur für Kommunikation, Organisation und Management"
+  bio: "Silvio prefers to spends his spare time in the nature and loves to use FOSS. He has a B. Sc. degree in
+        Business Informatics. At atene KOM he is responsible for the management of software projects –
+        preferred GeoNode-Projects."
+  thumbnailUrl: silvio.jpg
+  rockstar: true
+#  social:
+#    - {name: "github", link: "https://github.com/sjohn-atenekom"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/steffenberger"}
+#    - {name: "twitter", link: "https://twitter.com/stberg_os"}
 #-
 #  id: 99
 #  name: "This could be"

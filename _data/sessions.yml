@@ -4,7 +4,7 @@
   place: "Virtual Summit Room"
   description: "The year 2020 was special, everyone knows that. We welcome all of you and review what happened in the GeoNode community and glimpse at upcoming features."
   subtype: talk
-  speakers: [0]
+  speakers: [0,9]
 -
   id: 102
   title: "My first steps into free and open-source software – GeoNode 3"
@@ -38,7 +38,7 @@
                 also in the field of broadband expansion. Here, we developed custom features which will be shown in the
                 presentation."
   subtype: talk
-  speakers: [10]
+  speakers: [10,16]
 -
   id: 104
   title: "FAIR data management from a research institute's perspective: GeoNode at IGB"
