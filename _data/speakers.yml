@@ -235,12 +235,12 @@
     (SDI) management, geothermal resource assessment, modelling using Geographical Information Systems (GIS),
     geothermal data integration, 3D geological modelling. He has more than 10 years of experience in geothermal energy
      and he has contributed in National and European geothermal projects"
-  thumbnailUrl: default.jpg
+  thumbnailUrl: eugenio.jpg
   rockstar: true
-#  social:
-#    - {name: "github", link: "https://github.com/?"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/?"}
-#    - {name: "twitter", link: "https://twitter.com/?"}
+  social:
+    - {name: "github", link: "https://github.com/frippe12573"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eugenio-trumpy-83415239/"}
+    - {name: "site", link: "https://www.researchgate.net/profile/Eugenio_Trumpy"}
 #-
 #  id: 99
 #  name: "This could be"
