@@ -91,7 +91,7 @@
                 [3] https://ogcapi.ogc.org
                 [4] https://pygeoapi.io"
   subtype: talk
-  speakers: [2, 3, 11]
+  speakers: [2, 3, 11, 18]
 -
   id: 107
   title: "Track geospatial & non-geospatial data edits with Github and start using APIs today."

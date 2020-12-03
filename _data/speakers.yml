@@ -210,7 +210,7 @@
         ever since. I’ve worked with various technologies (frontend – backend – devops) applied in
         different sectors (telecommunications- banking – governmental) and I’ve delivered many
         projects, locally and overseas."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: ibrahim.jpg
   rockstar: true
   social:
 #    - {name: "github", link: "https://github.com/mtnorthcott"}
@@ -241,6 +241,29 @@
     - {name: "github", link: "https://github.com/frippe12573"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/eugenio-trumpy-83415239/"}
     - {name: "site", link: "https://www.researchgate.net/profile/Eugenio_Trumpy"}
+-
+  id: 18
+  name: "Just"
+  surname: "van den Broecke"
+  company: ""
+  bio: "Independent Open Source geospatial developer, always exploring new
+        directions.
+        Entered the geospatial domain 15 years ago after a career as software
+        engineer in telecom at AT&T Bell Labs/Lucent.
+        Loves the outdoors, hiking and such, often accompanied by Labrador Jamie.
+        Active in various Open Source geospatial communities and projects:
+        OSGeo.org Charter Member, OSGeo.nl Local Chapter chair of the board,
+        core contributor in Python projects like GeoHealthCheck, Stetl
+        (Geospatial ETL in Python) and pygeoapi.
+        Speaker at conferences like FOSS4G, FOSS4G-NL, FOSS4G-EU, FOSSGIS and
+        GeoPython."
+  thumbnailUrl: just.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/justb4"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/justb4/"}
+    - {name: "site", link: "https://justobjects.nl"}
+    - {name: "twitter", link: "https://twitter.com/justb4"}
 #-
 #  id: 99
 #  name: "This could be"
