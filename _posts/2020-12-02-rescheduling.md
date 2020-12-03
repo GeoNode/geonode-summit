@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revised schedule is online"
-date:   2020-12-09 14:30:00
+date:   2020-12-02 14:30:00
 isStaticPost: false
 ---
 #### We had to reschedule!
