@@ -177,7 +177,7 @@
   surname: "Northcott"
   company: "Catalyst IT New Zealand"
   bio: "I am a 22-year old Graduate Developer currently working at Catalyst IT from their office in Christchurch, New Zealand, the town I was born and raised. I studied Computer Engineering at the University of Canterbury and have a passion for electronics, computer software and hardware. I’ve worked on numerous projects both inside and outside the University including the 2019 FSAE Formula Student motorsport event. I had no experience with GIS and had not contributed to an open source project until joining Catalyst IT in November 2019 where I started work on GeoNode 3 as an intern project."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: matthew.jpg
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/mtnorthcott"}
