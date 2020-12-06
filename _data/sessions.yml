@@ -188,7 +188,7 @@
                 Pycharm CE features to help us debug and manage our code."
   subtype: workshop
   speakers: [0]
-  #presentation: "http://docs.geonode.org/en/master/install/index.html"
+  presentation: "https://github.com/gannebamm/geonode-workshop/tree/main/00_getStarted"
 -
   id: 202
   title: "Workshop - Cross Platform Mobile Applications for GeoNode"
