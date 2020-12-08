@@ -5,6 +5,7 @@
   description: "The year 2020 was special, everyone knows that. We welcome all of you and review what happened in the GeoNode community and glimpse at upcoming features."
   subtype: talk
   speakers: [0,1,9]
+  presentation: "../presentation/2020/a_year_in_review.pdf"
 -
   id: 102
   title: "My first steps into free and open-source software – GeoNode 3"
@@ -91,6 +92,7 @@
                 [3] https://ogcapi.ogc.org
                 [4] https://pygeoapi.io"
   subtype: talk
+  presentation: "https://pygeoapi.io/presentations/default/"
   speakers: [2, 3, 11, 18]
 -
   id: 107
@@ -116,6 +118,7 @@
                 ideas on possible integration patterns as well as key interfaces for a successful realization."
   subtype: talk
   speakers: [14]
+  presentation: "/presentation/2020/52n_sensor_components.pdf"
 -
   id: 109
   title: "CartoView a Special GeoNode Project Template featuring an Appstore for GeoNode and a Windows Installer"
@@ -200,7 +203,7 @@
                 conjunction with Capacitor. The source code will be available on GitHub afterwards."
   subtype: workshop
   speakers: [15]
-#  presentation: "http://docs.geonode.org/en/master/install/index.html"
+  presentation: "https://github.com/cartologic/geonode-mobile-sample"
 -
   id: 203
   title: "Workshop - Customizing and Extending MapStore"
@@ -214,7 +217,7 @@
                     Working with MapStore2 plugins"
   subtype: workshop
   speakers: [4]
-  presentation: "http://docs.geonode.org/en/master/install/index.html"
+  #presentation: "http://docs.geonode.org/en/master/install/index.html"
 -
   id: 211
   title: "Workshop - Using GeoNodes new features"
