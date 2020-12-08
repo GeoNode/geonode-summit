@@ -40,6 +40,7 @@
                 presentation."
   subtype: talk
   speakers: [10,16]
+  presentation: "../presentation/2020/201207_ateneKOM_GeoNode_summit_2020.pdf"
 -
   id: 104
   title: "FAIR data management from a research institute's perspective: GeoNode at IGB"
