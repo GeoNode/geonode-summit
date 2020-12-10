@@ -155,7 +155,7 @@
                 user interaction and collaboration."
   subtype: talk
   speakers: [5]
-  #presentation: "TBD"
+  presentation: "https://docs.google.com/presentation/d/1CGCkaLWZiH1v_DWF-bpQwcWMF2aaGvcQDsi3tJlIVxk/edit?usp=sharing"
 -
   id: 111
   title: "Wrap Up"
