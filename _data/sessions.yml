@@ -55,7 +55,7 @@
                 developments and contributions to the GeoNode community."
   subtype: talk
   speakers: [6, 7]
-  #presentation: "TBD"
+  presentation: "../presentation/2020/20201207_IGB_GeoNode_for_FAIR_data_management.pdf"
 -
   id: 105
   title: "Geonode implementation in the International Fund for Agricultural Development"
