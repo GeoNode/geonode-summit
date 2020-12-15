@@ -225,7 +225,7 @@
                     Working with MapStore2 plugins"
   subtype: workshop
   speakers: [4]
-  #presentation: "TBD"
+  presentation: "https://github.com/GeoNode/geonode-mapstore-client/tree/geonode-summit-2020"
 -
   id: 211
   title: "Workshop - Using GeoNodes new features"
@@ -249,7 +249,7 @@
   description: "The workshop will show best practices on production GeoNode deployments: sanity checks, further optimizations and async mode."
   subtype: workshop
   speakers: [1]
-  #presentation: "TBD"
+  presentation: "https://docs.geonode.org/en/master/install/advanced/core/index.html#ubuntu-20-04lts"
 -
   id: 998
   title: "Coffee / Bio Break"
